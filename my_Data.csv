@@ -1,0 +1,3648 @@
+Age,Height,Weight,Gender,Body_Part,Exercise Name
+30,180,80,0,Shoulders,Alternating Dumbbell Front Raise
+60,179,79,0,Quadriceps,Prone Straight Leg Raises
+35,160,71,1,Quadriceps,Prone Straight Leg Raises
+28,172,67,1,Lower Back,Child's Pose
+16,156,70,1,Quadriceps,Hamstring Curl
+17,158,72,1,Quadriceps,Lunges
+39,181,90,0,Shoulders,Dumbbell Scaption
+50,172,73,0,Shoulders,Overhead Dumbbell Front Raise
+51,170,70,1,Neck,Neck Rotation
+52,180,80,0,Quadriceps,Hamstring Curl
+17,168,73,0,Quadriceps,Prone Straight Leg Raises
+15,166,64,0,Quadriceps,Dumbbell front squat
+20,157,65,1,Shoulders,Alternating Deltoid Raise
+21,188,102,0,Shoulders,Alternating Dumbbell Front Raise
+42,180,92,0,Quadriceps,Prone Straight Leg Raises
+30,168,62,1,Lower Back,Child's Pose
+36,179,78,0,Shoulders,Dumbbell External Shoulder Rotation
+28,171,64,1,Neck,Neck Rotation
+39,166,81,1,Quadriceps,Dumbbell front squat
+32,175,71,1,Lower Back,Knee To Chest Stretch
+37,175,70,0,Shoulders,Cuban Press
+26,168,63,1,Neck,CHIN TUCK - SUPIN
+41,178,72,0,Quadriceps,Prone Straight Leg Raises
+29,171,66,0,Lower Back,Knee To Chest Stretch
+44,179,74,0,Shoulders,Arom Side lying Abduction
+30,170,65,1,Neck,CHIN TUCK - SUPIN
+35,177,71,0,Quadriceps,Prone Straight Leg Raises
+28,169,67,1,Lower Back,Knee To Chest Stretch
+43,180,73,0,Shoulders,Dumbbell External Shoulder Rotation
+32,170,66,1,Neck,CHIN TUCK - SUPIN
+37,175,70,0,Quadriceps,Prone Straight Leg Raises
+26,168,63,1,Lower Back,Child's Pose
+41,178,72,0,Shoulders,Standing Dumbbell Fly
+29,179,88,0,Neck,Neck Rotation
+44,179,74,0,Quadriceps,Prone Straight Leg Raises
+30,170,65,1,Lower Back,Child's Pose
+35,177,71,0,Shoulders,Arom Side lying Abduction
+28,174,67,0,Neck,CHIN TUCK - SUPIN
+43,180,73,0,Quadriceps,Prone Straight Leg Raises
+32,170,66,1,Lower Back,Knee To Chest Stretch
+37,175,70,0,Shoulders,Arom Side lying Abduction
+26,168,63,1,Neck,Neck Rotation
+41,163,72,1,Quadriceps,Lunges
+29,171,66,0,Lower Back,Knee To Chest Stretch
+44,179,74,0,Shoulders,Arom Side lying Abduction
+30,170,65,1,Neck,Neck Rotation
+35,177,71,0,Quadriceps,Prone Straight Leg Raises
+28,185,94,0,Lower Back,Child's Pose
+43,180,73,0,Shoulders,Standing Dumbbell Fly
+32,170,66,1,Neck,CHIN TUCK - SUPIN
+37,175,70,0,Quadriceps,Lunges
+26,168,63,1,Lower Back,Child's Pose
+41,178,72,0,Shoulders,Standing Dumbbell Fly
+29,171,66,1,Neck,Neck Rotation
+44,179,74,0,Quadriceps,Lunges
+30,170,65,1,Lower Back,Knee To Chest Stretch
+35,177,71,0,Shoulders,Side Lateral Raise
+28,172,67,1,Neck,CHIN TUCK - SUPIN
+43,180,73,0,Quadriceps,Lunges
+32,170,66,1,Lower Back,Knee To Chest Stretch
+37,175,70,0,Shoulders,Standing Palms In Shoulder Press
+26,168,63,1,Neck,CHIN TUCK - SUPIN
+41,178,72,0,Quadriceps,Hamstring Curl
+29,171,66,1,Lower Back,Child's Pose
+44,159,74,1,Shoulders,Power Partials
+30,170,65,1,Neck,CHIN TUCK - SUPIN
+35,177,71,0,Quadriceps,Prone Straight Leg Raises
+28,172,67,1,Lower Back,Child's Pose
+43,162,73,1,Shoulders,Power Partials
+32,170,66,1,Neck,CHIN TUCK - SUPIN
+37,175,70,0,Quadriceps,Hamstring Curl
+26,171,68,0,Lower Back,Knee To Chest Stretch
+41,178,72,0,Shoulders,Standing Palms In Shoulder Press
+29,171,66,1,Neck,CHIN TUCK - SUPIN
+44,179,74,0,Quadriceps,Dumbbell front squat
+30,169,65,1,Lower Back,Knee To Chest Stretch
+35,177,71,0,Shoulders,Side Lateral Raise
+28,172,67,1,Neck,Neck Rotation
+43,180,73,0,Quadriceps,Dumbbell front squat
+32,170,66,1,Lower Back,Knee To Chest Stretch
+37,168,70,1,Shoulders,Standing Dumbbell Chest Fly
+26,168,63,1,Neck,Neck Rotation
+41,178,72,0,Quadriceps,Prone Straight Leg Raises
+29,171,66,1,Lower Back,Child's Pose
+44,179,74,0,Shoulders,Standing Dumbbell Chest Fly
+30,170,65,1,Neck,CHIN TUCK - SUPIN
+35,177,71,0,Quadriceps,Dumbbell front squat
+28,176,75,0,Lower Back,Knee To Chest Stretch
+43,180,73,0,Shoulders,Bent-Over Dumbbell Rear Delt Row
+32,170,66,1,Neck,Neck Rotation
+37,175,70,0,Quadriceps,Hamstring Curl
+26,168,63,1,Lower Back,Child's Pose
+41,178,72,0,Shoulders,Alternating Dumbbell Front Raise
+29,188,99,0,Neck,Neck Rotation
+44,179,74,0,Quadriceps,Prone Straight Leg Raises
+30,170,65,1,Lower Back,Knee To Chest Stretch
+35,177,71,0,Shoulders,Alternating Dumbbell Front Raise
+28,172,67,1,Neck,Neck Rotation
+43,180,73,0,Quadriceps,Dumbbell front squat
+32,170,66,1,Lower Back,Knee To Chest Stretch
+37,175,70,0,Shoulders,Arom Side lying Abduction
+26,168,63,1,Neck,Neck Rotation
+41,178,72,0,Quadriceps,Prone Straight Leg Raises
+29,171,66,1,Lower Back,Child's Pose
+44,179,74,0,Shoulders,Standing Palms In Shoulder Press
+30,170,65,1,Neck,CHIN TUCK - SUPIN
+35,177,71,0,Quadriceps,Prone Straight Leg Raises
+28,172,67,1,Lower Back,Child's Pose
+43,180,73,0,Shoulders,Arom Side lying Abduction
+32,160,66,1,Neck,CHIN TUCK - SUPIN
+26,168,63,1,Neck,CHIN TUCK - SUPIN
+41,178,72,0,Quadriceps,Dumbbell front squat
+29,171,66,1,Lower Back,Child's Pose
+44,179,74,0,Shoulders,Standing Dumbbell Shoulder Press
+30,170,65,1,Neck,Neck Rotation
+35,177,71,0,Quadriceps,Dumbbell front squat
+28,172,67,1,Lower Back,Child's Pose
+16,156,70,1,Quadriceps,Prone Straight Leg Raises
+17,158,72,1,Quadriceps,Dumbbell front squat
+29,162,75,1,Quadriceps,Dumbbell front squat
+25,154,68,1,Shoulders,Standing Dumbbell Shoulder Press
+22,155,50,1,Shoulders,Alternating Deltoid Raise
+35,159,60,1,Shoulders,Alternating Deltoid Raise
+35,179,85,0,Shoulders,Cuban Press
+36,162,65,1,Shoulders,Arom Side lying Abduction
+37,165,72,1,Shoulders,Cuban Press
+39,181,90,0,Shoulders,Bent-Over Dumbbell Rear Delt Row
+29,177,95,0,Shoulders,Standing Palms In Shoulder Press
+27,185,102,0,Shoulders,Alternating Dumbbell Front Raise
+29,183,105,0,Shoulders,Standing Palms In Shoulder Press
+24,182,90,0,Shoulders,Alternating Dumbbell Front Raise
+22,195,109,0,Shoulders,Bent-Over Dumbbell Rear Delt Row
+22,177,90,0,Quadriceps,Hamstring Curl
+22,173,79,0,Quadriceps,Prone Straight Leg Raises
+46,194,100,0,Quadriceps,Lunges
+48,173,78,1,Quadriceps,Lunges
+47,174,88,0,Quadriceps,Lunges
+47,175,78,0,Lower Back,Child's Pose
+44,175,92,0,Shoulders,Standing Dumbbell Fly
+41,174,80,1,Shoulders,Standing Dumbbell Fly
+41,178,76,0,Shoulders,Alternating Deltoid Raise
+42,175,70,0,Shoulders,Prone Horizontal Abduction
+47,182,76,0,Lower Back,Knee To Chest Stretch
+44,163,95,1,Lower Back,Child's Pose
+19,179,84,0,Lower Back,Knee To Chest Stretch
+19,153,45,1,Lower Back,Child's Pose
+19,155,48,1,Lower Back,Knee To Chest Stretch
+18,166,74,1,Neck,CHIN TUCK - SUPIN
+19,174,83,0,Neck,Neck Rotation
+37,175,70,0,Shoulders,Prone Horizontal Abduction
+26,168,63,1,Neck,Neck Rotation
+41,178,72,0,Quadriceps,Prone Straight Leg Raises
+29,171,66,1,Lower Back,Knee To Chest Stretch
+44,179,74,0,Shoulders,Prone Horizontal Abduction
+30,170,65,1,Neck,Neck Rotation
+35,177,71,0,Quadriceps,Hamstring Curl
+28,172,67,1,Lower Back,Child's Pose
+43,180,73,0,Shoulders,Dumbbell Front Raise
+32,170,66,1,Neck,Neck Rotation
+37,175,70,0,Quadriceps,Dumbbell front squat
+26,169,63,1,Lower Back,Knee To Chest Stretch
+41,178,72,0,Shoulders,Dumbbell External Shoulder Rotation
+29,171,66,1,Neck,Neck Rotation
+44,179,74,0,Quadriceps,Dumbbell front squat
+30,170,65,1,Lower Back,Knee To Chest Stretch
+35,177,71,0,Shoulders,Dumbbell Front Raise
+28,164,67,1,Neck,CHIN TUCK - SUPIN
+43,180,73,0,Quadriceps,Dumbbell front squat
+32,170,66,1,Lower Back,Knee To Chest Stretch
+37,175,70,0,Shoulders,Dumbbell External Shoulder Rotation
+26,168,63,1,Neck,Neck Rotation
+41,178,72,0,Quadriceps,Lunges
+29,171,66,1,Lower Back,Child's Pose
+44,179,74,0,Shoulders,Dumbbell External Shoulder Rotation
+30,170,65,1,Neck,CHIN TUCK - SUPIN
+35,177,71,0,Quadriceps,Hamstring Curl
+28,172,67,1,Lower Back,Child's Pose
+43,180,73,0,Shoulders,Dumbbell External Shoulder Rotation
+32,170,66,1,Neck,Neck Rotation
+37,175,70,0,Quadriceps,Lunges
+26,175,80,0,Lower Back,Child's Pose
+41,178,72,0,Shoulders,Bent-Over Dumbbell Rear Delt Row
+29,163,66,1,Neck,CHIN TUCK - SUPIN
+44,179,74,0,Quadriceps,Prone Straight Leg Raises
+30,170,65,1,Lower Back,Child's Pose
+35,177,71,0,Shoulders,Dumbbell Front Raise To Lateral Raise
+28,162,67,1,Neck,Neck Rotation
+43,180,73,0,Quadriceps,Prone Straight Leg Raises
+32,176,76,0,Lower Back,Knee To Chest Stretch
+37,175,70,0,Shoulders,Bent-Over Dumbbell Rear Delt Row
+26,168,63,1,Neck,CHIN TUCK - SUPIN
+41,178,72,0,Quadriceps,Lunges
+29,171,66,1,Lower Back,Child's Pose
+44,179,74,0,Shoulders,Dumbbell External Shoulder Rotation
+30,170,65,1,Neck,Neck Rotation
+35,167,71,1,Quadriceps,Dumbbell front squat
+28,172,67,1,Lower Back,Knee To Chest Stretch
+43,180,73,0,Shoulders,Dumbbell External Shoulder Rotation
+32,156,66,1,Neck,Neck Rotation
+37,175,70,0,Quadriceps,Prone Straight Leg Raises
+26,168,63,1,Lower Back,Child's Pose
+41,178,72,0,Shoulders,Alternating Dumbbell Front Raise
+29,171,66,1,Neck,CHIN TUCK - SUPIN
+44,179,74,0,Quadriceps,Lunges
+30,170,65,1,Lower Back,Child's Pose
+35,164,71,1,Shoulders,Alternating Dumbbell Front Raise
+28,172,67,1,Neck,CHIN TUCK - SUPIN
+43,180,73,0,Quadriceps,Dumbbell front squat
+32,170,66,1,Lower Back,Child's Pose
+37,175,70,0,Shoulders,Dumbbell External Shoulder Rotation
+26,168,63,1,Neck,Neck Rotation
+41,178,72,0,Quadriceps,Dumbbell front squat
+29,175,81,0,Lower Back,Child's Pose
+44,179,74,0,Shoulders,Dumbbell Front Raise To Lateral Raise
+30,170,65,1,Neck,CHIN TUCK - SUPIN
+35,177,71,0,Quadriceps,Hamstring Curl
+28,172,67,1,Lower Back,Knee To Chest Stretch
+43,180,73,0,Shoulders,Dumbbell Front Raise To Lateral Raise
+32,170,66,1,Neck,Neck Rotation
+37,175,70,0,Quadriceps,Lunges
+26,168,63,1,Lower Back,Knee To Chest Stretch
+41,178,72,0,Shoulders,Dumbbell External Shoulder Rotation
+29,171,66,1,Neck,CHIN TUCK - SUPIN
+44,179,74,0,Quadriceps,Hamstring Curl
+30,170,65,1,Lower Back,Knee To Chest Stretch
+35,177,71,0,Shoulders,Prone Horizontal Abduction
+28,162,67,1,Neck,Neck Rotation
+43,180,73,0,Quadriceps,Prone Straight Leg Raises
+32,173,76,0,Lower Back,Child's Pose
+37,175,70,0,Shoulders,Standing Palms In Shoulder Press
+26,188,96,0,Neck,Neck Rotation
+41,178,72,0,Quadriceps,Hamstring Curl
+29,179,83,0,Lower Back,Knee To Chest Stretch
+44,179,74,0,Shoulders,Standing Palms In Shoulder Press
+30,170,65,1,Neck,CHIN TUCK - SUPIN
+44,167,68,1,Shoulders,Side Lateral Raise
+43,160,69,1,Shoulders,Side Lateral Raise
+44,160,68,1,Shoulders,Side Lateral Raise
+41,169,69,1,Shoulders,Side Lateral Raise
+44,169,68,1,Shoulders,Overhead Dumbbell Front Raise
+44,160,69,1,Shoulders,Overhead Dumbbell Front Raise
+43,160,69,1,Shoulders,Overhead Dumbbell Front Raise
+44,167,68,1,Shoulders,Side Lateral Raise
+44,160,69,1,Shoulders,Standing Dumbbell Chest Fly
+44,169,68,1,Shoulders,Standing Dumbbell Chest Fly
+41,167,69,1,Shoulders,Standing Dumbbell Chest Fly
+41,166,68,1,Shoulders,Standing Dumbbell Chest Fly
+43,169,69,1,Shoulders,Standing Dumbbell Chest Fly
+41,169,68,1,Shoulders,Power Partials
+44,160,69,1,Shoulders,Power Partials
+44,160,66,1,Shoulders,Power Partials
+44,167,64,1,Shoulders,Power Partials
+43,160,68,1,Shoulders,Cuban Press
+43,169,69,1,Shoulders,Cuban Press
+43,160,64,1,Shoulders,Cuban Press
+44,160,64,1,Shoulders,Cuban Press
+41,160,68,1,Shoulders,Dumbbell Scaption
+43,169,69,1,Shoulders,Dumbbell Scaption
+43,167,64,1,Shoulders,Dumbbell Scaption
+44,169,68,1,Shoulders,Bent-Over Dumbbell Rear Delt Row
+41,159,69,1,Shoulders,Bent-Over Dumbbell Rear Delt Row
+44,159,68,1,Shoulders,Bent-Over Dumbbell Rear Delt Row
+44,167,64,1,Shoulders,Prone Horizontal Abduction
+43,159,69,1,Shoulders,Arom Side lying Abduction
+41,159,64,1,Shoulders,Arom Side lying Abduction
+44,167,69,1,Shoulders,Side Lateral Raise
+43,167,68,1,Shoulders,Overhead Dumbbell Front Raise
+43,180,73,0,Quadriceps,Lunges
+32,170,66,1,Lower Back,Knee To Chest Stretch
+37,161,70,1,Shoulders,Side Lateral Raise
+26,168,63,1,Neck,Child's Pose
+41,178,72,0,Quadriceps,Hamstring Curl
+29,171,66,1,Lower Back,Knee To Chest Stretch
+44,179,74,0,Shoulders,Standing Dumbbell Chest Fly
+30,180,85,0,Neck,CHIN TUCK - SUPIN
+35,177,71,0,Quadriceps,Dumbbell front squat
+28,172,67,1,Lower Back,Child's Pose
+43,180,73,0,Shoulders,Prone Horizontal Abduction
+32,170,66,1,Neck,Neck Rotation
+37,175,70,0,Quadriceps,Lunges
+26,168,63,1,Lower Back,Child's Pose
+41,178,72,0,Shoulders,Power Partials
+29,171,66,1,Neck,CHIN TUCK - SUPIN
+44,179,74,0,Quadriceps,Prone Straight Leg Raises
+30,170,65,1,Lower Back,Knee To Chest Stretch
+35,177,71,0,Shoulders,Alternating Deltoid Raise
+28,172,67,1,Neck,Neck Rotation
+43,180,73,0,Quadriceps,Dumbbell front squat
+32,178,85,0,Lower Back,Knee To Chest Stretch
+37,175,70,0,Shoulders,Dumbbell Scaption
+26,168,63,1,Neck,CHIN TUCK - SUPIN
+41,178,72,0,Quadriceps,Lunges
+29,171,66,1,Lower Back,Knee To Chest Stretch
+44,179,74,0,Shoulders,Dumbbell External Shoulder Rotation
+30,170,65,1,Neck,Neck Rotation
+35,177,71,0,Quadriceps,Prone Straight Leg Raises
+28,172,67,1,Lower Back,Child's Pose
+43,173,77,1,Shoulders,Dumbbell Scaption
+32,170,66,1,Neck,Neck Rotation
+37,175,70,0,Quadriceps,Prone Straight Leg Raises
+26,168,63,1,Lower Back,Knee To Chest Stretch
+41,162,72,1,Shoulders,Power Partials
+29,171,66,1,Neck,CHIN TUCK - SUPIN
+44,179,74,0,Quadriceps,Hamstring Curl
+30,170,65,1,Lower Back,Child's Pose
+35,177,71,0,Shoulders,Power Partials
+28,172,67,1,Neck,CHIN TUCK - SUPIN
+43,180,73,0,Quadriceps,Dumbbell front squat
+32,170,66,1,Lower Back,Knee To Chest Stretch
+50,175,75,0,Shoulders,Dumbbell Front Raise
+51,175,80,0,Neck,Neck Rotation
+52,180,80,0,Quadriceps,Lunges
+53,175,78,0,Lower Back,Child's Pose
+54,185,85,0,Shoulders,Dumbbell Front Raise To Lateral Raise
+55,160,73,1,Neck,CHIN TUCK - SUPIN
+56,178,77,0,Quadriceps,Prone Straight Leg Raises
+57,176,76,0,Lower Back,Knee To Chest Stretch
+58,183,82,0,Shoulders,Dumbbell Front Raise To Lateral Raise
+59,174,74,1,Neck,CHIN TUCK - SUPIN
+60,179,79,0,Quadriceps,Prone Straight Leg Raises
+61,157,72,1,Lower Back,Child's Pose
+62,177,76,0,Shoulders,Dumbbell Front Raise
+63,173,75,1,Neck,Neck Rotation
+64,180,80,0,Quadriceps,Dumbbell front squat
+65,165,78,1,Lower Back,Knee To Chest Stretch
+50,172,73,0,Shoulders,Alternating Deltoid Raise
+51,170,70,1,Neck,Neck Rotation
+52,180,80,0,Quadriceps,Dumbbell front squat
+53,175,78,1,Lower Back,Child's Pose
+54,185,85,0,Shoulders,Dumbbell Front Raise
+55,166,73,1,Neck,CHIN TUCK - SUPIN
+56,178,77,0,Quadriceps,Prone Straight Leg Raises
+57,176,76,1,Lower Back,Knee To Chest Stretch
+58,183,82,0,Shoulders,Alternating Dumbbell Front Raise
+59,174,74,1,Neck,CHIN TUCK - SUPIN
+60,179,79,0,Quadriceps,Dumbbell front squat
+61,154,60,1,Lower Back,Child's Pose
+62,177,76,0,Shoulders,Alternating Deltoid Raise
+63,173,75,1,Neck,Neck Rotation
+64,180,80,0,Quadriceps,Lunges
+65,175,78,0,Lower Back,Knee To Chest Stretch
+50,158,69,1,Shoulders,Alternating Deltoid Raise
+51,170,70,1,Neck,CHIN TUCK - SUPIN
+52,180,80,0,Quadriceps,Prone Straight Leg Raises
+53,175,78,1,Lower Back,Child's Pose
+54,185,85,0,Shoulders,Dumbbell Scaption
+55,172,73,1,Neck,Neck Rotation
+56,178,77,0,Quadriceps,Hamstring Curl
+57,176,76,1,Lower Back,Child's Pose
+58,183,82,0,Shoulders,Dumbbell Front Raise To Lateral Raise
+59,162,74,1,Neck,CHIN TUCK - SUPIN
+60,179,79,0,Quadriceps,Hamstring Curl
+61,171,72,1,Lower Back,Knee To Chest Stretch
+62,177,76,0,Shoulders,Standing Dumbbell Shoulder Press
+63,173,75,1,Neck,CHIN TUCK - SUPIN
+64,180,80,0,Quadriceps,Lunges
+65,175,78,1,Lower Back,Child's Pose
+50,175,75,0,Shoulders,Standing Dumbbell Fly
+51,170,70,1,Neck,Neck Rotation
+52,180,80,0,Quadriceps,Lunges
+53,175,78,1,Lower Back,Knee To Chest Stretch
+54,185,85,0,Shoulders,Side Lateral Raise
+55,172,73,1,Neck,Child's Pose
+56,178,77,0,Quadriceps,Hamstring Curl
+57,161,76,1,Lower Back,Knee To Chest Stretch
+58,183,82,0,Shoulders,Standing Dumbbell Chest Fly
+59,166,74,1,Neck,CHIN TUCK - SUPIN
+60,179,79,0,Quadriceps,Dumbbell front squat
+61,171,72,1,Lower Back,Child's Pose
+24,177,76,0,Shoulders,Prone Horizontal Abduction
+63,173,75,1,Neck,CHIN TUCK - SUPIN
+64,180,80,0,Quadriceps,Hamstring Curl
+65,175,78,1,Lower Back,Knee To Chest Stretch
+50,172,73,0,Shoulders,Overhead Dumbbell Front Raise
+51,170,70,1,Neck,CHIN TUCK - SUPIN
+52,180,80,0,Quadriceps,Prone Straight Leg Raises
+53,175,78,1,Lower Back,Child's Pose
+54,185,85,0,Shoulders,Prone Horizontal Abduction
+55,172,73,1,Neck,Neck Rotation
+56,178,77,0,Quadriceps,Lunges
+57,176,76,1,Lower Back,Child's Pose
+58,183,82,0,Shoulders,Overhead Dumbbell Front Raise
+59,174,74,1,Neck,Neck Rotation
+18,159,68,1,Neck,CHIN TUCK - SUPIN
+17,161,49,1,Neck,Neck Rotation
+19,184,100,0,Neck,Neck Rotation
+16,155,63,1,Neck,CHIN TUCK - SUPIN
+23,158,78,1,Neck,Neck Rotation
+22,162,54,1,Neck,CHIN TUCK - SUPIN
+19,169,67,1,Neck,Neck Rotation
+17,153,60,1,Quadriceps,Hamstring Curl
+21,177,92,0,Quadriceps,Lunges
+53,175,78,1,Lower Back,Knee To Chest Stretch
+54,185,85,0,Shoulders,Dumbbell Front Raise
+55,163,73,1,Neck,Neck Rotation
+56,178,77,0,Quadriceps,Dumbbell front squat
+57,166,76,1,Lower Back,Knee To Chest Stretch
+58,183,82,0,Shoulders,Bent-Over Dumbbell Rear Delt Row
+59,174,74,1,Neck,CHIN TUCK - SUPIN
+60,179,79,0,Quadriceps,Dumbbell front squat
+61,171,72,1,Lower Back,Child's Pose
+62,177,76,0,Shoulders,Alternating Dumbbell Front Raise
+63,173,75,1,Neck,CHIN TUCK - SUPIN
+64,180,80,0,Quadriceps,Lunges
+65,175,78,1,Lower Back,Child's Pose
+41,173,83,0,Lower Back,Knee To Chest Stretch
+21,158,72,1,Lower Back,Child's Pose
+25,165,55,1,Neck,Neck Rotation
+35,175,70,0,Quadriceps,Hamstring Curl
+28,172,65,1,Lower Back,Knee To Chest Stretch
+40,185,90,0,Shoulders,Prone Horizontal Abduction
+32,168,60,1,Neck,Neck Rotation
+45,178,85,0,Quadriceps,Hamstring Curl
+27,170,63,1,Lower Back,Knee To Chest Stretch
+33,165,75,1,Shoulders,Prone Horizontal Abduction
+29,169,58,1,Neck,CHIN TUCK - SUPIN
+38,182,88,0,Quadriceps,Dumbbell front squat
+31,174,68,1,Lower Back,Child's Pose
+34,177,72,0,Shoulders,Standing Dumbbell Fly
+26,163,57,1,Neck,Neck Rotation
+43,180,73,0,Shoulders,Standing Dumbbell Fly
+32,170,66,1,Neck,Neck Rotation
+37,175,70,0,Quadriceps,Dumbbell front squat
+26,178,83,0,Lower Back,Knee To Chest Stretch
+41,178,72,0,Shoulders,Cuban Press
+29,171,66,1,Neck,CHIN TUCK - SUPIN
+44,179,74,0,Quadriceps,Dumbbell front squat
+30,170,65,1,Lower Back,Child's Pose
+35,166,71,1,Shoulders,Dumbbell Scaption
+28,172,67,1,Neck,Neck Rotation
+43,180,73,0,Quadriceps,Hamstring Curl
+32,170,66,1,Lower Back,Child's Pose
+37,175,70,0,Shoulders,Cuban Press
+26,168,63,1,Neck,Neck Rotation
+41,178,72,0,Quadriceps,Dumbbell front squat
+29,171,66,1,Lower Back,Child's Pose
+44,179,74,0,Shoulders,Alternating Deltoid Raise
+30,170,65,1,Neck,CHIN TUCK - SUPIN
+35,177,71,0,Quadriceps,Dumbbell front squat
+28,172,67,1,Lower Back,Knee To Chest Stretch
+43,180,73,0,Shoulders,Alternating Deltoid Raise
+32,170,66,1,Neck,CHIN TUCK - SUPIN
+37,175,70,0,Quadriceps,Prone Straight Leg Raises
+26,168,63,1,Lower Back,Knee To Chest Stretch
+41,178,72,0,Shoulders,Dumbbell External Shoulder Rotation
+29,171,66,1,Neck,Neck Rotation
+44,179,74,0,Quadriceps,Dumbbell front squat
+30,170,65,1,Lower Back,Child's Pose
+35,177,71,0,Shoulders,Overhead Dumbbell Front Raise
+28,172,67,1,Neck,Neck Rotation
+43,180,73,0,Quadriceps,Lunges
+32,170,66,1,Lower Back,Knee To Chest Stretch
+61,171,72,1,Lower Back,Knee To Chest Stretch
+62,177,76,0,Shoulders,Overhead Dumbbell Front Raise
+63,173,75,1,Neck,Neck Rotation
+64,180,80,0,Quadriceps,Prone Straight Leg Raises
+65,175,78,0,Lower Back,Child's Pose
+35,162,71,1,Quadriceps,Dumbbell front squat
+28,172,67,1,Lower Back,Child's Pose
+43,158,73,1,Shoulders,Dumbbell Front Raise
+32,170,66,1,Neck,CHIN TUCK - SUPIN
+37,165,70,1,Quadriceps,Dumbbell front squat
+26,168,63,1,Lower Back,Knee To Chest Stretch
+41,178,72,0,Shoulders,Dumbbell Scaption
+29,171,66,1,Neck,CHIN TUCK - SUPIN
+44,179,74,0,Quadriceps,Prone Straight Leg Raises
+30,170,65,1,Lower Back,Child's Pose
+35,177,71,0,Shoulders,Alternating Deltoid Raise
+28,172,67,1,Neck,Neck Rotation
+43,180,73,0,Quadriceps,Hamstring Curl
+32,170,66,1,Lower Back,Knee To Chest Stretch
+37,175,70,0,Shoulders,Standing Dumbbell Shoulder Press
+26,168,63,1,Neck,CHIN TUCK - SUPIN
+41,178,72,0,Quadriceps,Dumbbell front squat
+29,171,66,1,Lower Back,Child's Pose
+44,179,74,0,Shoulders,Dumbbell External Shoulder Rotation
+30,170,65,1,Neck,Neck Rotation
+35,177,71,0,Quadriceps,Dumbbell front squat
+28,172,67,1,Lower Back,Child's Pose
+43,180,73,0,Shoulders,Dumbbell Front Raise To Lateral Raise
+32,170,66,1,Neck,CHIN TUCK - SUPIN
+37,175,70,0,Quadriceps,Hamstring Curl
+26,168,63,1,Lower Back,Knee To Chest Stretch
+41,178,72,0,Shoulders,Standing Dumbbell Shoulder Press
+29,171,66,1,Neck,CHIN TUCK - SUPIN
+44,179,74,0,Quadriceps,Lunges
+30,170,65,1,Lower Back,Child's Pose
+35,177,71,0,Shoulders,Standing Dumbbell Fly
+28,172,67,1,Neck,Neck Rotation
+30,173,75,0,Shoulders,Side Lateral Raise
+30,174,78,0,Shoulders,Side Lateral Raise
+29,176,78,0,Shoulders,Side Lateral Raise
+32,173,75,0,Shoulders,Side Lateral Raise
+26,174,75,0,Shoulders,Overhead Dumbbell Front Raise
+26,176,78,0,Shoulders,Overhead Dumbbell Front Raise
+28,173,75,0,Shoulders,Overhead Dumbbell Front Raise
+32,174,75,0,Shoulders,Side Lateral Raise
+29,176,75,0,Shoulders,Standing Dumbbell Chest Fly
+30,173,76,0,Shoulders,Standing Dumbbell Chest Fly
+28,174,75,0,Shoulders,Standing Dumbbell Chest Fly
+26,176,78,0,Shoulders,Standing Dumbbell Chest Fly
+32,173,75,0,Shoulders,Standing Dumbbell Chest Fly
+29,174,75,0,Shoulders,Power Partials
+30,176,78,0,Shoulders,Power Partials
+28,173,75,0,Shoulders,Power Partials
+26,174,75,0,Shoulders,Power Partials
+26,176,78,0,Shoulders,Cuban Press
+28,173,76,0,Shoulders,Cuban Press
+32,174,75,0,Shoulders,Cuban Press
+28,176,78,0,Shoulders,Cuban Press
+65,165,78,1,Lower Back,Knee To Chest Stretch
+50,172,73,0,Shoulders,Alternating Deltoid Raise
+51,170,70,1,Neck,Neck Rotation
+52,180,80,0,Quadriceps,Dumbbell front squat
+53,175,78,1,Lower Back,Child's Pose
+54,185,85,0,Shoulders,Dumbbell Front Raise
+55,166,73,1,Neck,CHIN TUCK - SUPIN
+56,178,77,0,Quadriceps,Prone Straight Leg Raises
+57,176,76,1,Lower Back,Knee To Chest Stretch
+58,183,82,0,Shoulders,Alternating Dumbbell Front Raise
+59,174,74,1,Neck,CHIN TUCK - SUPIN
+60,179,79,0,Quadriceps,Dumbbell front squat
+61,154,60,1,Lower Back,Child's Pose
+62,177,76,0,Shoulders,Alternating Deltoid Raise
+63,173,75,1,Neck,Neck Rotation
+64,180,80,0,Quadriceps,Lunges
+65,175,78,0,Lower Back,Knee To Chest Stretch
+44,160,66,1,Shoulders,Power Partials
+44,167,64,1,Shoulders,Power Partials
+43,160,68,1,Shoulders,Cuban Press
+43,169,69,1,Shoulders,Cuban Press
+43,160,64,1,Shoulders,Cuban Press
+44,160,64,1,Shoulders,Cuban Press
+41,160,68,1,Shoulders,Dumbbell Scaption
+43,169,69,1,Shoulders,Dumbbell Scaption
+43,167,64,1,Shoulders,Dumbbell Scaption
+30,180,80,0,Shoulders,Alternating Dumbbell Front Raise
+60,179,79,0,Quadriceps,Prone Straight Leg Raises
+35,160,71,1,Quadriceps,Prone Straight Leg Raises
+28,172,67,1,Lower Back,Child's Pose
+16,156,70,1,Quadriceps,Hamstring Curl
+17,158,72,1,Quadriceps,Lunges
+39,181,90,0,Shoulders,Dumbbell Scaption
+50,172,73,0,Shoulders,Overhead Dumbbell Front Raise
+51,170,70,1,Neck,Neck Rotation
+52,180,80,0,Quadriceps,Hamstring Curl
+17,168,73,0,Quadriceps,Prone Straight Leg Raises
+15,166,64,0,Quadriceps,Dumbbell front squat
+20,157,65,1,Shoulders,Alternating Deltoid Raise
+21,188,102,0,Shoulders,Alternating Dumbbell Front Raise
+42,180,92,0,Quadriceps,Prone Straight Leg Raises
+30,168,62,1,Lower Back,Child's Pose
+36,179,78,0,Shoulders,Dumbbell External Shoulder Rotation
+28,171,64,1,Neck,Neck Rotation
+39,166,81,1,Quadriceps,Dumbbell front squat
+32,175,71,1,Lower Back,Knee To Chest Stretch
+37,175,70,0,Shoulders,Cuban Press
+26,168,63,1,Neck,CHIN TUCK - SUPIN
+41,178,72,0,Quadriceps,Prone Straight Leg Raises
+29,171,66,0,Lower Back,Knee To Chest Stretch
+44,179,74,0,Shoulders,Arom Side lying Abduction
+30,170,65,1,Neck,CHIN TUCK - SUPIN
+35,177,71,0,Quadriceps,Prone Straight Leg Raises
+28,169,67,1,Lower Back,Knee To Chest Stretch
+43,180,73,0,Shoulders,Dumbbell External Shoulder Rotation
+32,170,66,1,Neck,CHIN TUCK - SUPIN
+37,175,70,0,Quadriceps,Prone Straight Leg Raises
+26,168,63,1,Lower Back,Child's Pose
+29,176,78,0,Shoulders,Side Lateral Raise
+32,173,75,0,Shoulders,Side Lateral Raise
+26,174,75,0,Shoulders,Overhead Dumbbell Front Raise
+26,176,78,0,Shoulders,Overhead Dumbbell Front Raise
+28,173,75,0,Shoulders,Overhead Dumbbell Front Raise
+32,174,75,0,Shoulders,Side Lateral Raise
+29,176,75,0,Shoulders,Standing Dumbbell Chest Fly
+30,173,76,0,Shoulders,Standing Dumbbell Chest Fly
+28,174,75,0,Shoulders,Standing Dumbbell Chest Fly
+26,176,78,0,Shoulders,Standing Dumbbell Chest Fly
+30,180,80,0,Shoulders,Alternating Dumbbell Front Raise
+60,179,79,0,Quadriceps,Prone Straight Leg Raises
+35,160,71,1,Quadriceps,Prone Straight Leg Raises
+28,172,67,1,Lower Back,Child's Pose
+16,156,70,1,Quadriceps,Hamstring Curl
+17,158,72,1,Quadriceps,Lunges
+39,181,90,0,Shoulders,Dumbbell Scaption
+50,172,73,0,Shoulders,Overhead Dumbbell Front Raise
+51,170,70,1,Neck,Neck Rotation
+52,180,80,0,Quadriceps,Hamstring Curl
+17,168,73,0,Quadriceps,Prone Straight Leg Raises
+15,166,64,0,Quadriceps,Dumbbell front squat
+20,157,65,1,Shoulders,Alternating Deltoid Raise
+21,188,102,0,Shoulders,Alternating Dumbbell Front Raise
+42,180,92,0,Quadriceps,Prone Straight Leg Raises
+30,168,62,1,Lower Back,Child's Pose
+36,179,78,0,Shoulders,Dumbbell External Shoulder Rotation
+28,171,64,1,Neck,Neck Rotation
+39,166,81,1,Quadriceps,Dumbbell front squat
+32,175,71,1,Lower Back,Knee To Chest Stretch
+37,175,70,0,Shoulders,Cuban Press
+26,168,63,1,Neck,CHIN TUCK - SUPIN
+41,178,72,0,Quadriceps,Prone Straight Leg Raises
+29,171,66,0,Lower Back,Knee To Chest Stretch
+44,179,74,0,Shoulders,Arom Side lying Abduction
+30,170,65,1,Neck,CHIN TUCK - SUPIN
+35,177,71,0,Quadriceps,Prone Straight Leg Raises
+28,169,67,1,Lower Back,Knee To Chest Stretch
+43,180,73,0,Shoulders,Dumbbell External Shoulder Rotation
+32,170,66,1,Neck,CHIN TUCK - SUPIN
+37,175,70,0,Quadriceps,Prone Straight Leg Raises
+26,168,63,1,Lower Back,Child's Pose
+41,178,72,0,Shoulders,Standing Dumbbell Fly
+29,179,88,0,Neck,Neck Rotation
+44,179,74,0,Quadriceps,Prone Straight Leg Raises
+30,170,65,1,Lower Back,Child's Pose
+35,177,71,0,Shoulders,Arom Side lying Abduction
+28,174,67,0,Neck,CHIN TUCK - SUPIN
+43,180,73,0,Quadriceps,Prone Straight Leg Raises
+32,170,66,1,Lower Back,Knee To Chest Stretch
+37,175,70,0,Shoulders,Arom Side lying Abduction
+26,168,63,1,Neck,Neck Rotation
+41,163,72,1,Quadriceps,Lunges
+29,171,66,0,Lower Back,Knee To Chest Stretch
+44,179,74,0,Shoulders,Arom Side lying Abduction
+30,170,65,1,Neck,Neck Rotation
+35,177,71,0,Quadriceps,Prone Straight Leg Raises
+28,185,94,0,Lower Back,Child's Pose
+43,180,73,0,Shoulders,Standing Dumbbell Fly
+32,170,66,1,Neck,CHIN TUCK - SUPIN
+37,175,70,0,Quadriceps,Lunges
+26,168,63,1,Lower Back,Child's Pose
+41,178,72,0,Shoulders,Standing Dumbbell Fly
+29,171,66,1,Neck,Neck Rotation
+44,179,74,0,Quadriceps,Lunges
+30,170,65,1,Lower Back,Knee To Chest Stretch
+35,177,71,0,Shoulders,Side Lateral Raise
+28,172,67,1,Neck,CHIN TUCK - SUPIN
+43,180,73,0,Quadriceps,Lunges
+32,170,66,1,Lower Back,Knee To Chest Stretch
+37,175,70,0,Shoulders,Standing Palms In Shoulder Press
+26,168,63,1,Neck,CHIN TUCK - SUPIN
+41,178,72,0,Quadriceps,Hamstring Curl
+29,171,66,1,Lower Back,Child's Pose
+44,159,74,1,Shoulders,Power Partials
+30,170,65,1,Neck,CHIN TUCK - SUPIN
+35,177,71,0,Quadriceps,Prone Straight Leg Raises
+28,172,67,1,Lower Back,Child's Pose
+43,162,73,1,Shoulders,Power Partials
+32,170,66,1,Neck,CHIN TUCK - SUPIN
+37,175,70,0,Quadriceps,Hamstring Curl
+26,171,68,0,Lower Back,Knee To Chest Stretch
+41,178,72,0,Shoulders,Standing Palms In Shoulder Press
+29,171,66,1,Neck,CHIN TUCK - SUPIN
+44,179,74,0,Quadriceps,Dumbbell front squat
+30,169,65,1,Lower Back,Knee To Chest Stretch
+35,177,71,0,Shoulders,Side Lateral Raise
+28,172,67,1,Neck,Neck Rotation
+43,180,73,0,Quadriceps,Dumbbell front squat
+32,170,66,1,Lower Back,Knee To Chest Stretch
+37,168,70,1,Shoulders,Standing Dumbbell Chest Fly
+26,168,63,1,Neck,Neck Rotation
+41,178,72,0,Quadriceps,Prone Straight Leg Raises
+29,171,66,1,Lower Back,Child's Pose
+44,179,74,0,Shoulders,Standing Dumbbell Chest Fly
+30,170,65,1,Neck,CHIN TUCK - SUPIN
+35,177,71,0,Quadriceps,Dumbbell front squat
+28,176,75,0,Lower Back,Knee To Chest Stretch
+43,180,73,0,Shoulders,Bent-Over Dumbbell Rear Delt Row
+32,170,66,1,Neck,Neck Rotation
+37,175,70,0,Quadriceps,Hamstring Curl
+26,168,63,1,Lower Back,Child's Pose
+41,178,72,0,Shoulders,Alternating Dumbbell Front Raise
+29,188,99,0,Neck,Neck Rotation
+44,179,74,0,Quadriceps,Prone Straight Leg Raises
+30,170,65,1,Lower Back,Knee To Chest Stretch
+35,177,71,0,Shoulders,Alternating Dumbbell Front Raise
+28,172,67,1,Neck,Neck Rotation
+43,180,73,0,Quadriceps,Dumbbell front squat
+32,170,66,1,Lower Back,Knee To Chest Stretch
+37,175,70,0,Shoulders,Arom Side lying Abduction
+26,168,63,1,Neck,Neck Rotation
+41,178,72,0,Quadriceps,Prone Straight Leg Raises
+29,171,66,1,Lower Back,Child's Pose
+44,179,74,0,Shoulders,Standing Palms In Shoulder Press
+30,170,65,1,Neck,CHIN TUCK - SUPIN
+35,177,71,0,Quadriceps,Prone Straight Leg Raises
+28,172,67,1,Lower Back,Child's Pose
+43,180,73,0,Shoulders,Arom Side lying Abduction
+32,160,66,1,Neck,CHIN TUCK - SUPIN
+26,168,63,1,Neck,CHIN TUCK - SUPIN
+41,178,72,0,Quadriceps,Dumbbell front squat
+29,171,66,1,Lower Back,Child's Pose
+44,179,74,0,Shoulders,Standing Dumbbell Shoulder Press
+30,170,65,1,Neck,Neck Rotation
+35,177,71,0,Quadriceps,Dumbbell front squat
+28,172,67,1,Lower Back,Child's Pose
+16,156,70,1,Quadriceps,Prone Straight Leg Raises
+17,158,72,1,Quadriceps,Dumbbell front squat
+29,162,75,1,Quadriceps,Dumbbell front squat
+25,154,68,1,Shoulders,Standing Dumbbell Shoulder Press
+22,155,50,1,Shoulders,Alternating Deltoid Raise
+35,159,60,1,Shoulders,Alternating Deltoid Raise
+35,179,85,0,Shoulders,Cuban Press
+36,162,65,1,Shoulders,Arom Side lying Abduction
+37,165,72,1,Shoulders,Cuban Press
+39,181,90,0,Shoulders,Bent-Over Dumbbell Rear Delt Row
+29,177,95,0,Shoulders,Standing Palms In Shoulder Press
+27,185,102,0,Shoulders,Alternating Dumbbell Front Raise
+29,183,105,0,Shoulders,Standing Palms In Shoulder Press
+24,182,90,0,Shoulders,Alternating Dumbbell Front Raise
+22,195,109,0,Shoulders,Bent-Over Dumbbell Rear Delt Row
+22,177,90,0,Quadriceps,Hamstring Curl
+22,173,79,0,Quadriceps,Prone Straight Leg Raises
+46,194,100,0,Quadriceps,Lunges
+48,173,78,1,Quadriceps,Lunges
+47,174,88,0,Quadriceps,Lunges
+47,175,78,0,Lower Back,Child's Pose
+44,175,92,0,Shoulders,Standing Dumbbell Fly
+41,174,80,1,Shoulders,Standing Dumbbell Fly
+41,178,76,0,Shoulders,Alternating Deltoid Raise
+42,175,70,0,Shoulders,Prone Horizontal Abduction
+47,182,76,0,Lower Back,Knee To Chest Stretch
+44,163,95,1,Lower Back,Child's Pose
+19,179,84,0,Lower Back,Knee To Chest Stretch
+19,153,45,1,Lower Back,Child's Pose
+19,155,48,1,Lower Back,Knee To Chest Stretch
+18,166,74,1,Neck,CHIN TUCK - SUPIN
+19,174,83,0,Neck,Neck Rotation
+37,175,70,0,Shoulders,Prone Horizontal Abduction
+26,168,63,1,Neck,Neck Rotation
+41,178,72,0,Quadriceps,Prone Straight Leg Raises
+29,171,66,1,Lower Back,Knee To Chest Stretch
+44,179,74,0,Shoulders,Prone Horizontal Abduction
+30,170,65,1,Neck,Neck Rotation
+35,177,71,0,Quadriceps,Hamstring Curl
+28,172,67,1,Lower Back,Child's Pose
+43,180,73,0,Shoulders,Dumbbell Front Raise
+32,170,66,1,Neck,Neck Rotation
+37,175,70,0,Quadriceps,Dumbbell front squat
+26,169,63,1,Lower Back,Knee To Chest Stretch
+41,178,72,0,Shoulders,Dumbbell External Shoulder Rotation
+29,171,66,1,Neck,Neck Rotation
+44,179,74,0,Quadriceps,Dumbbell front squat
+30,170,65,1,Lower Back,Knee To Chest Stretch
+35,177,71,0,Shoulders,Dumbbell Front Raise
+28,164,67,1,Neck,CHIN TUCK - SUPIN
+43,180,73,0,Quadriceps,Dumbbell front squat
+32,170,66,1,Lower Back,Knee To Chest Stretch
+37,175,70,0,Shoulders,Dumbbell External Shoulder Rotation
+26,168,63,1,Neck,Neck Rotation
+41,178,72,0,Quadriceps,Lunges
+29,171,66,1,Lower Back,Child's Pose
+44,179,74,0,Shoulders,Dumbbell External Shoulder Rotation
+30,170,65,1,Neck,CHIN TUCK - SUPIN
+35,177,71,0,Quadriceps,Hamstring Curl
+28,172,67,1,Lower Back,Child's Pose
+43,180,73,0,Shoulders,Dumbbell External Shoulder Rotation
+32,170,66,1,Neck,Neck Rotation
+37,175,70,0,Quadriceps,Lunges
+26,175,80,0,Lower Back,Child's Pose
+41,178,72,0,Shoulders,Bent-Over Dumbbell Rear Delt Row
+29,163,66,1,Neck,CHIN TUCK - SUPIN
+44,179,74,0,Quadriceps,Prone Straight Leg Raises
+30,170,65,1,Lower Back,Child's Pose
+35,177,71,0,Shoulders,Dumbbell Front Raise To Lateral Raise
+28,162,67,1,Neck,Neck Rotation
+43,180,73,0,Quadriceps,Prone Straight Leg Raises
+32,176,76,0,Lower Back,Knee To Chest Stretch
+37,175,70,0,Shoulders,Bent-Over Dumbbell Rear Delt Row
+26,168,63,1,Neck,CHIN TUCK - SUPIN
+41,178,72,0,Quadriceps,Lunges
+29,171,66,1,Lower Back,Child's Pose
+44,179,74,0,Shoulders,Dumbbell External Shoulder Rotation
+30,170,65,1,Neck,Neck Rotation
+35,167,71,1,Quadriceps,Dumbbell front squat
+28,172,67,1,Lower Back,Knee To Chest Stretch
+43,180,73,0,Shoulders,Dumbbell External Shoulder Rotation
+32,156,66,1,Neck,Neck Rotation
+37,175,70,0,Quadriceps,Prone Straight Leg Raises
+26,168,63,1,Lower Back,Child's Pose
+41,178,72,0,Shoulders,Alternating Dumbbell Front Raise
+29,171,66,1,Neck,CHIN TUCK - SUPIN
+44,179,74,0,Quadriceps,Lunges
+30,170,65,1,Lower Back,Child's Pose
+35,164,71,1,Shoulders,Alternating Dumbbell Front Raise
+28,172,67,1,Neck,CHIN TUCK - SUPIN
+43,180,73,0,Quadriceps,Dumbbell front squat
+32,170,66,1,Lower Back,Child's Pose
+37,175,70,0,Shoulders,Dumbbell External Shoulder Rotation
+26,168,63,1,Neck,Neck Rotation
+41,178,72,0,Quadriceps,Dumbbell front squat
+29,175,81,0,Lower Back,Child's Pose
+44,179,74,0,Shoulders,Dumbbell Front Raise To Lateral Raise
+30,170,65,1,Neck,CHIN TUCK - SUPIN
+35,177,71,0,Quadriceps,Hamstring Curl
+28,172,67,1,Lower Back,Knee To Chest Stretch
+43,180,73,0,Shoulders,Dumbbell Front Raise To Lateral Raise
+32,170,66,1,Neck,Neck Rotation
+37,175,70,0,Quadriceps,Lunges
+26,168,63,1,Lower Back,Knee To Chest Stretch
+41,178,72,0,Shoulders,Dumbbell External Shoulder Rotation
+29,171,66,1,Neck,CHIN TUCK - SUPIN
+44,179,74,0,Quadriceps,Hamstring Curl
+30,170,65,1,Lower Back,Knee To Chest Stretch
+35,177,71,0,Shoulders,Prone Horizontal Abduction
+28,162,67,1,Neck,Neck Rotation
+43,180,73,0,Quadriceps,Prone Straight Leg Raises
+32,173,76,0,Lower Back,Child's Pose
+37,175,70,0,Shoulders,Standing Palms In Shoulder Press
+26,188,96,0,Neck,Neck Rotation
+41,178,72,0,Quadriceps,Hamstring Curl
+29,179,83,0,Lower Back,Knee To Chest Stretch
+44,179,74,0,Shoulders,Standing Palms In Shoulder Press
+30,170,65,1,Neck,CHIN TUCK - SUPIN
+44,167,68,1,Shoulders,Side Lateral Raise
+43,160,69,1,Shoulders,Side Lateral Raise
+44,160,68,1,Shoulders,Side Lateral Raise
+41,169,69,1,Shoulders,Side Lateral Raise
+44,169,68,1,Shoulders,Overhead Dumbbell Front Raise
+44,160,69,1,Shoulders,Overhead Dumbbell Front Raise
+43,160,69,1,Shoulders,Overhead Dumbbell Front Raise
+44,167,68,1,Shoulders,Side Lateral Raise
+44,160,69,1,Shoulders,Standing Dumbbell Chest Fly
+44,169,68,1,Shoulders,Standing Dumbbell Chest Fly
+41,167,69,1,Shoulders,Standing Dumbbell Chest Fly
+41,166,68,1,Shoulders,Standing Dumbbell Chest Fly
+43,169,69,1,Shoulders,Standing Dumbbell Chest Fly
+41,169,68,1,Shoulders,Power Partials
+44,160,69,1,Shoulders,Power Partials
+44,160,66,1,Shoulders,Power Partials
+44,167,64,1,Shoulders,Power Partials
+43,160,68,1,Shoulders,Cuban Press
+43,169,69,1,Shoulders,Cuban Press
+43,160,64,1,Shoulders,Cuban Press
+44,160,64,1,Shoulders,Cuban Press
+41,160,68,1,Shoulders,Dumbbell Scaption
+43,169,69,1,Shoulders,Dumbbell Scaption
+43,167,64,1,Shoulders,Dumbbell Scaption
+44,169,68,1,Shoulders,Bent-Over Dumbbell Rear Delt Row
+41,159,69,1,Shoulders,Bent-Over Dumbbell Rear Delt Row
+44,159,68,1,Shoulders,Bent-Over Dumbbell Rear Delt Row
+44,167,64,1,Shoulders,Prone Horizontal Abduction
+43,159,69,1,Shoulders,Arom Side lying Abduction
+41,159,64,1,Shoulders,Arom Side lying Abduction
+44,167,69,1,Shoulders,Side Lateral Raise
+43,167,68,1,Shoulders,Overhead Dumbbell Front Raise
+43,180,73,0,Quadriceps,Lunges
+32,170,66,1,Lower Back,Knee To Chest Stretch
+37,161,70,1,Shoulders,Side Lateral Raise
+26,168,63,1,Neck,Child's Pose
+41,178,72,0,Quadriceps,Hamstring Curl
+29,171,66,1,Lower Back,Knee To Chest Stretch
+44,179,74,0,Shoulders,Standing Dumbbell Chest Fly
+30,180,85,0,Neck,CHIN TUCK - SUPIN
+35,177,71,0,Quadriceps,Dumbbell front squat
+28,172,67,1,Lower Back,Child's Pose
+43,180,73,0,Shoulders,Prone Horizontal Abduction
+32,170,66,1,Neck,Neck Rotation
+37,175,70,0,Quadriceps,Lunges
+26,168,63,1,Lower Back,Child's Pose
+41,178,72,0,Shoulders,Power Partials
+29,171,66,1,Neck,CHIN TUCK - SUPIN
+44,179,74,0,Quadriceps,Prone Straight Leg Raises
+30,170,65,1,Lower Back,Knee To Chest Stretch
+35,177,71,0,Shoulders,Alternating Deltoid Raise
+28,172,67,1,Neck,Neck Rotation
+43,180,73,0,Quadriceps,Dumbbell front squat
+32,178,85,0,Lower Back,Knee To Chest Stretch
+37,175,70,0,Shoulders,Dumbbell Scaption
+26,168,63,1,Neck,CHIN TUCK - SUPIN
+41,178,72,0,Quadriceps,Lunges
+29,171,66,1,Lower Back,Knee To Chest Stretch
+44,179,74,0,Shoulders,Dumbbell External Shoulder Rotation
+30,170,65,1,Neck,Neck Rotation
+35,177,71,0,Quadriceps,Prone Straight Leg Raises
+28,172,67,1,Lower Back,Child's Pose
+43,173,77,1,Shoulders,Dumbbell Scaption
+32,170,66,1,Neck,Neck Rotation
+37,175,70,0,Quadriceps,Prone Straight Leg Raises
+26,168,63,1,Lower Back,Knee To Chest Stretch
+41,162,72,1,Shoulders,Power Partials
+29,171,66,1,Neck,CHIN TUCK - SUPIN
+44,179,74,0,Quadriceps,Hamstring Curl
+30,170,65,1,Lower Back,Child's Pose
+35,177,71,0,Shoulders,Power Partials
+28,172,67,1,Neck,CHIN TUCK - SUPIN
+43,180,73,0,Quadriceps,Dumbbell front squat
+32,170,66,1,Lower Back,Knee To Chest Stretch
+50,175,75,0,Shoulders,Dumbbell Front Raise
+51,175,80,0,Neck,Neck Rotation
+52,180,80,0,Quadriceps,Lunges
+53,175,78,0,Lower Back,Child's Pose
+54,185,85,0,Shoulders,Dumbbell Front Raise To Lateral Raise
+55,160,73,1,Neck,CHIN TUCK - SUPIN
+56,178,77,0,Quadriceps,Prone Straight Leg Raises
+57,176,76,0,Lower Back,Knee To Chest Stretch
+58,183,82,0,Shoulders,Dumbbell Front Raise To Lateral Raise
+59,174,74,1,Neck,CHIN TUCK - SUPIN
+60,179,79,0,Quadriceps,Prone Straight Leg Raises
+61,157,72,1,Lower Back,Child's Pose
+62,177,76,0,Shoulders,Dumbbell Front Raise
+63,173,75,1,Neck,Neck Rotation
+64,180,80,0,Quadriceps,Dumbbell front squat
+65,165,78,1,Lower Back,Knee To Chest Stretch
+50,172,73,0,Shoulders,Alternating Deltoid Raise
+51,170,70,1,Neck,Neck Rotation
+52,180,80,0,Quadriceps,Dumbbell front squat
+53,175,78,1,Lower Back,Child's Pose
+54,185,85,0,Shoulders,Dumbbell Front Raise
+55,166,73,1,Neck,CHIN TUCK - SUPIN
+56,178,77,0,Quadriceps,Prone Straight Leg Raises
+57,176,76,1,Lower Back,Knee To Chest Stretch
+58,183,82,0,Shoulders,Alternating Dumbbell Front Raise
+59,174,74,1,Neck,CHIN TUCK - SUPIN
+60,179,79,0,Quadriceps,Dumbbell front squat
+61,154,60,1,Lower Back,Child's Pose
+62,177,76,0,Shoulders,Alternating Deltoid Raise
+63,173,75,1,Neck,Neck Rotation
+64,180,80,0,Quadriceps,Lunges
+65,175,78,0,Lower Back,Knee To Chest Stretch
+50,158,69,1,Shoulders,Alternating Deltoid Raise
+51,170,70,1,Neck,CHIN TUCK - SUPIN
+52,180,80,0,Quadriceps,Prone Straight Leg Raises
+53,175,78,1,Lower Back,Child's Pose
+54,185,85,0,Shoulders,Dumbbell Scaption
+55,172,73,1,Neck,Neck Rotation
+56,178,77,0,Quadriceps,Hamstring Curl
+57,176,76,1,Lower Back,Child's Pose
+58,183,82,0,Shoulders,Dumbbell Front Raise To Lateral Raise
+59,162,74,1,Neck,CHIN TUCK - SUPIN
+60,179,79,0,Quadriceps,Hamstring Curl
+61,171,72,1,Lower Back,Knee To Chest Stretch
+62,177,76,0,Shoulders,Standing Dumbbell Shoulder Press
+63,173,75,1,Neck,CHIN TUCK - SUPIN
+64,180,80,0,Quadriceps,Lunges
+65,175,78,1,Lower Back,Child's Pose
+50,175,75,0,Shoulders,Standing Dumbbell Fly
+51,170,70,1,Neck,Neck Rotation
+52,180,80,0,Quadriceps,Lunges
+53,175,78,1,Lower Back,Knee To Chest Stretch
+54,185,85,0,Shoulders,Side Lateral Raise
+55,172,73,1,Neck,Child's Pose
+56,178,77,0,Quadriceps,Hamstring Curl
+57,161,76,1,Lower Back,Knee To Chest Stretch
+58,183,82,0,Shoulders,Standing Dumbbell Chest Fly
+59,166,74,1,Neck,CHIN TUCK - SUPIN
+60,179,79,0,Quadriceps,Dumbbell front squat
+61,171,72,1,Lower Back,Child's Pose
+24,177,76,0,Shoulders,Prone Horizontal Abduction
+63,173,75,1,Neck,CHIN TUCK - SUPIN
+64,180,80,0,Quadriceps,Hamstring Curl
+65,175,78,1,Lower Back,Knee To Chest Stretch
+50,172,73,0,Shoulders,Overhead Dumbbell Front Raise
+51,170,70,1,Neck,CHIN TUCK - SUPIN
+52,180,80,0,Quadriceps,Prone Straight Leg Raises
+53,175,78,1,Lower Back,Child's Pose
+54,185,85,0,Shoulders,Prone Horizontal Abduction
+55,172,73,1,Neck,Neck Rotation
+56,178,77,0,Quadriceps,Lunges
+57,176,76,1,Lower Back,Child's Pose
+58,183,82,0,Shoulders,Overhead Dumbbell Front Raise
+59,174,74,1,Neck,Neck Rotation
+18,159,68,1,Neck,CHIN TUCK - SUPIN
+17,161,49,1,Neck,Neck Rotation
+19,184,100,0,Neck,Neck Rotation
+16,155,63,1,Neck,CHIN TUCK - SUPIN
+23,158,78,1,Neck,Neck Rotation
+22,162,54,1,Neck,CHIN TUCK - SUPIN
+19,169,67,1,Neck,Neck Rotation
+17,153,60,1,Quadriceps,Hamstring Curl
+21,177,92,0,Quadriceps,Lunges
+53,175,78,1,Lower Back,Knee To Chest Stretch
+54,185,85,0,Shoulders,Dumbbell Front Raise
+55,163,73,1,Neck,Neck Rotation
+56,178,77,0,Quadriceps,Dumbbell front squat
+57,166,76,1,Lower Back,Knee To Chest Stretch
+58,183,82,0,Shoulders,Bent-Over Dumbbell Rear Delt Row
+59,174,74,1,Neck,CHIN TUCK - SUPIN
+60,179,79,0,Quadriceps,Dumbbell front squat
+61,171,72,1,Lower Back,Child's Pose
+62,177,76,0,Shoulders,Alternating Dumbbell Front Raise
+63,173,75,1,Neck,CHIN TUCK - SUPIN
+64,180,80,0,Quadriceps,Lunges
+65,175,78,1,Lower Back,Child's Pose
+41,173,83,0,Lower Back,Knee To Chest Stretch
+21,158,72,1,Lower Back,Child's Pose
+25,165,55,1,Neck,Neck Rotation
+35,175,70,0,Quadriceps,Hamstring Curl
+28,172,65,1,Lower Back,Knee To Chest Stretch
+40,185,90,0,Shoulders,Prone Horizontal Abduction
+32,168,60,1,Neck,Neck Rotation
+45,178,85,0,Quadriceps,Hamstring Curl
+27,170,63,1,Lower Back,Knee To Chest Stretch
+33,165,75,1,Shoulders,Prone Horizontal Abduction
+29,169,58,1,Neck,CHIN TUCK - SUPIN
+38,182,88,0,Quadriceps,Dumbbell front squat
+31,174,68,1,Lower Back,Child's Pose
+34,177,72,0,Shoulders,Standing Dumbbell Fly
+26,163,57,1,Neck,Neck Rotation
+43,180,73,0,Shoulders,Standing Dumbbell Fly
+32,170,66,1,Neck,Neck Rotation
+37,175,70,0,Quadriceps,Dumbbell front squat
+26,178,83,0,Lower Back,Knee To Chest Stretch
+41,178,72,0,Shoulders,Cuban Press
+29,171,66,1,Neck,CHIN TUCK - SUPIN
+44,179,74,0,Quadriceps,Dumbbell front squat
+30,170,65,1,Lower Back,Child's Pose
+35,166,71,1,Shoulders,Dumbbell Scaption
+28,172,67,1,Neck,Neck Rotation
+43,180,73,0,Quadriceps,Hamstring Curl
+32,170,66,1,Lower Back,Child's Pose
+37,175,70,0,Shoulders,Cuban Press
+26,168,63,1,Neck,Neck Rotation
+41,178,72,0,Quadriceps,Dumbbell front squat
+29,171,66,1,Lower Back,Child's Pose
+44,179,74,0,Shoulders,Alternating Deltoid Raise
+30,170,65,1,Neck,CHIN TUCK - SUPIN
+35,177,71,0,Quadriceps,Dumbbell front squat
+28,172,67,1,Lower Back,Knee To Chest Stretch
+43,180,73,0,Shoulders,Alternating Deltoid Raise
+32,170,66,1,Neck,CHIN TUCK - SUPIN
+37,175,70,0,Quadriceps,Prone Straight Leg Raises
+26,168,63,1,Lower Back,Knee To Chest Stretch
+41,178,72,0,Shoulders,Dumbbell External Shoulder Rotation
+29,171,66,1,Neck,Neck Rotation
+44,179,74,0,Quadriceps,Dumbbell front squat
+30,170,65,1,Lower Back,Child's Pose
+35,177,71,0,Shoulders,Overhead Dumbbell Front Raise
+28,172,67,1,Neck,Neck Rotation
+43,180,73,0,Quadriceps,Lunges
+32,170,66,1,Lower Back,Knee To Chest Stretch
+61,171,72,1,Lower Back,Knee To Chest Stretch
+62,177,76,0,Shoulders,Overhead Dumbbell Front Raise
+63,173,75,1,Neck,Neck Rotation
+64,180,80,0,Quadriceps,Prone Straight Leg Raises
+65,175,78,0,Lower Back,Child's Pose
+35,162,71,1,Quadriceps,Dumbbell front squat
+28,172,67,1,Lower Back,Child's Pose
+43,158,73,1,Shoulders,Dumbbell Front Raise
+32,170,66,1,Neck,CHIN TUCK - SUPIN
+37,165,70,1,Quadriceps,Dumbbell front squat
+26,168,63,1,Lower Back,Knee To Chest Stretch
+41,178,72,0,Shoulders,Dumbbell Scaption
+29,171,66,1,Neck,CHIN TUCK - SUPIN
+44,179,74,0,Quadriceps,Prone Straight Leg Raises
+30,170,65,1,Lower Back,Child's Pose
+35,177,71,0,Shoulders,Alternating Deltoid Raise
+28,172,67,1,Neck,Neck Rotation
+43,180,73,0,Quadriceps,Hamstring Curl
+32,170,66,1,Lower Back,Knee To Chest Stretch
+37,175,70,0,Shoulders,Standing Dumbbell Shoulder Press
+26,168,63,1,Neck,CHIN TUCK - SUPIN
+41,178,72,0,Quadriceps,Dumbbell front squat
+29,171,66,1,Lower Back,Child's Pose
+44,179,74,0,Shoulders,Dumbbell External Shoulder Rotation
+30,170,65,1,Neck,Neck Rotation
+35,177,71,0,Quadriceps,Dumbbell front squat
+28,172,67,1,Lower Back,Child's Pose
+43,180,73,0,Shoulders,Dumbbell Front Raise To Lateral Raise
+32,170,66,1,Neck,CHIN TUCK - SUPIN
+37,175,70,0,Quadriceps,Hamstring Curl
+26,168,63,1,Lower Back,Knee To Chest Stretch
+41,178,72,0,Shoulders,Standing Dumbbell Shoulder Press
+29,171,66,1,Neck,CHIN TUCK - SUPIN
+44,179,74,0,Quadriceps,Lunges
+30,170,65,1,Lower Back,Child's Pose
+35,177,71,0,Shoulders,Standing Dumbbell Fly
+28,172,67,1,Neck,Neck Rotation
+30,173,75,0,Shoulders,Side Lateral Raise
+30,174,78,0,Shoulders,Side Lateral Raise
+29,176,78,0,Shoulders,Side Lateral Raise
+32,173,75,0,Shoulders,Side Lateral Raise
+26,174,75,0,Shoulders,Overhead Dumbbell Front Raise
+26,176,78,0,Shoulders,Overhead Dumbbell Front Raise
+28,173,75,0,Shoulders,Overhead Dumbbell Front Raise
+32,174,75,0,Shoulders,Side Lateral Raise
+29,176,75,0,Shoulders,Standing Dumbbell Chest Fly
+30,173,76,0,Shoulders,Standing Dumbbell Chest Fly
+28,174,75,0,Shoulders,Standing Dumbbell Chest Fly
+26,176,78,0,Shoulders,Standing Dumbbell Chest Fly
+32,173,75,0,Shoulders,Standing Dumbbell Chest Fly
+29,174,75,0,Shoulders,Power Partials
+30,176,78,0,Shoulders,Power Partials
+28,173,75,0,Shoulders,Power Partials
+26,174,75,0,Shoulders,Power Partials
+26,176,78,0,Shoulders,Cuban Press
+28,173,76,0,Shoulders,Cuban Press
+32,174,75,0,Shoulders,Cuban Press
+28,176,78,0,Shoulders,Cuban Press
+65,165,78,1,Lower Back,Knee To Chest Stretch
+50,172,73,0,Shoulders,Alternating Deltoid Raise
+51,170,70,1,Neck,Neck Rotation
+52,180,80,0,Quadriceps,Dumbbell front squat
+53,175,78,1,Lower Back,Child's Pose
+54,185,85,0,Shoulders,Dumbbell Front Raise
+55,166,73,1,Neck,CHIN TUCK - SUPIN
+56,178,77,0,Quadriceps,Prone Straight Leg Raises
+57,176,76,1,Lower Back,Knee To Chest Stretch
+58,183,82,0,Shoulders,Alternating Dumbbell Front Raise
+59,174,74,1,Neck,CHIN TUCK - SUPIN
+60,179,79,0,Quadriceps,Dumbbell front squat
+61,154,60,1,Lower Back,Child's Pose
+62,177,76,0,Shoulders,Alternating Deltoid Raise
+63,173,75,1,Neck,Neck Rotation
+64,180,80,0,Quadriceps,Lunges
+65,175,78,0,Lower Back,Knee To Chest Stretch
+44,160,66,1,Shoulders,Power Partials
+44,167,64,1,Shoulders,Power Partials
+43,160,68,1,Shoulders,Cuban Press
+43,169,69,1,Shoulders,Cuban Press
+43,160,64,1,Shoulders,Cuban Press
+44,160,64,1,Shoulders,Cuban Press
+41,160,68,1,Shoulders,Dumbbell Scaption
+43,169,69,1,Shoulders,Dumbbell Scaption
+43,167,64,1,Shoulders,Dumbbell Scaption
+30,180,80,0,Shoulders,Alternating Dumbbell Front Raise
+60,179,79,0,Quadriceps,Prone Straight Leg Raises
+35,160,71,1,Quadriceps,Prone Straight Leg Raises
+28,172,67,1,Lower Back,Child's Pose
+16,156,70,1,Quadriceps,Hamstring Curl
+17,158,72,1,Quadriceps,Lunges
+39,181,90,0,Shoulders,Dumbbell Scaption
+50,172,73,0,Shoulders,Overhead Dumbbell Front Raise
+51,170,70,1,Neck,Neck Rotation
+52,180,80,0,Quadriceps,Hamstring Curl
+17,168,73,0,Quadriceps,Prone Straight Leg Raises
+15,166,64,0,Quadriceps,Dumbbell front squat
+20,157,65,1,Shoulders,Alternating Deltoid Raise
+21,188,102,0,Shoulders,Alternating Dumbbell Front Raise
+42,180,92,0,Quadriceps,Prone Straight Leg Raises
+30,168,62,1,Lower Back,Child's Pose
+36,179,78,0,Shoulders,Dumbbell External Shoulder Rotation
+28,171,64,1,Neck,Neck Rotation
+39,166,81,1,Quadriceps,Dumbbell front squat
+32,175,71,1,Lower Back,Knee To Chest Stretch
+37,175,70,0,Shoulders,Cuban Press
+26,168,63,1,Neck,CHIN TUCK - SUPIN
+41,178,72,0,Quadriceps,Prone Straight Leg Raises
+29,171,66,0,Lower Back,Knee To Chest Stretch
+44,179,74,0,Shoulders,Arom Side lying Abduction
+30,170,65,1,Neck,CHIN TUCK - SUPIN
+35,177,71,0,Quadriceps,Prone Straight Leg Raises
+28,169,67,1,Lower Back,Knee To Chest Stretch
+43,180,73,0,Shoulders,Dumbbell External Shoulder Rotation
+32,170,66,1,Neck,CHIN TUCK - SUPIN
+37,175,70,0,Quadriceps,Prone Straight Leg Raises
+26,168,63,1,Lower Back,Child's Pose
+29,176,78,0,Shoulders,Side Lateral Raise
+32,173,75,0,Shoulders,Side Lateral Raise
+26,174,75,0,Shoulders,Overhead Dumbbell Front Raise
+26,176,78,0,Shoulders,Overhead Dumbbell Front Raise
+28,173,75,0,Shoulders,Overhead Dumbbell Front Raise
+32,174,75,0,Shoulders,Side Lateral Raise
+29,176,75,0,Shoulders,Standing Dumbbell Chest Fly
+30,173,76,0,Shoulders,Standing Dumbbell Chest Fly
+28,174,75,0,Shoulders,Standing Dumbbell Chest Fly
+26,176,78,0,Shoulders,Standing Dumbbell Chest Fly
+30,180,80,0,Shoulders,Alternating Dumbbell Front Raise
+60,179,79,0,Quadriceps,Prone Straight Leg Raises
+35,160,71,1,Quadriceps,Prone Straight Leg Raises
+28,172,67,1,Lower Back,Child's Pose
+16,156,70,1,Quadriceps,Hamstring Curl
+17,158,72,1,Quadriceps,Lunges
+39,181,90,0,Shoulders,Dumbbell Scaption
+50,172,73,0,Shoulders,Overhead Dumbbell Front Raise
+51,170,70,1,Neck,Neck Rotation
+52,180,80,0,Quadriceps,Hamstring Curl
+17,168,73,0,Quadriceps,Prone Straight Leg Raises
+15,166,64,0,Quadriceps,Dumbbell front squat
+20,157,65,1,Shoulders,Alternating Deltoid Raise
+21,188,102,0,Shoulders,Alternating Dumbbell Front Raise
+42,180,92,0,Quadriceps,Prone Straight Leg Raises
+30,168,62,1,Lower Back,Child's Pose
+36,179,78,0,Shoulders,Dumbbell External Shoulder Rotation
+28,171,64,1,Neck,Neck Rotation
+39,166,81,1,Quadriceps,Dumbbell front squat
+32,175,71,1,Lower Back,Knee To Chest Stretch
+37,175,70,0,Shoulders,Cuban Press
+26,168,63,1,Neck,CHIN TUCK - SUPIN
+41,178,72,0,Quadriceps,Prone Straight Leg Raises
+29,171,66,0,Lower Back,Knee To Chest Stretch
+44,179,74,0,Shoulders,Arom Side lying Abduction
+30,170,65,1,Neck,CHIN TUCK - SUPIN
+35,177,71,0,Quadriceps,Prone Straight Leg Raises
+28,169,67,1,Lower Back,Knee To Chest Stretch
+43,180,73,0,Shoulders,Dumbbell External Shoulder Rotation
+32,170,66,1,Neck,CHIN TUCK - SUPIN
+37,175,70,0,Quadriceps,Prone Straight Leg Raises
+26,168,63,1,Lower Back,Child's Pose
+41,178,72,0,Shoulders,Standing Dumbbell Fly
+29,179,88,0,Neck,Neck Rotation
+44,179,74,0,Quadriceps,Prone Straight Leg Raises
+30,170,65,1,Lower Back,Child's Pose
+35,177,71,0,Shoulders,Arom Side lying Abduction
+28,174,67,0,Neck,CHIN TUCK - SUPIN
+43,180,73,0,Quadriceps,Prone Straight Leg Raises
+32,170,66,1,Lower Back,Knee To Chest Stretch
+37,175,70,0,Shoulders,Arom Side lying Abduction
+26,168,63,1,Neck,Neck Rotation
+41,163,72,1,Quadriceps,Lunges
+29,171,66,0,Lower Back,Knee To Chest Stretch
+44,179,74,0,Shoulders,Arom Side lying Abduction
+30,170,65,1,Neck,Neck Rotation
+35,177,71,0,Quadriceps,Prone Straight Leg Raises
+28,185,94,0,Lower Back,Child's Pose
+43,180,73,0,Shoulders,Standing Dumbbell Fly
+32,170,66,1,Neck,CHIN TUCK - SUPIN
+37,175,70,0,Quadriceps,Lunges
+26,168,63,1,Lower Back,Child's Pose
+41,178,72,0,Shoulders,Standing Dumbbell Fly
+29,171,66,1,Neck,Neck Rotation
+44,179,74,0,Quadriceps,Lunges
+30,170,65,1,Lower Back,Knee To Chest Stretch
+35,177,71,0,Shoulders,Side Lateral Raise
+28,172,67,1,Neck,CHIN TUCK - SUPIN
+43,180,73,0,Quadriceps,Lunges
+32,170,66,1,Lower Back,Knee To Chest Stretch
+37,175,70,0,Shoulders,Standing Palms In Shoulder Press
+26,168,63,1,Neck,CHIN TUCK - SUPIN
+41,178,72,0,Quadriceps,Hamstring Curl
+29,171,66,1,Lower Back,Child's Pose
+44,159,74,1,Shoulders,Power Partials
+30,170,65,1,Neck,CHIN TUCK - SUPIN
+35,177,71,0,Quadriceps,Prone Straight Leg Raises
+28,172,67,1,Lower Back,Child's Pose
+43,162,73,1,Shoulders,Power Partials
+32,170,66,1,Neck,CHIN TUCK - SUPIN
+37,175,70,0,Quadriceps,Hamstring Curl
+26,171,68,0,Lower Back,Knee To Chest Stretch
+41,178,72,0,Shoulders,Standing Palms In Shoulder Press
+29,171,66,1,Neck,CHIN TUCK - SUPIN
+44,179,74,0,Quadriceps,Dumbbell front squat
+30,169,65,1,Lower Back,Knee To Chest Stretch
+35,177,71,0,Shoulders,Side Lateral Raise
+28,172,67,1,Neck,Neck Rotation
+43,180,73,0,Quadriceps,Dumbbell front squat
+32,170,66,1,Lower Back,Knee To Chest Stretch
+37,168,70,1,Shoulders,Standing Dumbbell Chest Fly
+26,168,63,1,Neck,Neck Rotation
+41,178,72,0,Quadriceps,Prone Straight Leg Raises
+29,171,66,1,Lower Back,Child's Pose
+44,179,74,0,Shoulders,Standing Dumbbell Chest Fly
+30,170,65,1,Neck,CHIN TUCK - SUPIN
+35,177,71,0,Quadriceps,Dumbbell front squat
+28,176,75,0,Lower Back,Knee To Chest Stretch
+43,180,73,0,Shoulders,Bent-Over Dumbbell Rear Delt Row
+32,170,66,1,Neck,Neck Rotation
+37,175,70,0,Quadriceps,Hamstring Curl
+26,168,63,1,Lower Back,Child's Pose
+41,178,72,0,Shoulders,Alternating Dumbbell Front Raise
+29,188,99,0,Neck,Neck Rotation
+44,179,74,0,Quadriceps,Prone Straight Leg Raises
+30,170,65,1,Lower Back,Knee To Chest Stretch
+35,177,71,0,Shoulders,Alternating Dumbbell Front Raise
+28,172,67,1,Neck,Neck Rotation
+43,180,73,0,Quadriceps,Dumbbell front squat
+32,170,66,1,Lower Back,Knee To Chest Stretch
+37,175,70,0,Shoulders,Arom Side lying Abduction
+26,168,63,1,Neck,Neck Rotation
+41,178,72,0,Quadriceps,Prone Straight Leg Raises
+29,171,66,1,Lower Back,Child's Pose
+44,179,74,0,Shoulders,Standing Palms In Shoulder Press
+30,170,65,1,Neck,CHIN TUCK - SUPIN
+35,177,71,0,Quadriceps,Prone Straight Leg Raises
+28,172,67,1,Lower Back,Child's Pose
+43,180,73,0,Shoulders,Arom Side lying Abduction
+32,160,66,1,Neck,CHIN TUCK - SUPIN
+26,168,63,1,Neck,CHIN TUCK - SUPIN
+41,178,72,0,Quadriceps,Dumbbell front squat
+29,171,66,1,Lower Back,Child's Pose
+44,179,74,0,Shoulders,Standing Dumbbell Shoulder Press
+30,170,65,1,Neck,Neck Rotation
+35,177,71,0,Quadriceps,Dumbbell front squat
+28,172,67,1,Lower Back,Child's Pose
+16,156,70,1,Quadriceps,Prone Straight Leg Raises
+17,158,72,1,Quadriceps,Dumbbell front squat
+29,162,75,1,Quadriceps,Dumbbell front squat
+25,154,68,1,Shoulders,Standing Dumbbell Shoulder Press
+22,155,50,1,Shoulders,Alternating Deltoid Raise
+35,159,60,1,Shoulders,Alternating Deltoid Raise
+35,179,85,0,Shoulders,Cuban Press
+36,162,65,1,Shoulders,Arom Side lying Abduction
+37,165,72,1,Shoulders,Cuban Press
+39,181,90,0,Shoulders,Bent-Over Dumbbell Rear Delt Row
+29,177,95,0,Shoulders,Standing Palms In Shoulder Press
+27,185,102,0,Shoulders,Alternating Dumbbell Front Raise
+29,183,105,0,Shoulders,Standing Palms In Shoulder Press
+24,182,90,0,Shoulders,Alternating Dumbbell Front Raise
+22,195,109,0,Shoulders,Bent-Over Dumbbell Rear Delt Row
+22,177,90,0,Quadriceps,Hamstring Curl
+22,173,79,0,Quadriceps,Prone Straight Leg Raises
+46,194,100,0,Quadriceps,Lunges
+48,173,78,1,Quadriceps,Lunges
+47,174,88,0,Quadriceps,Lunges
+47,175,78,0,Lower Back,Child's Pose
+44,175,92,0,Shoulders,Standing Dumbbell Fly
+41,174,80,1,Shoulders,Standing Dumbbell Fly
+41,178,76,0,Shoulders,Alternating Deltoid Raise
+42,175,70,0,Shoulders,Prone Horizontal Abduction
+47,182,76,0,Lower Back,Knee To Chest Stretch
+44,163,95,1,Lower Back,Child's Pose
+19,179,84,0,Lower Back,Knee To Chest Stretch
+19,153,45,1,Lower Back,Child's Pose
+19,155,48,1,Lower Back,Knee To Chest Stretch
+18,166,74,1,Neck,CHIN TUCK - SUPIN
+19,174,83,0,Neck,Neck Rotation
+37,175,70,0,Shoulders,Prone Horizontal Abduction
+26,168,63,1,Neck,Neck Rotation
+41,178,72,0,Quadriceps,Prone Straight Leg Raises
+29,171,66,1,Lower Back,Knee To Chest Stretch
+44,179,74,0,Shoulders,Prone Horizontal Abduction
+30,170,65,1,Neck,Neck Rotation
+35,177,71,0,Quadriceps,Hamstring Curl
+28,172,67,1,Lower Back,Child's Pose
+43,180,73,0,Shoulders,Dumbbell Front Raise
+32,170,66,1,Neck,Neck Rotation
+37,175,70,0,Quadriceps,Dumbbell front squat
+26,169,63,1,Lower Back,Knee To Chest Stretch
+41,178,72,0,Shoulders,Dumbbell External Shoulder Rotation
+29,171,66,1,Neck,Neck Rotation
+44,179,74,0,Quadriceps,Dumbbell front squat
+30,170,65,1,Lower Back,Knee To Chest Stretch
+35,177,71,0,Shoulders,Dumbbell Front Raise
+28,164,67,1,Neck,CHIN TUCK - SUPIN
+43,180,73,0,Quadriceps,Dumbbell front squat
+32,170,66,1,Lower Back,Knee To Chest Stretch
+37,175,70,0,Shoulders,Dumbbell External Shoulder Rotation
+26,168,63,1,Neck,Neck Rotation
+41,178,72,0,Quadriceps,Lunges
+29,171,66,1,Lower Back,Child's Pose
+44,179,74,0,Shoulders,Dumbbell External Shoulder Rotation
+30,170,65,1,Neck,CHIN TUCK - SUPIN
+35,177,71,0,Quadriceps,Hamstring Curl
+28,172,67,1,Lower Back,Child's Pose
+43,180,73,0,Shoulders,Dumbbell External Shoulder Rotation
+32,170,66,1,Neck,Neck Rotation
+37,175,70,0,Quadriceps,Lunges
+26,175,80,0,Lower Back,Child's Pose
+41,178,72,0,Shoulders,Bent-Over Dumbbell Rear Delt Row
+29,163,66,1,Neck,CHIN TUCK - SUPIN
+44,179,74,0,Quadriceps,Prone Straight Leg Raises
+30,170,65,1,Lower Back,Child's Pose
+35,177,71,0,Shoulders,Dumbbell Front Raise To Lateral Raise
+28,162,67,1,Neck,Neck Rotation
+43,180,73,0,Quadriceps,Prone Straight Leg Raises
+32,176,76,0,Lower Back,Knee To Chest Stretch
+37,175,70,0,Shoulders,Bent-Over Dumbbell Rear Delt Row
+26,168,63,1,Neck,CHIN TUCK - SUPIN
+41,178,72,0,Quadriceps,Lunges
+29,171,66,1,Lower Back,Child's Pose
+44,179,74,0,Shoulders,Dumbbell External Shoulder Rotation
+30,170,65,1,Neck,Neck Rotation
+35,167,71,1,Quadriceps,Dumbbell front squat
+28,172,67,1,Lower Back,Knee To Chest Stretch
+43,180,73,0,Shoulders,Dumbbell External Shoulder Rotation
+32,156,66,1,Neck,Neck Rotation
+37,175,70,0,Quadriceps,Prone Straight Leg Raises
+26,168,63,1,Lower Back,Child's Pose
+41,178,72,0,Shoulders,Alternating Dumbbell Front Raise
+29,171,66,1,Neck,CHIN TUCK - SUPIN
+44,179,74,0,Quadriceps,Lunges
+30,170,65,1,Lower Back,Child's Pose
+35,164,71,1,Shoulders,Alternating Dumbbell Front Raise
+28,172,67,1,Neck,CHIN TUCK - SUPIN
+43,180,73,0,Quadriceps,Dumbbell front squat
+32,170,66,1,Lower Back,Child's Pose
+37,175,70,0,Shoulders,Dumbbell External Shoulder Rotation
+26,168,63,1,Neck,Neck Rotation
+41,178,72,0,Quadriceps,Dumbbell front squat
+29,175,81,0,Lower Back,Child's Pose
+44,179,74,0,Shoulders,Dumbbell Front Raise To Lateral Raise
+30,170,65,1,Neck,CHIN TUCK - SUPIN
+35,177,71,0,Quadriceps,Hamstring Curl
+28,172,67,1,Lower Back,Knee To Chest Stretch
+43,180,73,0,Shoulders,Dumbbell Front Raise To Lateral Raise
+32,170,66,1,Neck,Neck Rotation
+37,175,70,0,Quadriceps,Lunges
+26,168,63,1,Lower Back,Knee To Chest Stretch
+41,178,72,0,Shoulders,Dumbbell External Shoulder Rotation
+29,171,66,1,Neck,CHIN TUCK - SUPIN
+44,179,74,0,Quadriceps,Hamstring Curl
+30,170,65,1,Lower Back,Knee To Chest Stretch
+35,177,71,0,Shoulders,Prone Horizontal Abduction
+28,162,67,1,Neck,Neck Rotation
+43,180,73,0,Quadriceps,Prone Straight Leg Raises
+32,173,76,0,Lower Back,Child's Pose
+37,175,70,0,Shoulders,Standing Palms In Shoulder Press
+26,188,96,0,Neck,Neck Rotation
+41,178,72,0,Quadriceps,Hamstring Curl
+29,179,83,0,Lower Back,Knee To Chest Stretch
+44,179,74,0,Shoulders,Standing Palms In Shoulder Press
+30,170,65,1,Neck,CHIN TUCK - SUPIN
+44,167,68,1,Shoulders,Side Lateral Raise
+43,160,69,1,Shoulders,Side Lateral Raise
+44,160,68,1,Shoulders,Side Lateral Raise
+41,169,69,1,Shoulders,Side Lateral Raise
+44,169,68,1,Shoulders,Overhead Dumbbell Front Raise
+44,160,69,1,Shoulders,Overhead Dumbbell Front Raise
+43,160,69,1,Shoulders,Overhead Dumbbell Front Raise
+44,167,68,1,Shoulders,Side Lateral Raise
+44,160,69,1,Shoulders,Standing Dumbbell Chest Fly
+44,169,68,1,Shoulders,Standing Dumbbell Chest Fly
+41,167,69,1,Shoulders,Standing Dumbbell Chest Fly
+41,166,68,1,Shoulders,Standing Dumbbell Chest Fly
+43,169,69,1,Shoulders,Standing Dumbbell Chest Fly
+41,169,68,1,Shoulders,Power Partials
+44,160,69,1,Shoulders,Power Partials
+44,160,66,1,Shoulders,Power Partials
+44,167,64,1,Shoulders,Power Partials
+43,160,68,1,Shoulders,Cuban Press
+43,169,69,1,Shoulders,Cuban Press
+43,160,64,1,Shoulders,Cuban Press
+44,160,64,1,Shoulders,Cuban Press
+41,160,68,1,Shoulders,Dumbbell Scaption
+43,169,69,1,Shoulders,Dumbbell Scaption
+43,167,64,1,Shoulders,Dumbbell Scaption
+44,169,68,1,Shoulders,Bent-Over Dumbbell Rear Delt Row
+41,159,69,1,Shoulders,Bent-Over Dumbbell Rear Delt Row
+44,159,68,1,Shoulders,Bent-Over Dumbbell Rear Delt Row
+44,167,64,1,Shoulders,Prone Horizontal Abduction
+43,159,69,1,Shoulders,Arom Side lying Abduction
+41,159,64,1,Shoulders,Arom Side lying Abduction
+44,167,69,1,Shoulders,Side Lateral Raise
+43,167,68,1,Shoulders,Overhead Dumbbell Front Raise
+43,180,73,0,Quadriceps,Lunges
+32,170,66,1,Lower Back,Knee To Chest Stretch
+37,161,70,1,Shoulders,Side Lateral Raise
+26,168,63,1,Neck,Child's Pose
+41,178,72,0,Quadriceps,Hamstring Curl
+29,171,66,1,Lower Back,Knee To Chest Stretch
+44,179,74,0,Shoulders,Standing Dumbbell Chest Fly
+30,180,85,0,Neck,CHIN TUCK - SUPIN
+35,177,71,0,Quadriceps,Dumbbell front squat
+28,172,67,1,Lower Back,Child's Pose
+43,180,73,0,Shoulders,Prone Horizontal Abduction
+32,170,66,1,Neck,Neck Rotation
+37,175,70,0,Quadriceps,Lunges
+26,168,63,1,Lower Back,Child's Pose
+41,178,72,0,Shoulders,Power Partials
+29,171,66,1,Neck,CHIN TUCK - SUPIN
+44,179,74,0,Quadriceps,Prone Straight Leg Raises
+30,170,65,1,Lower Back,Knee To Chest Stretch
+35,177,71,0,Shoulders,Alternating Deltoid Raise
+28,172,67,1,Neck,Neck Rotation
+43,180,73,0,Quadriceps,Dumbbell front squat
+32,178,85,0,Lower Back,Knee To Chest Stretch
+37,175,70,0,Shoulders,Dumbbell Scaption
+26,168,63,1,Neck,CHIN TUCK - SUPIN
+41,178,72,0,Quadriceps,Lunges
+29,171,66,1,Lower Back,Knee To Chest Stretch
+44,179,74,0,Shoulders,Dumbbell External Shoulder Rotation
+30,170,65,1,Neck,Neck Rotation
+35,177,71,0,Quadriceps,Prone Straight Leg Raises
+28,172,67,1,Lower Back,Child's Pose
+43,173,77,1,Shoulders,Dumbbell Scaption
+32,170,66,1,Neck,Neck Rotation
+37,175,70,0,Quadriceps,Prone Straight Leg Raises
+26,168,63,1,Lower Back,Knee To Chest Stretch
+41,162,72,1,Shoulders,Power Partials
+29,171,66,1,Neck,CHIN TUCK - SUPIN
+44,179,74,0,Quadriceps,Hamstring Curl
+30,170,65,1,Lower Back,Child's Pose
+35,177,71,0,Shoulders,Power Partials
+28,172,67,1,Neck,CHIN TUCK - SUPIN
+43,180,73,0,Quadriceps,Dumbbell front squat
+32,170,66,1,Lower Back,Knee To Chest Stretch
+50,175,75,0,Shoulders,Dumbbell Front Raise
+51,175,80,0,Neck,Neck Rotation
+52,180,80,0,Quadriceps,Lunges
+53,175,78,0,Lower Back,Child's Pose
+54,185,85,0,Shoulders,Dumbbell Front Raise To Lateral Raise
+55,160,73,1,Neck,CHIN TUCK - SUPIN
+56,178,77,0,Quadriceps,Prone Straight Leg Raises
+57,176,76,0,Lower Back,Knee To Chest Stretch
+58,183,82,0,Shoulders,Dumbbell Front Raise To Lateral Raise
+59,174,74,1,Neck,CHIN TUCK - SUPIN
+60,179,79,0,Quadriceps,Prone Straight Leg Raises
+61,157,72,1,Lower Back,Child's Pose
+62,177,76,0,Shoulders,Dumbbell Front Raise
+63,173,75,1,Neck,Neck Rotation
+64,180,80,0,Quadriceps,Dumbbell front squat
+65,165,78,1,Lower Back,Knee To Chest Stretch
+50,172,73,0,Shoulders,Alternating Deltoid Raise
+51,170,70,1,Neck,Neck Rotation
+52,180,80,0,Quadriceps,Dumbbell front squat
+53,175,78,1,Lower Back,Child's Pose
+54,185,85,0,Shoulders,Dumbbell Front Raise
+55,166,73,1,Neck,CHIN TUCK - SUPIN
+56,178,77,0,Quadriceps,Prone Straight Leg Raises
+57,176,76,1,Lower Back,Knee To Chest Stretch
+58,183,82,0,Shoulders,Alternating Dumbbell Front Raise
+59,174,74,1,Neck,CHIN TUCK - SUPIN
+60,179,79,0,Quadriceps,Dumbbell front squat
+61,154,60,1,Lower Back,Child's Pose
+62,177,76,0,Shoulders,Alternating Deltoid Raise
+63,173,75,1,Neck,Neck Rotation
+64,180,80,0,Quadriceps,Lunges
+65,175,78,0,Lower Back,Knee To Chest Stretch
+50,158,69,1,Shoulders,Alternating Deltoid Raise
+51,170,70,1,Neck,CHIN TUCK - SUPIN
+52,180,80,0,Quadriceps,Prone Straight Leg Raises
+53,175,78,1,Lower Back,Child's Pose
+54,185,85,0,Shoulders,Dumbbell Scaption
+55,172,73,1,Neck,Neck Rotation
+56,178,77,0,Quadriceps,Hamstring Curl
+57,176,76,1,Lower Back,Child's Pose
+58,183,82,0,Shoulders,Dumbbell Front Raise To Lateral Raise
+59,162,74,1,Neck,CHIN TUCK - SUPIN
+60,179,79,0,Quadriceps,Hamstring Curl
+61,171,72,1,Lower Back,Knee To Chest Stretch
+62,177,76,0,Shoulders,Standing Dumbbell Shoulder Press
+63,173,75,1,Neck,CHIN TUCK - SUPIN
+64,180,80,0,Quadriceps,Lunges
+65,175,78,1,Lower Back,Child's Pose
+50,175,75,0,Shoulders,Standing Dumbbell Fly
+51,170,70,1,Neck,Neck Rotation
+52,180,80,0,Quadriceps,Lunges
+53,175,78,1,Lower Back,Knee To Chest Stretch
+54,185,85,0,Shoulders,Side Lateral Raise
+55,172,73,1,Neck,Child's Pose
+56,178,77,0,Quadriceps,Hamstring Curl
+57,161,76,1,Lower Back,Knee To Chest Stretch
+58,183,82,0,Shoulders,Standing Dumbbell Chest Fly
+59,166,74,1,Neck,CHIN TUCK - SUPIN
+60,179,79,0,Quadriceps,Dumbbell front squat
+61,171,72,1,Lower Back,Child's Pose
+24,177,76,0,Shoulders,Prone Horizontal Abduction
+63,173,75,1,Neck,CHIN TUCK - SUPIN
+64,180,80,0,Quadriceps,Hamstring Curl
+65,175,78,1,Lower Back,Knee To Chest Stretch
+50,172,73,0,Shoulders,Overhead Dumbbell Front Raise
+51,170,70,1,Neck,CHIN TUCK - SUPIN
+52,180,80,0,Quadriceps,Prone Straight Leg Raises
+53,175,78,1,Lower Back,Child's Pose
+54,185,85,0,Shoulders,Prone Horizontal Abduction
+55,172,73,1,Neck,Neck Rotation
+56,178,77,0,Quadriceps,Lunges
+57,176,76,1,Lower Back,Child's Pose
+58,183,82,0,Shoulders,Overhead Dumbbell Front Raise
+59,174,74,1,Neck,Neck Rotation
+18,159,68,1,Neck,CHIN TUCK - SUPIN
+17,161,49,1,Neck,Neck Rotation
+19,184,100,0,Neck,Neck Rotation
+16,155,63,1,Neck,CHIN TUCK - SUPIN
+23,158,78,1,Neck,Neck Rotation
+22,162,54,1,Neck,CHIN TUCK - SUPIN
+19,169,67,1,Neck,Neck Rotation
+17,153,60,1,Quadriceps,Hamstring Curl
+21,177,92,0,Quadriceps,Lunges
+53,175,78,1,Lower Back,Knee To Chest Stretch
+54,185,85,0,Shoulders,Dumbbell Front Raise
+55,163,73,1,Neck,Neck Rotation
+56,178,77,0,Quadriceps,Dumbbell front squat
+57,166,76,1,Lower Back,Knee To Chest Stretch
+58,183,82,0,Shoulders,Bent-Over Dumbbell Rear Delt Row
+59,174,74,1,Neck,CHIN TUCK - SUPIN
+60,179,79,0,Quadriceps,Dumbbell front squat
+61,171,72,1,Lower Back,Child's Pose
+62,177,76,0,Shoulders,Alternating Dumbbell Front Raise
+63,173,75,1,Neck,CHIN TUCK - SUPIN
+64,180,80,0,Quadriceps,Lunges
+65,175,78,1,Lower Back,Child's Pose
+41,173,83,0,Lower Back,Knee To Chest Stretch
+21,158,72,1,Lower Back,Child's Pose
+25,165,55,1,Neck,Neck Rotation
+35,175,70,0,Quadriceps,Hamstring Curl
+28,172,65,1,Lower Back,Knee To Chest Stretch
+40,185,90,0,Shoulders,Prone Horizontal Abduction
+32,168,60,1,Neck,Neck Rotation
+45,178,85,0,Quadriceps,Hamstring Curl
+27,170,63,1,Lower Back,Knee To Chest Stretch
+33,165,75,1,Shoulders,Prone Horizontal Abduction
+29,169,58,1,Neck,CHIN TUCK - SUPIN
+38,182,88,0,Quadriceps,Dumbbell front squat
+31,174,68,1,Lower Back,Child's Pose
+34,177,72,0,Shoulders,Standing Dumbbell Fly
+26,163,57,1,Neck,Neck Rotation
+43,180,73,0,Shoulders,Standing Dumbbell Fly
+32,170,66,1,Neck,Neck Rotation
+37,175,70,0,Quadriceps,Dumbbell front squat
+26,178,83,0,Lower Back,Knee To Chest Stretch
+41,178,72,0,Shoulders,Cuban Press
+29,171,66,1,Neck,CHIN TUCK - SUPIN
+44,179,74,0,Quadriceps,Dumbbell front squat
+30,170,65,1,Lower Back,Child's Pose
+35,166,71,1,Shoulders,Dumbbell Scaption
+28,172,67,1,Neck,Neck Rotation
+43,180,73,0,Quadriceps,Hamstring Curl
+32,170,66,1,Lower Back,Child's Pose
+37,175,70,0,Shoulders,Cuban Press
+26,168,63,1,Neck,Neck Rotation
+41,178,72,0,Quadriceps,Dumbbell front squat
+29,171,66,1,Lower Back,Child's Pose
+44,179,74,0,Shoulders,Alternating Deltoid Raise
+30,170,65,1,Neck,CHIN TUCK - SUPIN
+35,177,71,0,Quadriceps,Dumbbell front squat
+28,172,67,1,Lower Back,Knee To Chest Stretch
+43,180,73,0,Shoulders,Alternating Deltoid Raise
+32,170,66,1,Neck,CHIN TUCK - SUPIN
+37,175,70,0,Quadriceps,Prone Straight Leg Raises
+26,168,63,1,Lower Back,Knee To Chest Stretch
+41,178,72,0,Shoulders,Dumbbell External Shoulder Rotation
+29,171,66,1,Neck,Neck Rotation
+44,179,74,0,Quadriceps,Dumbbell front squat
+30,170,65,1,Lower Back,Child's Pose
+35,177,71,0,Shoulders,Overhead Dumbbell Front Raise
+28,172,67,1,Neck,Neck Rotation
+43,180,73,0,Quadriceps,Lunges
+32,170,66,1,Lower Back,Knee To Chest Stretch
+61,171,72,1,Lower Back,Knee To Chest Stretch
+62,177,76,0,Shoulders,Overhead Dumbbell Front Raise
+63,173,75,1,Neck,Neck Rotation
+64,180,80,0,Quadriceps,Prone Straight Leg Raises
+65,175,78,0,Lower Back,Child's Pose
+35,162,71,1,Quadriceps,Dumbbell front squat
+28,172,67,1,Lower Back,Child's Pose
+43,158,73,1,Shoulders,Dumbbell Front Raise
+32,170,66,1,Neck,CHIN TUCK - SUPIN
+37,165,70,1,Quadriceps,Dumbbell front squat
+26,168,63,1,Lower Back,Knee To Chest Stretch
+41,178,72,0,Shoulders,Dumbbell Scaption
+29,171,66,1,Neck,CHIN TUCK - SUPIN
+44,179,74,0,Quadriceps,Prone Straight Leg Raises
+30,170,65,1,Lower Back,Child's Pose
+35,177,71,0,Shoulders,Alternating Deltoid Raise
+28,172,67,1,Neck,Neck Rotation
+43,180,73,0,Quadriceps,Hamstring Curl
+32,170,66,1,Lower Back,Knee To Chest Stretch
+37,175,70,0,Shoulders,Standing Dumbbell Shoulder Press
+26,168,63,1,Neck,CHIN TUCK - SUPIN
+41,178,72,0,Quadriceps,Dumbbell front squat
+29,171,66,1,Lower Back,Child's Pose
+44,179,74,0,Shoulders,Dumbbell External Shoulder Rotation
+30,170,65,1,Neck,Neck Rotation
+35,177,71,0,Quadriceps,Dumbbell front squat
+28,172,67,1,Lower Back,Child's Pose
+43,180,73,0,Shoulders,Dumbbell Front Raise To Lateral Raise
+32,170,66,1,Neck,CHIN TUCK - SUPIN
+37,175,70,0,Quadriceps,Hamstring Curl
+26,168,63,1,Lower Back,Knee To Chest Stretch
+41,178,72,0,Shoulders,Standing Dumbbell Shoulder Press
+29,171,66,1,Neck,CHIN TUCK - SUPIN
+44,179,74,0,Quadriceps,Lunges
+30,170,65,1,Lower Back,Child's Pose
+35,177,71,0,Shoulders,Standing Dumbbell Fly
+28,172,67,1,Neck,Neck Rotation
+30,173,75,0,Shoulders,Side Lateral Raise
+30,174,78,0,Shoulders,Side Lateral Raise
+29,176,78,0,Shoulders,Side Lateral Raise
+32,173,75,0,Shoulders,Side Lateral Raise
+26,174,75,0,Shoulders,Overhead Dumbbell Front Raise
+26,176,78,0,Shoulders,Overhead Dumbbell Front Raise
+28,173,75,0,Shoulders,Overhead Dumbbell Front Raise
+32,174,75,0,Shoulders,Side Lateral Raise
+29,176,75,0,Shoulders,Standing Dumbbell Chest Fly
+30,173,76,0,Shoulders,Standing Dumbbell Chest Fly
+28,174,75,0,Shoulders,Standing Dumbbell Chest Fly
+26,176,78,0,Shoulders,Standing Dumbbell Chest Fly
+32,173,75,0,Shoulders,Standing Dumbbell Chest Fly
+29,174,75,0,Shoulders,Power Partials
+30,176,78,0,Shoulders,Power Partials
+28,173,75,0,Shoulders,Power Partials
+26,174,75,0,Shoulders,Power Partials
+26,176,78,0,Shoulders,Cuban Press
+28,173,76,0,Shoulders,Cuban Press
+32,174,75,0,Shoulders,Cuban Press
+28,176,78,0,Shoulders,Cuban Press
+65,165,78,1,Lower Back,Knee To Chest Stretch
+50,172,73,0,Shoulders,Alternating Deltoid Raise
+51,170,70,1,Neck,Neck Rotation
+52,180,80,0,Quadriceps,Dumbbell front squat
+53,175,78,1,Lower Back,Child's Pose
+54,185,85,0,Shoulders,Dumbbell Front Raise
+55,166,73,1,Neck,CHIN TUCK - SUPIN
+56,178,77,0,Quadriceps,Prone Straight Leg Raises
+57,176,76,1,Lower Back,Knee To Chest Stretch
+58,183,82,0,Shoulders,Alternating Dumbbell Front Raise
+59,174,74,1,Neck,CHIN TUCK - SUPIN
+60,179,79,0,Quadriceps,Dumbbell front squat
+61,154,60,1,Lower Back,Child's Pose
+62,177,76,0,Shoulders,Alternating Deltoid Raise
+63,173,75,1,Neck,Neck Rotation
+64,180,80,0,Quadriceps,Lunges
+65,175,78,0,Lower Back,Knee To Chest Stretch
+44,160,66,1,Shoulders,Power Partials
+44,167,64,1,Shoulders,Power Partials
+43,160,68,1,Shoulders,Cuban Press
+43,169,69,1,Shoulders,Cuban Press
+43,160,64,1,Shoulders,Cuban Press
+44,160,64,1,Shoulders,Cuban Press
+41,160,68,1,Shoulders,Dumbbell Scaption
+43,169,69,1,Shoulders,Dumbbell Scaption
+43,167,64,1,Shoulders,Dumbbell Scaption
+30,180,80,0,Shoulders,Alternating Dumbbell Front Raise
+60,179,79,0,Quadriceps,Prone Straight Leg Raises
+35,160,71,1,Quadriceps,Prone Straight Leg Raises
+28,172,67,1,Lower Back,Child's Pose
+16,156,70,1,Quadriceps,Hamstring Curl
+17,158,72,1,Quadriceps,Lunges
+39,181,90,0,Shoulders,Dumbbell Scaption
+50,172,73,0,Shoulders,Overhead Dumbbell Front Raise
+51,170,70,1,Neck,Neck Rotation
+52,180,80,0,Quadriceps,Hamstring Curl
+17,168,73,0,Quadriceps,Prone Straight Leg Raises
+15,166,64,0,Quadriceps,Dumbbell front squat
+20,157,65,1,Shoulders,Alternating Deltoid Raise
+21,188,102,0,Shoulders,Alternating Dumbbell Front Raise
+42,180,92,0,Quadriceps,Prone Straight Leg Raises
+30,168,62,1,Lower Back,Child's Pose
+36,179,78,0,Shoulders,Dumbbell External Shoulder Rotation
+28,171,64,1,Neck,Neck Rotation
+39,166,81,1,Quadriceps,Dumbbell front squat
+32,175,71,1,Lower Back,Knee To Chest Stretch
+37,175,70,0,Shoulders,Cuban Press
+26,168,63,1,Neck,CHIN TUCK - SUPIN
+41,178,72,0,Quadriceps,Prone Straight Leg Raises
+29,171,66,0,Lower Back,Knee To Chest Stretch
+44,179,74,0,Shoulders,Arom Side lying Abduction
+30,170,65,1,Neck,CHIN TUCK - SUPIN
+35,177,71,0,Quadriceps,Prone Straight Leg Raises
+28,169,67,1,Lower Back,Knee To Chest Stretch
+43,180,73,0,Shoulders,Dumbbell External Shoulder Rotation
+32,170,66,1,Neck,CHIN TUCK - SUPIN
+37,175,70,0,Quadriceps,Prone Straight Leg Raises
+26,168,63,1,Lower Back,Child's Pose
+29,176,78,0,Shoulders,Side Lateral Raise
+32,173,75,0,Shoulders,Side Lateral Raise
+26,174,75,0,Shoulders,Overhead Dumbbell Front Raise
+26,176,78,0,Shoulders,Overhead Dumbbell Front Raise
+28,173,75,0,Shoulders,Overhead Dumbbell Front Raise
+32,174,75,0,Shoulders,Side Lateral Raise
+29,176,75,0,Shoulders,Standing Dumbbell Chest Fly
+30,173,76,0,Shoulders,Standing Dumbbell Chest Fly
+28,174,75,0,Shoulders,Standing Dumbbell Chest Fly
+26,176,78,0,Shoulders,Standing Dumbbell Chest Fly
+30,180,80,0,Shoulders,Alternating Dumbbell Front Raise
+60,179,79,0,Quadriceps,Prone Straight Leg Raises
+35,160,71,1,Quadriceps,Prone Straight Leg Raises
+28,172,67,1,Lower Back,Child's Pose
+16,156,70,1,Quadriceps,Hamstring Curl
+17,158,72,1,Quadriceps,Lunges
+39,181,90,0,Shoulders,Dumbbell Scaption
+50,172,73,0,Shoulders,Overhead Dumbbell Front Raise
+51,170,70,1,Neck,Neck Rotation
+52,180,80,0,Quadriceps,Hamstring Curl
+17,168,73,0,Quadriceps,Prone Straight Leg Raises
+15,166,64,0,Quadriceps,Dumbbell front squat
+20,157,65,1,Shoulders,Alternating Deltoid Raise
+21,188,102,0,Shoulders,Alternating Dumbbell Front Raise
+42,180,92,0,Quadriceps,Prone Straight Leg Raises
+30,168,62,1,Lower Back,Child's Pose
+36,179,78,0,Shoulders,Dumbbell External Shoulder Rotation
+28,171,64,1,Neck,Neck Rotation
+39,166,81,1,Quadriceps,Dumbbell front squat
+32,175,71,1,Lower Back,Knee To Chest Stretch
+37,175,70,0,Shoulders,Cuban Press
+26,168,63,1,Neck,CHIN TUCK - SUPIN
+41,178,72,0,Quadriceps,Prone Straight Leg Raises
+29,171,66,0,Lower Back,Knee To Chest Stretch
+44,179,74,0,Shoulders,Arom Side lying Abduction
+30,170,65,1,Neck,CHIN TUCK - SUPIN
+35,177,71,0,Quadriceps,Prone Straight Leg Raises
+28,169,67,1,Lower Back,Knee To Chest Stretch
+43,180,73,0,Shoulders,Dumbbell External Shoulder Rotation
+32,170,66,1,Neck,CHIN TUCK - SUPIN
+37,175,70,0,Quadriceps,Prone Straight Leg Raises
+26,168,63,1,Lower Back,Child's Pose
+41,178,72,0,Shoulders,Standing Dumbbell Fly
+29,179,88,0,Neck,Neck Rotation
+44,179,74,0,Quadriceps,Prone Straight Leg Raises
+30,170,65,1,Lower Back,Child's Pose
+35,177,71,0,Shoulders,Arom Side lying Abduction
+28,174,67,0,Neck,CHIN TUCK - SUPIN
+43,180,73,0,Quadriceps,Prone Straight Leg Raises
+32,170,66,1,Lower Back,Knee To Chest Stretch
+37,175,70,0,Shoulders,Arom Side lying Abduction
+26,168,63,1,Neck,Neck Rotation
+41,163,72,1,Quadriceps,Lunges
+29,171,66,0,Lower Back,Knee To Chest Stretch
+44,179,74,0,Shoulders,Arom Side lying Abduction
+30,170,65,1,Neck,Neck Rotation
+35,177,71,0,Quadriceps,Prone Straight Leg Raises
+28,185,94,0,Lower Back,Child's Pose
+43,180,73,0,Shoulders,Standing Dumbbell Fly
+32,170,66,1,Neck,CHIN TUCK - SUPIN
+37,175,70,0,Quadriceps,Lunges
+26,168,63,1,Lower Back,Child's Pose
+41,178,72,0,Shoulders,Standing Dumbbell Fly
+29,171,66,1,Neck,Neck Rotation
+44,179,74,0,Quadriceps,Lunges
+30,170,65,1,Lower Back,Knee To Chest Stretch
+35,177,71,0,Shoulders,Side Lateral Raise
+28,172,67,1,Neck,CHIN TUCK - SUPIN
+43,180,73,0,Quadriceps,Lunges
+32,170,66,1,Lower Back,Knee To Chest Stretch
+37,175,70,0,Shoulders,Standing Palms In Shoulder Press
+26,168,63,1,Neck,CHIN TUCK - SUPIN
+41,178,72,0,Quadriceps,Hamstring Curl
+29,171,66,1,Lower Back,Child's Pose
+44,159,74,1,Shoulders,Power Partials
+30,170,65,1,Neck,CHIN TUCK - SUPIN
+35,177,71,0,Quadriceps,Prone Straight Leg Raises
+28,172,67,1,Lower Back,Child's Pose
+43,162,73,1,Shoulders,Power Partials
+32,170,66,1,Neck,CHIN TUCK - SUPIN
+37,175,70,0,Quadriceps,Hamstring Curl
+26,171,68,0,Lower Back,Knee To Chest Stretch
+41,178,72,0,Shoulders,Standing Palms In Shoulder Press
+29,171,66,1,Neck,CHIN TUCK - SUPIN
+44,179,74,0,Quadriceps,Dumbbell front squat
+30,169,65,1,Lower Back,Knee To Chest Stretch
+35,177,71,0,Shoulders,Side Lateral Raise
+28,172,67,1,Neck,Neck Rotation
+43,180,73,0,Quadriceps,Dumbbell front squat
+32,170,66,1,Lower Back,Knee To Chest Stretch
+37,168,70,1,Shoulders,Standing Dumbbell Chest Fly
+26,168,63,1,Neck,Neck Rotation
+41,178,72,0,Quadriceps,Prone Straight Leg Raises
+29,171,66,1,Lower Back,Child's Pose
+44,179,74,0,Shoulders,Standing Dumbbell Chest Fly
+30,170,65,1,Neck,CHIN TUCK - SUPIN
+35,177,71,0,Quadriceps,Dumbbell front squat
+28,176,75,0,Lower Back,Knee To Chest Stretch
+43,180,73,0,Shoulders,Bent-Over Dumbbell Rear Delt Row
+32,170,66,1,Neck,Neck Rotation
+37,175,70,0,Quadriceps,Hamstring Curl
+26,168,63,1,Lower Back,Child's Pose
+41,178,72,0,Shoulders,Alternating Dumbbell Front Raise
+29,188,99,0,Neck,Neck Rotation
+44,179,74,0,Quadriceps,Prone Straight Leg Raises
+30,170,65,1,Lower Back,Knee To Chest Stretch
+35,177,71,0,Shoulders,Alternating Dumbbell Front Raise
+28,172,67,1,Neck,Neck Rotation
+43,180,73,0,Quadriceps,Dumbbell front squat
+32,170,66,1,Lower Back,Knee To Chest Stretch
+37,175,70,0,Shoulders,Arom Side lying Abduction
+26,168,63,1,Neck,Neck Rotation
+41,178,72,0,Quadriceps,Prone Straight Leg Raises
+29,171,66,1,Lower Back,Child's Pose
+44,179,74,0,Shoulders,Standing Palms In Shoulder Press
+30,170,65,1,Neck,CHIN TUCK - SUPIN
+35,177,71,0,Quadriceps,Prone Straight Leg Raises
+28,172,67,1,Lower Back,Child's Pose
+43,180,73,0,Shoulders,Arom Side lying Abduction
+32,160,66,1,Neck,CHIN TUCK - SUPIN
+26,168,63,1,Neck,CHIN TUCK - SUPIN
+41,178,72,0,Quadriceps,Dumbbell front squat
+29,171,66,1,Lower Back,Child's Pose
+44,179,74,0,Shoulders,Standing Dumbbell Shoulder Press
+30,170,65,1,Neck,Neck Rotation
+35,177,71,0,Quadriceps,Dumbbell front squat
+28,172,67,1,Lower Back,Child's Pose
+16,156,70,1,Quadriceps,Prone Straight Leg Raises
+17,158,72,1,Quadriceps,Dumbbell front squat
+29,162,75,1,Quadriceps,Dumbbell front squat
+25,154,68,1,Shoulders,Standing Dumbbell Shoulder Press
+22,155,50,1,Shoulders,Alternating Deltoid Raise
+35,159,60,1,Shoulders,Alternating Deltoid Raise
+35,179,85,0,Shoulders,Cuban Press
+36,162,65,1,Shoulders,Arom Side lying Abduction
+37,165,72,1,Shoulders,Cuban Press
+39,181,90,0,Shoulders,Bent-Over Dumbbell Rear Delt Row
+29,177,95,0,Shoulders,Standing Palms In Shoulder Press
+27,185,102,0,Shoulders,Alternating Dumbbell Front Raise
+29,183,105,0,Shoulders,Standing Palms In Shoulder Press
+24,182,90,0,Shoulders,Alternating Dumbbell Front Raise
+22,195,109,0,Shoulders,Bent-Over Dumbbell Rear Delt Row
+22,177,90,0,Quadriceps,Hamstring Curl
+22,173,79,0,Quadriceps,Prone Straight Leg Raises
+46,194,100,0,Quadriceps,Lunges
+48,173,78,1,Quadriceps,Lunges
+47,174,88,0,Quadriceps,Lunges
+47,175,78,0,Lower Back,Child's Pose
+44,175,92,0,Shoulders,Standing Dumbbell Fly
+41,174,80,1,Shoulders,Standing Dumbbell Fly
+41,178,76,0,Shoulders,Alternating Deltoid Raise
+42,175,70,0,Shoulders,Prone Horizontal Abduction
+47,182,76,0,Lower Back,Knee To Chest Stretch
+44,163,95,1,Lower Back,Child's Pose
+19,179,84,0,Lower Back,Knee To Chest Stretch
+19,153,45,1,Lower Back,Child's Pose
+19,155,48,1,Lower Back,Knee To Chest Stretch
+18,166,74,1,Neck,CHIN TUCK - SUPIN
+19,174,83,0,Neck,Neck Rotation
+37,175,70,0,Shoulders,Prone Horizontal Abduction
+26,168,63,1,Neck,Neck Rotation
+41,178,72,0,Quadriceps,Prone Straight Leg Raises
+29,171,66,1,Lower Back,Knee To Chest Stretch
+44,179,74,0,Shoulders,Prone Horizontal Abduction
+30,170,65,1,Neck,Neck Rotation
+35,177,71,0,Quadriceps,Hamstring Curl
+28,172,67,1,Lower Back,Child's Pose
+43,180,73,0,Shoulders,Dumbbell Front Raise
+32,170,66,1,Neck,Neck Rotation
+37,175,70,0,Quadriceps,Dumbbell front squat
+26,169,63,1,Lower Back,Knee To Chest Stretch
+41,178,72,0,Shoulders,Dumbbell External Shoulder Rotation
+29,171,66,1,Neck,Neck Rotation
+44,179,74,0,Quadriceps,Dumbbell front squat
+30,170,65,1,Lower Back,Knee To Chest Stretch
+35,177,71,0,Shoulders,Dumbbell Front Raise
+28,164,67,1,Neck,CHIN TUCK - SUPIN
+43,180,73,0,Quadriceps,Dumbbell front squat
+32,170,66,1,Lower Back,Knee To Chest Stretch
+37,175,70,0,Shoulders,Dumbbell External Shoulder Rotation
+26,168,63,1,Neck,Neck Rotation
+41,178,72,0,Quadriceps,Lunges
+29,171,66,1,Lower Back,Child's Pose
+44,179,74,0,Shoulders,Dumbbell External Shoulder Rotation
+30,170,65,1,Neck,CHIN TUCK - SUPIN
+35,177,71,0,Quadriceps,Hamstring Curl
+28,172,67,1,Lower Back,Child's Pose
+43,180,73,0,Shoulders,Dumbbell External Shoulder Rotation
+32,170,66,1,Neck,Neck Rotation
+37,175,70,0,Quadriceps,Lunges
+26,175,80,0,Lower Back,Child's Pose
+41,178,72,0,Shoulders,Bent-Over Dumbbell Rear Delt Row
+29,163,66,1,Neck,CHIN TUCK - SUPIN
+44,179,74,0,Quadriceps,Prone Straight Leg Raises
+30,170,65,1,Lower Back,Child's Pose
+35,177,71,0,Shoulders,Dumbbell Front Raise To Lateral Raise
+28,162,67,1,Neck,Neck Rotation
+43,180,73,0,Quadriceps,Prone Straight Leg Raises
+32,176,76,0,Lower Back,Knee To Chest Stretch
+37,175,70,0,Shoulders,Bent-Over Dumbbell Rear Delt Row
+26,168,63,1,Neck,CHIN TUCK - SUPIN
+41,178,72,0,Quadriceps,Lunges
+29,171,66,1,Lower Back,Child's Pose
+44,179,74,0,Shoulders,Dumbbell External Shoulder Rotation
+30,170,65,1,Neck,Neck Rotation
+35,167,71,1,Quadriceps,Dumbbell front squat
+28,172,67,1,Lower Back,Knee To Chest Stretch
+43,180,73,0,Shoulders,Dumbbell External Shoulder Rotation
+32,156,66,1,Neck,Neck Rotation
+37,175,70,0,Quadriceps,Prone Straight Leg Raises
+26,168,63,1,Lower Back,Child's Pose
+41,178,72,0,Shoulders,Alternating Dumbbell Front Raise
+29,171,66,1,Neck,CHIN TUCK - SUPIN
+44,179,74,0,Quadriceps,Lunges
+30,170,65,1,Lower Back,Child's Pose
+35,164,71,1,Shoulders,Alternating Dumbbell Front Raise
+28,172,67,1,Neck,CHIN TUCK - SUPIN
+43,180,73,0,Quadriceps,Dumbbell front squat
+32,170,66,1,Lower Back,Child's Pose
+37,175,70,0,Shoulders,Dumbbell External Shoulder Rotation
+26,168,63,1,Neck,Neck Rotation
+41,178,72,0,Quadriceps,Dumbbell front squat
+29,175,81,0,Lower Back,Child's Pose
+44,179,74,0,Shoulders,Dumbbell Front Raise To Lateral Raise
+30,170,65,1,Neck,CHIN TUCK - SUPIN
+35,177,71,0,Quadriceps,Hamstring Curl
+28,172,67,1,Lower Back,Knee To Chest Stretch
+43,180,73,0,Shoulders,Dumbbell Front Raise To Lateral Raise
+32,170,66,1,Neck,Neck Rotation
+37,175,70,0,Quadriceps,Lunges
+26,168,63,1,Lower Back,Knee To Chest Stretch
+41,178,72,0,Shoulders,Dumbbell External Shoulder Rotation
+29,171,66,1,Neck,CHIN TUCK - SUPIN
+44,179,74,0,Quadriceps,Hamstring Curl
+30,170,65,1,Lower Back,Knee To Chest Stretch
+35,177,71,0,Shoulders,Prone Horizontal Abduction
+28,162,67,1,Neck,Neck Rotation
+43,180,73,0,Quadriceps,Prone Straight Leg Raises
+32,173,76,0,Lower Back,Child's Pose
+37,175,70,0,Shoulders,Standing Palms In Shoulder Press
+26,188,96,0,Neck,Neck Rotation
+41,178,72,0,Quadriceps,Hamstring Curl
+29,179,83,0,Lower Back,Knee To Chest Stretch
+44,179,74,0,Shoulders,Standing Palms In Shoulder Press
+30,170,65,1,Neck,CHIN TUCK - SUPIN
+44,167,68,1,Shoulders,Side Lateral Raise
+43,160,69,1,Shoulders,Side Lateral Raise
+44,160,68,1,Shoulders,Side Lateral Raise
+41,169,69,1,Shoulders,Side Lateral Raise
+44,169,68,1,Shoulders,Overhead Dumbbell Front Raise
+44,160,69,1,Shoulders,Overhead Dumbbell Front Raise
+43,160,69,1,Shoulders,Overhead Dumbbell Front Raise
+44,167,68,1,Shoulders,Side Lateral Raise
+44,160,69,1,Shoulders,Standing Dumbbell Chest Fly
+44,169,68,1,Shoulders,Standing Dumbbell Chest Fly
+41,167,69,1,Shoulders,Standing Dumbbell Chest Fly
+41,166,68,1,Shoulders,Standing Dumbbell Chest Fly
+43,169,69,1,Shoulders,Standing Dumbbell Chest Fly
+41,169,68,1,Shoulders,Power Partials
+44,160,69,1,Shoulders,Power Partials
+44,160,66,1,Shoulders,Power Partials
+44,167,64,1,Shoulders,Power Partials
+43,160,68,1,Shoulders,Cuban Press
+43,169,69,1,Shoulders,Cuban Press
+43,160,64,1,Shoulders,Cuban Press
+44,160,64,1,Shoulders,Cuban Press
+41,160,68,1,Shoulders,Dumbbell Scaption
+43,169,69,1,Shoulders,Dumbbell Scaption
+43,167,64,1,Shoulders,Dumbbell Scaption
+44,169,68,1,Shoulders,Bent-Over Dumbbell Rear Delt Row
+41,159,69,1,Shoulders,Bent-Over Dumbbell Rear Delt Row
+44,159,68,1,Shoulders,Bent-Over Dumbbell Rear Delt Row
+44,167,64,1,Shoulders,Prone Horizontal Abduction
+43,159,69,1,Shoulders,Arom Side lying Abduction
+41,159,64,1,Shoulders,Arom Side lying Abduction
+44,167,69,1,Shoulders,Side Lateral Raise
+43,167,68,1,Shoulders,Overhead Dumbbell Front Raise
+43,180,73,0,Quadriceps,Lunges
+32,170,66,1,Lower Back,Knee To Chest Stretch
+37,161,70,1,Shoulders,Side Lateral Raise
+26,168,63,1,Neck,Child's Pose
+41,178,72,0,Quadriceps,Hamstring Curl
+29,171,66,1,Lower Back,Knee To Chest Stretch
+44,179,74,0,Shoulders,Standing Dumbbell Chest Fly
+30,180,85,0,Neck,CHIN TUCK - SUPIN
+35,177,71,0,Quadriceps,Dumbbell front squat
+28,172,67,1,Lower Back,Child's Pose
+43,180,73,0,Shoulders,Prone Horizontal Abduction
+32,170,66,1,Neck,Neck Rotation
+37,175,70,0,Quadriceps,Lunges
+26,168,63,1,Lower Back,Child's Pose
+41,178,72,0,Shoulders,Power Partials
+29,171,66,1,Neck,CHIN TUCK - SUPIN
+44,179,74,0,Quadriceps,Prone Straight Leg Raises
+30,170,65,1,Lower Back,Knee To Chest Stretch
+35,177,71,0,Shoulders,Alternating Deltoid Raise
+28,172,67,1,Neck,Neck Rotation
+43,180,73,0,Quadriceps,Dumbbell front squat
+32,178,85,0,Lower Back,Knee To Chest Stretch
+37,175,70,0,Shoulders,Dumbbell Scaption
+26,168,63,1,Neck,CHIN TUCK - SUPIN
+41,178,72,0,Quadriceps,Lunges
+29,171,66,1,Lower Back,Knee To Chest Stretch
+44,179,74,0,Shoulders,Dumbbell External Shoulder Rotation
+30,170,65,1,Neck,Neck Rotation
+35,177,71,0,Quadriceps,Prone Straight Leg Raises
+28,172,67,1,Lower Back,Child's Pose
+43,173,77,1,Shoulders,Dumbbell Scaption
+32,170,66,1,Neck,Neck Rotation
+37,175,70,0,Quadriceps,Prone Straight Leg Raises
+26,168,63,1,Lower Back,Knee To Chest Stretch
+41,162,72,1,Shoulders,Power Partials
+29,171,66,1,Neck,CHIN TUCK - SUPIN
+44,179,74,0,Quadriceps,Hamstring Curl
+30,170,65,1,Lower Back,Child's Pose
+35,177,71,0,Shoulders,Power Partials
+28,172,67,1,Neck,CHIN TUCK - SUPIN
+43,180,73,0,Quadriceps,Dumbbell front squat
+32,170,66,1,Lower Back,Knee To Chest Stretch
+50,175,75,0,Shoulders,Dumbbell Front Raise
+51,175,80,0,Neck,Neck Rotation
+52,180,80,0,Quadriceps,Lunges
+53,175,78,0,Lower Back,Child's Pose
+54,185,85,0,Shoulders,Dumbbell Front Raise To Lateral Raise
+55,160,73,1,Neck,CHIN TUCK - SUPIN
+56,178,77,0,Quadriceps,Prone Straight Leg Raises
+57,176,76,0,Lower Back,Knee To Chest Stretch
+58,183,82,0,Shoulders,Dumbbell Front Raise To Lateral Raise
+59,174,74,1,Neck,CHIN TUCK - SUPIN
+60,179,79,0,Quadriceps,Prone Straight Leg Raises
+61,157,72,1,Lower Back,Child's Pose
+62,177,76,0,Shoulders,Dumbbell Front Raise
+63,173,75,1,Neck,Neck Rotation
+64,180,80,0,Quadriceps,Dumbbell front squat
+65,165,78,1,Lower Back,Knee To Chest Stretch
+50,172,73,0,Shoulders,Alternating Deltoid Raise
+51,170,70,1,Neck,Neck Rotation
+52,180,80,0,Quadriceps,Dumbbell front squat
+53,175,78,1,Lower Back,Child's Pose
+54,185,85,0,Shoulders,Dumbbell Front Raise
+55,166,73,1,Neck,CHIN TUCK - SUPIN
+56,178,77,0,Quadriceps,Prone Straight Leg Raises
+57,176,76,1,Lower Back,Knee To Chest Stretch
+58,183,82,0,Shoulders,Alternating Dumbbell Front Raise
+59,174,74,1,Neck,CHIN TUCK - SUPIN
+60,179,79,0,Quadriceps,Dumbbell front squat
+61,154,60,1,Lower Back,Child's Pose
+62,177,76,0,Shoulders,Alternating Deltoid Raise
+63,173,75,1,Neck,Neck Rotation
+64,180,80,0,Quadriceps,Lunges
+50,171,78,0,Neck,CHIN TUCK - SUPIN
+51,172,80,0,Neck,Neck Rotation
+53,171,84,0,Neck,CHIN TUCK - SUPIN
+55,172,76,0,Neck,Neck Rotation
+57,176,77,0,Neck,CHIN TUCK - SUPIN
+59,176,78,0,Neck,Neck Rotation
+61,182,77,0,Neck,CHIN TUCK - SUPIN
+63,176,78,0,Neck,CHIN TUCK - SUPIN
+65,172,75,0,Neck,Neck Rotation
+50,178,77,0,Neck,CHIN TUCK - SUPIN
+51,179,79,0,Neck,Neck Rotation
+53,176,82,0,Neck,CHIN TUCK - SUPIN
+55,175,80,0,Neck,Neck Rotation
+57,173,86,0,Neck,CHIN TUCK - SUPIN
+59,179,85,0,Neck,CHIN TUCK - SUPIN
+61,179,78,0,Neck,Neck Rotation
+63,178,77,0,Neck,CHIN TUCK - SUPIN
+65,176,88,0,Neck,Neck Rotation
+50,180,87,0,Neck,CHIN TUCK - SUPIN
+51,180,95,0,Neck,Neck Rotation
+53,180,96,0,Neck,CHIN TUCK - SUPIN
+55,180,99,0,Neck,CHIN TUCK - SUPIN
+57,171,79,0,Neck,Neck Rotation
+59,172,83,0,Neck,CHIN TUCK - SUPIN
+61,175,84,0,Neck,Neck Rotation
+63,175,77,0,Neck,CHIN TUCK - SUPIN
+65,174,80,0,Neck,Neck Rotation
+50,174,80,0,Neck,CHIN TUCK - SUPIN
+51,174,81,0,Neck,Neck Rotation
+53,175,80,0,Neck,CHIN TUCK - SUPIN
+55,176,83,0,Neck,Neck Rotation
+57,179,84,0,Neck,CHIN TUCK - SUPIN
+59,178,77,0,Neck,CHIN TUCK - SUPIN
+61,180,90,0,Neck,Neck Rotation
+63,181,92,0,Neck,CHIN TUCK - SUPIN
+65,181,93,0,Neck,Neck Rotation
+50,181,90,0,Neck,CHIN TUCK - SUPIN
+51,181,95,0,Neck,Neck Rotation
+53,180,93,0,Neck,CHIN TUCK - SUPIN
+55,174,86,0,Neck,CHIN TUCK - SUPIN
+57,179,83,0,Neck,Neck Rotation
+59,172,75,0,Neck,CHIN TUCK - SUPIN
+61,170,78,0,Neck,Neck Rotation
+63,170,69,0,Neck,CHIN TUCK - SUPIN
+65,170,69,0,Neck,Neck Rotation
+50,170,68,0,Neck,CHIN TUCK - SUPIN
+51,170,67,0,Neck,Neck Rotation
+53,171,68,0,Neck,CHIN TUCK - SUPIN
+55,172,79,0,Neck,CHIN TUCK - SUPIN
+57,169,75,0,Neck,Neck Rotation
+59,179,84,0,Neck,CHIN TUCK - SUPIN
+61,176,79,0,Neck,Neck Rotation
+63,169,75,0,Neck,CHIN TUCK - SUPIN
+65,168,75,0,Neck,Neck Rotation
+50,169,75,0,Neck,CHIN TUCK - SUPIN
+51,171,78,0,Neck,CHIN TUCK - SUPIN
+53,170,74,0,Neck,Neck Rotation
+55,178,85,0,Neck,CHIN TUCK - SUPIN
+57,174,79,0,Neck,Neck Rotation
+59,174,81,0,Neck,CHIN TUCK - SUPIN
+61,175,77,0,Neck,Neck Rotation
+63,176,86,0,Neck,CHIN TUCK - SUPIN
+65,177,89,0,Neck,CHIN TUCK - SUPIN
+50,177,77,0,Neck,Neck Rotation
+51,177,78,0,Neck,CHIN TUCK - SUPIN
+53,177,79,0,Neck,Neck Rotation
+55,177,80,0,Neck,CHIN TUCK - SUPIN
+57,174,76,0,Neck,Neck Rotation
+59,175,78,0,Neck,CHIN TUCK - SUPIN
+61,177,80,0,Neck,Neck Rotation
+63,173,78,0,Neck,CHIN TUCK - SUPIN
+65,173,74,0,Neck,Neck Rotation
+50,177,76,0,Neck,CHIN TUCK - SUPIN
+51,173,78,0,Neck,CHIN TUCK - SUPIN
+53,177,82,0,Neck,Neck Rotation
+55,173,77,0,Neck,CHIN TUCK - SUPIN
+57,177,82,0,Neck,Neck Rotation
+59,173,76,0,Neck,CHIN TUCK - SUPIN
+61,173,77,0,Neck,Neck Rotation
+63,172,76,0,Neck,CHIN TUCK - SUPIN
+65,171,71,0,Neck,CHIN TUCK - SUPIN
+50,178,85,0,Neck,Neck Rotation
+51,176,76,0,Neck,CHIN TUCK - SUPIN
+53,185,84,0,Neck,Neck Rotation
+55,184,84,0,Neck,CHIN TUCK - SUPIN
+57,181,83,0,Neck,Neck Rotation
+59,182,82,0,Neck,CHIN TUCK - SUPIN
+61,184,84,0,Neck,Neck Rotation
+63,183,89,0,Neck,CHIN TUCK - SUPIN
+65,186,87,0,Neck,CHIN TUCK - SUPIN
+50,185,89,0,Neck,Neck Rotation
+51,186,96,0,Neck,CHIN TUCK - SUPIN
+53,186,94,0,Neck,Neck Rotation
+55,184,90,0,Neck,CHIN TUCK - SUPIN
+57,181,90,0,Neck,Neck Rotation
+59,182,96,0,Neck,CHIN TUCK - SUPIN
+61,174,80,0,Neck,CHIN TUCK - SUPIN
+63,186,100,0,Neck,Neck Rotation
+65,171,80,0,Neck,CHIN TUCK - SUPIN
+50,170,85,0,Neck,Neck Rotation
+51,170,86,0,Neck,CHIN TUCK - SUPIN
+53,177,82,0,Neck,Neck Rotation
+55,170,75,0,Neck,CHIN TUCK - SUPIN
+57,169,60,0,Neck,CHIN TUCK - SUPIN
+59,168,65,0,Neck,Neck Rotation
+61,168,66,0,Neck,CHIN TUCK - SUPIN
+63,169,70,0,Neck,Neck Rotation
+65,170,72,0,Neck,CHIN TUCK - SUPIN
+50,171,77,0,Neck,Neck Rotation
+51,172,78,0,Neck,CHIN TUCK - SUPIN
+53,173,73,0,Neck,Neck Rotation
+55,174,75,0,Neck,CHIN TUCK - SUPIN
+57,175,80,0,Neck,Neck Rotation
+59,176,80,0,Neck,CHIN TUCK - SUPIN
+61,177,81,0,Neck,CHIN TUCK - SUPIN
+63,178,73,0,Neck,Neck Rotation
+65,179,85,0,Neck,CHIN TUCK - SUPIN
+50,180,92,0,Neck,Neck Rotation
+51,180,92,0,Neck,CHIN TUCK - SUPIN
+53,181,92,0,Neck,Neck Rotation
+55,182,92,0,Neck,CHIN TUCK - SUPIN
+57,183,93,0,Neck,CHIN TUCK - SUPIN
+59,184,92,0,Neck,Neck Rotation
+61,184,92,0,Neck,CHIN TUCK - SUPIN
+63,185,86,0,Neck,Neck Rotation
+65,186,86,0,Neck,CHIN TUCK - SUPIN
+50,168,72,0,Neck,Neck Rotation
+51,169,72,0,Neck,CHIN TUCK - SUPIN
+53,170,75,0,Neck,Neck Rotation
+55,171,76,0,Neck,CHIN TUCK - SUPIN
+57,172,77,0,Neck,CHIN TUCK - SUPIN
+59,173,75,0,Neck,Neck Rotation
+61,174,80,0,Neck,CHIN TUCK - SUPIN
+63,175,80,0,Neck,Neck Rotation
+65,176,80,0,Neck,CHIN TUCK - SUPIN
+50,177,81,0,Neck,Neck Rotation
+51,178,83,0,Neck,CHIN TUCK - SUPIN
+53,179,84,0,Neck,CHIN TUCK - SUPIN
+55,180,89,0,Neck,Neck Rotation
+57,180,96,0,Neck,CHIN TUCK - SUPIN
+59,181,96,0,Neck,Neck Rotation
+61,182,96,0,Neck,CHIN TUCK - SUPIN
+63,183,97,0,Neck,Neck Rotation
+65,184,96,0,Neck,CHIN TUCK - SUPIN
+50,185,96,0,Neck,CHIN TUCK - SUPIN
+51,186,96,0,Neck,Neck Rotation
+53,168,75,0,Neck,CHIN TUCK - SUPIN
+55,169,67,0,Neck,Neck Rotation
+57,170,77,0,Neck,CHIN TUCK - SUPIN
+59,171,77,0,Neck,Neck Rotation
+61,172,77,0,Neck,CHIN TUCK - SUPIN
+63,173,76,0,Neck,Neck Rotation
+65,174,77,0,Neck,CHIN TUCK - SUPIN
+50,175,77,0,Neck,Neck Rotation
+51,176,77,0,Neck,CHIN TUCK - SUPIN
+53,177,77,0,Neck,CHIN TUCK - SUPIN
+55,178,83,0,Neck,Neck Rotation
+57,179,85,0,Neck,CHIN TUCK - SUPIN
+59,180,80,0,Neck,Neck Rotation
+61,181,86,0,Neck,CHIN TUCK - SUPIN
+63,182,90,0,Neck,Neck Rotation
+65,183,90,0,Neck,CHIN TUCK - SUPIN
+50,184,90,0,Neck,CHIN TUCK - SUPIN
+51,185,91,0,Neck,Neck Rotation
+53,186,92,0,Neck,CHIN TUCK - SUPIN
+55,174,83,0,Neck,Neck Rotation
+57,175,82,0,Neck,CHIN TUCK - SUPIN
+59,176,77,0,Neck,Neck Rotation
+61,177,79,0,Neck,CHIN TUCK - SUPIN
+63,178,84,0,Neck,Neck Rotation
+65,179,79,0,Neck,CHIN TUCK - SUPIN
+50,180,80,0,Neck,CHIN TUCK - SUPIN
+51,181,81,0,Neck,Neck Rotation
+53,182,82,0,Neck,CHIN TUCK - SUPIN
+55,183,83,0,Neck,Neck Rotation
+57,184,84,0,Neck,CHIN TUCK - SUPIN
+59,185,85,0,Neck,Neck Rotation
+61,186,86,0,Neck,CHIN TUCK - SUPIN
+63,173,80,0,Neck,CHIN TUCK - SUPIN
+65,172,77,0,Neck,Neck Rotation
+61,171,77,0,Neck,CHIN TUCK - SUPIN
+60,179,79,0,Quadriceps,Dumbbell front squat
+61,154,60,1,Lower Back,Child's Pose
+62,177,76,0,Shoulders,Alternating Deltoid Raise
+63,173,75,1,Neck,Neck Rotation
+64,180,80,0,Quadriceps,Lunges
+65,175,78,0,Lower Back,Knee To Chest Stretch
+44,160,66,1,Shoulders,Power Partials
+44,167,64,1,Shoulders,Power Partials
+43,160,68,1,Shoulders,Cuban Press
+43,169,69,1,Shoulders,Cuban Press
+43,160,64,1,Shoulders,Cuban Press
+44,160,64,1,Shoulders,Cuban Press
+41,160,68,1,Shoulders,Dumbbell Scaption
+43,169,69,1,Shoulders,Dumbbell Scaption
+43,167,64,1,Shoulders,Dumbbell Scaption
+30,180,80,0,Shoulders,Alternating Dumbbell Front Raise
+60,179,79,0,Quadriceps,Prone Straight Leg Raises
+35,160,71,1,Quadriceps,Prone Straight Leg Raises
+28,172,67,1,Lower Back,Child's Pose
+16,156,70,1,Quadriceps,Hamstring Curl
+17,158,72,1,Quadriceps,Lunges
+39,181,90,0,Shoulders,Dumbbell Scaption
+50,172,73,0,Shoulders,Overhead Dumbbell Front Raise
+51,170,70,1,Neck,Neck Rotation
+52,180,80,0,Quadriceps,Hamstring Curl
+17,168,73,0,Quadriceps,Prone Straight Leg Raises
+15,166,64,0,Quadriceps,Dumbbell front squat
+20,157,65,1,Shoulders,Alternating Deltoid Raise
+21,188,102,0,Shoulders,Alternating Dumbbell Front Raise
+42,180,92,0,Quadriceps,Prone Straight Leg Raises
+30,168,62,1,Lower Back,Child's Pose
+36,179,78,0,Shoulders,Dumbbell External Shoulder Rotation
+28,171,64,1,Neck,Neck Rotation
+39,166,81,1,Quadriceps,Dumbbell front squat
+32,175,71,1,Lower Back,Knee To Chest Stretch
+37,175,70,0,Shoulders,Cuban Press
+26,168,63,1,Neck,CHIN TUCK - SUPIN
+41,178,72,0,Quadriceps,Prone Straight Leg Raises
+29,171,66,0,Lower Back,Knee To Chest Stretch
+44,179,74,0,Shoulders,Arom Side lying Abduction
+30,170,65,1,Neck,CHIN TUCK - SUPIN
+35,177,71,0,Quadriceps,Prone Straight Leg Raises
+28,169,67,1,Lower Back,Knee To Chest Stretch
+43,180,73,0,Shoulders,Dumbbell External Shoulder Rotation
+32,170,66,1,Neck,CHIN TUCK - SUPIN
+37,175,70,0,Quadriceps,Prone Straight Leg Raises
+26,168,63,1,Lower Back,Child's Pose
+29,176,78,0,Shoulders,Side Lateral Raise
+32,173,75,0,Shoulders,Side Lateral Raise
+26,174,75,0,Shoulders,Overhead Dumbbell Front Raise
+26,176,78,0,Shoulders,Overhead Dumbbell Front Raise
+28,173,75,0,Shoulders,Overhead Dumbbell Front Raise
+32,174,75,0,Shoulders,Side Lateral Raise
+29,176,75,0,Shoulders,Standing Dumbbell Chest Fly
+30,173,76,0,Shoulders,Standing Dumbbell Chest Fly
+28,174,75,0,Shoulders,Standing Dumbbell Chest Fly
+26,176,78,0,Shoulders,Standing Dumbbell Chest Fly
+60,179,79,0,Quadriceps,Prone Straight Leg Raises
+35,160,71,1,Quadriceps,Prone Straight Leg Raises
+28,172,67,1,Lower Back,Child's Pose
+16,156,70,1,Quadriceps,Hamstring Curl
+17,158,72,1,Quadriceps,Lunges
+39,181,90,0,Shoulders,Dumbbell Scaption
+50,172,73,0,Shoulders,Overhead Dumbbell Front Raise
+51,170,70,1,Neck,Neck Rotation
+52,180,80,0,Quadriceps,Hamstring Curl
+17,168,73,0,Quadriceps,Prone Straight Leg Raises
+15,166,64,0,Quadriceps,Dumbbell front squat
+20,157,65,1,Shoulders,Alternating Deltoid Raise
+21,188,102,0,Shoulders,Alternating Dumbbell Front Raise
+42,180,92,0,Quadriceps,Prone Straight Leg Raises
+30,168,62,1,Lower Back,Child's Pose
+36,179,78,0,Shoulders,Dumbbell External Shoulder Rotation
+28,171,64,1,Neck,Neck Rotation
+39,166,81,1,Quadriceps,Dumbbell front squat
+32,175,71,1,Lower Back,Knee To Chest Stretch
+37,175,70,0,Shoulders,Cuban Press
+26,168,63,1,Neck,CHIN TUCK - SUPIN
+41,178,72,0,Quadriceps,Prone Straight Leg Raises
+29,171,66,0,Lower Back,Knee To Chest Stretch
+44,179,74,0,Shoulders,Arom Side lying Abduction
+30,170,65,1,Neck,CHIN TUCK - SUPIN
+35,177,71,0,Quadriceps,Prone Straight Leg Raises
+28,169,67,1,Lower Back,Knee To Chest Stretch
+43,180,73,0,Shoulders,Dumbbell External Shoulder Rotation
+32,170,66,1,Neck,CHIN TUCK - SUPIN
+37,175,70,0,Quadriceps,Prone Straight Leg Raises
+26,168,63,1,Lower Back,Child's Pose
+41,178,72,0,Shoulders,Standing Dumbbell Fly
+44,160,66,1,Shoulders,Power Partials
+44,167,64,1,Shoulders,Power Partials
+43,160,68,1,Shoulders,Cuban Press
+43,169,69,1,Shoulders,Cuban Press
+43,160,64,1,Shoulders,Cuban Press
+44,160,64,1,Shoulders,Cuban Press
+41,160,68,1,Shoulders,Dumbbell Scaption
+43,169,69,1,Shoulders,Dumbbell Scaption
+43,167,64,1,Shoulders,Dumbbell Scaption
+30,180,80,0,Shoulders,Alternating Dumbbell Front Raise
+44,160,66,1,Shoulders,Power Partials
+44,167,64,1,Shoulders,Power Partials
+43,160,68,1,Shoulders,Cuban Press
+43,169,69,1,Shoulders,Cuban Press
+43,160,64,1,Shoulders,Cuban Press
+44,160,64,1,Shoulders,Cuban Press
+41,160,68,1,Shoulders,Dumbbell Scaption
+43,169,69,1,Shoulders,Dumbbell Scaption
+43,167,64,1,Shoulders,Dumbbell Scaption
+30,180,80,0,Shoulders,Alternating Dumbbell Front Raise
+29,176,78,0,Shoulders,Side Lateral Raise
+32,173,75,0,Shoulders,Side Lateral Raise
+26,174,75,0,Shoulders,Overhead Dumbbell Front Raise
+26,176,78,0,Shoulders,Overhead Dumbbell Front Raise
+28,173,75,0,Shoulders,Overhead Dumbbell Front Raise
+32,174,75,0,Shoulders,Side Lateral Raise
+29,176,75,0,Shoulders,Standing Dumbbell Chest Fly
+30,173,76,0,Shoulders,Standing Dumbbell Chest Fly
+28,174,75,0,Shoulders,Standing Dumbbell Chest Fly
+26,176,78,0,Shoulders,Standing Dumbbell Chest Fly
+32,173,75,0,Shoulders,Standing Dumbbell Chest Fly
+29,174,75,0,Shoulders,Power Partials
+30,176,78,0,Shoulders,Power Partials
+28,173,75,0,Shoulders,Power Partials
+26,174,75,0,Shoulders,Power Partials
+26,176,78,0,Shoulders,Cuban Press
+28,173,76,0,Shoulders,Cuban Press
+32,174,75,0,Shoulders,Cuban Press
+28,176,78,0,Shoulders,Cuban Press
+29,176,78,0,Shoulders,Side Lateral Raise
+32,173,75,0,Shoulders,Side Lateral Raise
+26,174,75,0,Shoulders,Overhead Dumbbell Front Raise
+26,176,78,0,Shoulders,Overhead Dumbbell Front Raise
+28,173,75,0,Shoulders,Overhead Dumbbell Front Raise
+32,174,75,0,Shoulders,Side Lateral Raise
+29,176,75,0,Shoulders,Standing Dumbbell Chest Fly
+30,173,76,0,Shoulders,Standing Dumbbell Chest Fly
+28,174,75,0,Shoulders,Standing Dumbbell Chest Fly
+26,176,78,0,Shoulders,Standing Dumbbell Chest Fly
+32,173,75,0,Shoulders,Standing Dumbbell Chest Fly
+29,174,75,0,Shoulders,Power Partials
+30,176,78,0,Shoulders,Power Partials
+28,173,75,0,Shoulders,Power Partials
+26,174,75,0,Shoulders,Power Partials
+26,176,78,0,Shoulders,Cuban Press
+28,173,76,0,Shoulders,Cuban Press
+32,174,75,0,Shoulders,Cuban Press
+28,176,78,0,Shoulders,Cuban Press
+65,175,78,0,Lower Back,Knee To Chest Stretch
+50,158,69,1,Shoulders,Alternating Deltoid Raise
+51,170,70,1,Neck,CHIN TUCK - SUPIN
+52,180,80,0,Quadriceps,Prone Straight Leg Raises
+53,175,78,1,Lower Back,Child's Pose
+54,185,85,0,Shoulders,Dumbbell Scaption
+55,172,73,1,Neck,Neck Rotation
+56,178,77,0,Quadriceps,Hamstring Curl
+57,176,76,1,Lower Back,Child's Pose
+58,183,82,0,Shoulders,Dumbbell Front Raise To Lateral Raise
+59,162,74,1,Neck,CHIN TUCK - SUPIN
+60,179,79,0,Quadriceps,Hamstring Curl
+61,171,72,1,Lower Back,Knee To Chest Stretch
+62,177,76,0,Shoulders,Standing Dumbbell Shoulder Press
+63,173,75,1,Neck,CHIN TUCK - SUPIN
+64,180,80,0,Quadriceps,Lunges
+65,175,78,1,Lower Back,Child's Pose
+50,175,75,0,Shoulders,Standing Dumbbell Fly
+51,170,70,1,Neck,Neck Rotation
+52,180,80,0,Quadriceps,Lunges
+53,175,78,1,Lower Back,Knee To Chest Stretch
+54,185,85,0,Shoulders,Side Lateral Raise
+55,172,73,1,Neck,Child's Pose
+56,178,77,0,Quadriceps,Hamstring Curl
+57,161,76,1,Lower Back,Knee To Chest Stretch
+58,183,82,0,Shoulders,Standing Dumbbell Chest Fly
+59,166,74,1,Neck,CHIN TUCK - SUPIN
+60,179,79,0,Quadriceps,Dumbbell front squat
+61,171,72,1,Lower Back,Child's Pose
+24,177,76,0,Shoulders,Prone Horizontal Abduction
+63,173,75,1,Neck,CHIN TUCK - SUPIN
+64,180,80,0,Quadriceps,Hamstring Curl
+65,175,78,1,Lower Back,Knee To Chest Stretch
+50,172,73,0,Shoulders,Overhead Dumbbell Front Raise
+51,170,70,1,Neck,CHIN TUCK - SUPIN
+52,180,80,0,Quadriceps,Prone Straight Leg Raises
+53,175,78,1,Lower Back,Child's Pose
+54,185,85,0,Shoulders,Prone Horizontal Abduction
+55,172,73,1,Neck,Neck Rotation
+56,178,77,0,Quadriceps,Lunges
+57,176,76,1,Lower Back,Child's Pose
+58,183,82,0,Shoulders,Overhead Dumbbell Front Raise
+59,174,74,1,Neck,Neck Rotation
+18,159,68,1,Neck,CHIN TUCK - SUPIN
+17,161,49,1,Neck,Neck Rotation
+19,184,100,0,Neck,Neck Rotation
+16,155,63,1,Neck,CHIN TUCK - SUPIN
+23,158,78,1,Neck,Neck Rotation
+22,162,54,1,Neck,CHIN TUCK - SUPIN
+19,169,67,1,Neck,Neck Rotation
+17,153,60,1,Quadriceps,Hamstring Curl
+21,177,92,0,Quadriceps,Lunges
+53,175,78,1,Lower Back,Knee To Chest Stretch
+54,185,85,0,Shoulders,Dumbbell Front Raise
+55,163,73,1,Neck,Neck Rotation
+56,178,77,0,Quadriceps,Dumbbell front squat
+57,166,76,1,Lower Back,Knee To Chest Stretch
+58,183,82,0,Shoulders,Bent-Over Dumbbell Rear Delt Row
+59,174,74,1,Neck,CHIN TUCK - SUPIN
+60,179,79,0,Quadriceps,Dumbbell front squat
+61,171,72,1,Lower Back,Child's Pose
+62,177,76,0,Shoulders,Alternating Dumbbell Front Raise
+63,173,75,1,Neck,CHIN TUCK - SUPIN
+64,180,80,0,Quadriceps,Lunges
+65,175,78,1,Lower Back,Child's Pose
+41,173,83,0,Lower Back,Knee To Chest Stretch
+21,158,72,1,Lower Back,Child's Pose
+25,165,55,1,Neck,Neck Rotation
+35,175,70,0,Quadriceps,Hamstring Curl
+28,172,65,1,Lower Back,Knee To Chest Stretch
+40,185,90,0,Shoulders,Prone Horizontal Abduction
+32,168,60,1,Neck,Neck Rotation
+45,178,85,0,Quadriceps,Hamstring Curl
+27,170,63,1,Lower Back,Knee To Chest Stretch
+33,165,75,1,Shoulders,Prone Horizontal Abduction
+29,169,58,1,Neck,CHIN TUCK - SUPIN
+38,182,88,0,Quadriceps,Dumbbell front squat
+31,174,68,1,Lower Back,Child's Pose
+34,177,72,0,Shoulders,Standing Dumbbell Fly
+26,163,57,1,Neck,Neck Rotation
+43,180,73,0,Shoulders,Standing Dumbbell Fly
+32,170,66,1,Neck,Neck Rotation
+37,175,70,0,Quadriceps,Dumbbell front squat
+26,178,83,0,Lower Back,Knee To Chest Stretch
+41,178,72,0,Shoulders,Cuban Press
+29,171,66,1,Neck,CHIN TUCK - SUPIN
+44,179,74,0,Quadriceps,Dumbbell front squat
+30,170,65,1,Lower Back,Child's Pose
+35,166,71,1,Shoulders,Dumbbell Scaption
+28,172,67,1,Neck,Neck Rotation
+43,180,73,0,Quadriceps,Hamstring Curl
+32,170,66,1,Lower Back,Child's Pose
+37,175,70,0,Shoulders,Cuban Press
+26,168,63,1,Neck,Neck Rotation
+41,178,72,0,Quadriceps,Dumbbell front squat
+29,171,66,1,Lower Back,Child's Pose
+44,179,74,0,Shoulders,Alternating Deltoid Raise
+30,170,65,1,Neck,CHIN TUCK - SUPIN
+35,177,71,0,Quadriceps,Dumbbell front squat
+28,172,67,1,Lower Back,Knee To Chest Stretch
+43,180,73,0,Shoulders,Alternating Deltoid Raise
+32,170,66,1,Neck,CHIN TUCK - SUPIN
+37,175,70,0,Quadriceps,Prone Straight Leg Raises
+26,168,63,1,Lower Back,Knee To Chest Stretch
+41,178,72,0,Shoulders,Dumbbell External Shoulder Rotation
+29,171,66,1,Neck,Neck Rotation
+44,179,74,0,Quadriceps,Dumbbell front squat
+30,170,65,1,Lower Back,Child's Pose
+35,177,71,0,Shoulders,Overhead Dumbbell Front Raise
+28,172,67,1,Neck,Neck Rotation
+43,180,73,0,Quadriceps,Lunges
+32,170,66,1,Lower Back,Knee To Chest Stretch
+61,171,72,1,Lower Back,Knee To Chest Stretch
+62,177,76,0,Shoulders,Overhead Dumbbell Front Raise
+63,173,75,1,Neck,Neck Rotation
+64,180,80,0,Quadriceps,Prone Straight Leg Raises
+65,175,78,0,Lower Back,Child's Pose
+35,162,71,1,Quadriceps,Dumbbell front squat
+28,172,67,1,Lower Back,Child's Pose
+43,158,73,1,Shoulders,Dumbbell Front Raise
+32,170,66,1,Neck,CHIN TUCK - SUPIN
+37,165,70,1,Quadriceps,Dumbbell front squat
+26,168,63,1,Lower Back,Knee To Chest Stretch
+41,178,72,0,Shoulders,Dumbbell Scaption
+29,171,66,1,Neck,CHIN TUCK - SUPIN
+44,179,74,0,Quadriceps,Prone Straight Leg Raises
+30,170,65,1,Lower Back,Child's Pose
+35,177,71,0,Shoulders,Alternating Deltoid Raise
+28,172,67,1,Neck,Neck Rotation
+43,180,73,0,Quadriceps,Hamstring Curl
+32,170,66,1,Lower Back,Knee To Chest Stretch
+37,175,70,0,Shoulders,Standing Dumbbell Shoulder Press
+26,168,63,1,Neck,CHIN TUCK - SUPIN
+41,178,72,0,Quadriceps,Dumbbell front squat
+29,171,66,1,Lower Back,Child's Pose
+44,179,74,0,Shoulders,Dumbbell External Shoulder Rotation
+30,170,65,1,Neck,Neck Rotation
+35,177,71,0,Quadriceps,Dumbbell front squat
+28,172,67,1,Lower Back,Child's Pose
+43,180,73,0,Shoulders,Dumbbell Front Raise To Lateral Raise
+32,170,66,1,Neck,CHIN TUCK - SUPIN
+37,175,70,0,Quadriceps,Hamstring Curl
+26,168,63,1,Lower Back,Knee To Chest Stretch
+41,178,72,0,Shoulders,Standing Dumbbell Shoulder Press
+29,171,66,1,Neck,CHIN TUCK - SUPIN
+44,179,74,0,Quadriceps,Lunges
+30,170,65,1,Lower Back,Child's Pose
+35,177,71,0,Shoulders,Standing Dumbbell Fly
+28,172,67,1,Neck,Neck Rotation
+30,173,75,0,Shoulders,Side Lateral Raise
+30,174,78,0,Shoulders,Side Lateral Raise
+29,176,78,0,Shoulders,Side Lateral Raise
+32,173,75,0,Shoulders,Side Lateral Raise
+26,174,75,0,Shoulders,Overhead Dumbbell Front Raise
+26,176,78,0,Shoulders,Overhead Dumbbell Front Raise
+28,173,75,0,Shoulders,Overhead Dumbbell Front Raise
+32,174,75,0,Shoulders,Side Lateral Raise
+29,176,75,0,Shoulders,Standing Dumbbell Chest Fly
+30,173,76,0,Shoulders,Standing Dumbbell Chest Fly
+28,174,75,0,Shoulders,Standing Dumbbell Chest Fly
+26,176,78,0,Shoulders,Standing Dumbbell Chest Fly
+32,173,75,0,Shoulders,Standing Dumbbell Chest Fly
+29,174,75,0,Shoulders,Power Partials
+30,176,78,0,Shoulders,Power Partials
+28,173,75,0,Shoulders,Power Partials
+26,174,75,0,Shoulders,Power Partials
+26,176,78,0,Shoulders,Cuban Press
+28,173,76,0,Shoulders,Cuban Press
+32,174,75,0,Shoulders,Cuban Press
+28,176,78,0,Shoulders,Cuban Press
+65,165,78,1,Lower Back,Knee To Chest Stretch
+50,172,73,0,Shoulders,Alternating Deltoid Raise
+51,170,70,1,Neck,Neck Rotation
+52,180,80,0,Quadriceps,Dumbbell front squat
+53,175,78,1,Lower Back,Child's Pose
+54,185,85,0,Shoulders,Dumbbell Front Raise
+55,166,73,1,Neck,CHIN TUCK - SUPIN
+56,178,77,0,Quadriceps,Prone Straight Leg Raises
+57,176,76,1,Lower Back,Knee To Chest Stretch
+58,183,82,0,Shoulders,Alternating Dumbbell Front Raise
+59,174,74,1,Neck,CHIN TUCK - SUPIN
+50,164,80,1,Quadriceps,Hamstring Curl
+52,165,81,1,Quadriceps,Lunges
+54,166,65,1,Quadriceps,Prone Straight Leg Raises
+56,167,79,1,Quadriceps,Dumbbell front squat
+58,168,63,1,Quadriceps,Hamstring Curl
+60,169,62,1,Quadriceps,Lunges
+62,170,64,1,Quadriceps,Prone Straight Leg Raises
+64,156,66,1,Quadriceps,Dumbbell front squat
+50,155,67,1,Quadriceps,Hamstring Curl
+52,156,69,1,Quadriceps,Lunges
+54,157,79,1,Quadriceps,Prone Straight Leg Raises
+56,157,75,1,Quadriceps,Dumbbell front squat
+58,158,81,1,Quadriceps,Hamstring Curl
+60,159,80,1,Quadriceps,Lunges
+62,157,85,1,Quadriceps,Prone Straight Leg Raises
+64,158,84,1,Quadriceps,Dumbbell front squat
+50,156,83,1,Quadriceps,Hamstring Curl
+52,162,81,1,Quadriceps,Lunges
+54,162,80,1,Quadriceps,Prone Straight Leg Raises
+56,163,85,1,Quadriceps,Dumbbell front squat
+58,164,82,1,Quadriceps,Hamstring Curl
+60,165,76,1,Quadriceps,Lunges
+62,163,77,1,Quadriceps,Prone Straight Leg Raises
+64,166,66,1,Quadriceps,Dumbbell front squat
+50,166,64,1,Quadriceps,Hamstring Curl
+52,165,60,1,Quadriceps,Lunges
+54,164,81,1,Quadriceps,Prone Straight Leg Raises
+56,168,80,1,Quadriceps,Dumbbell front squat
+58,167,78,1,Quadriceps,Hamstring Curl
+60,164,79,1,Quadriceps,Lunges
+62,165,79,1,Quadriceps,Prone Straight Leg Raises
+64,165,64,1,Quadriceps,Dumbbell front squat
+50,165,63,1,Quadriceps,Hamstring Curl
+52,169,62,1,Quadriceps,Lunges
+54,169,61,1,Quadriceps,Prone Straight Leg Raises
+56,169,66,1,Quadriceps,Dumbbell front squat
+58,164,65,1,Quadriceps,Hamstring Curl
+60,164,66,1,Quadriceps,Lunges
+62,164,64,1,Quadriceps,Prone Straight Leg Raises
+64,164,68,1,Quadriceps,Dumbbell front squat
+50,164,69,1,Quadriceps,Hamstring Curl
+52,164,63,1,Quadriceps,Lunges
+54,164,63,1,Quadriceps,Prone Straight Leg Raises
+56,164,62,1,Quadriceps,Dumbbell front squat
+58,164,63,1,Quadriceps,Hamstring Curl
+60,164,62,1,Quadriceps,Lunges
+62,165,64,1,Quadriceps,Prone Straight Leg Raises
+64,162,66,1,Quadriceps,Dumbbell front squat
+50,163,61,1,Quadriceps,Hamstring Curl
+52,159,62,1,Quadriceps,Lunges
+54,159,63,1,Quadriceps,Prone Straight Leg Raises
+56,159,63,1,Quadriceps,Dumbbell front squat
+58,158,62,1,Quadriceps,Hamstring Curl
+60,159,61,1,Quadriceps,Lunges
+62,157,61,1,Quadriceps,Prone Straight Leg Raises
+64,154,62,1,Quadriceps,Dumbbell front squat
+50,156,63,1,Quadriceps,Hamstring Curl
+52,158,68,1,Quadriceps,Lunges
+54,158,69,1,Quadriceps,Prone Straight Leg Raises
+56,162,67,1,Quadriceps,Dumbbell front squat
+58,162,67,1,Quadriceps,Hamstring Curl
+60,163,68,1,Quadriceps,Lunges
+62,164,67,1,Quadriceps,Prone Straight Leg Raises
+64,170,69,1,Quadriceps,Dumbbell front squat
+50,156,76,1,Quadriceps,Hamstring Curl
+52,155,78,1,Quadriceps,Lunges
+54,156,79,1,Quadriceps,Prone Straight Leg Raises
+56,157,75,1,Quadriceps,Dumbbell front squat
+58,157,78,1,Quadriceps,Hamstring Curl
+60,158,78,1,Quadriceps,Lunges
+62,159,73,1,Quadriceps,Prone Straight Leg Raises
+64,157,74,1,Quadriceps,Dumbbell front squat
+50,158,74,1,Quadriceps,Hamstring Curl
+52,156,74,1,Quadriceps,Lunges
+54,162,75,1,Quadriceps,Prone Straight Leg Raises
+56,162,76,1,Quadriceps,Dumbbell front squat
+58,163,77,1,Quadriceps,Hamstring Curl
+60,164,74,1,Quadriceps,Lunges
+62,165,79,1,Quadriceps,Prone Straight Leg Raises
+64,163,72,1,Quadriceps,Dumbbell front squat
+50,166,71,1,Quadriceps,Hamstring Curl
+52,166,71,1,Quadriceps,Lunges
+54,165,71,1,Quadriceps,Prone Straight Leg Raises
+56,164,71,1,Quadriceps,Dumbbell front squat
+58,168,72,1,Quadriceps,Hamstring Curl
+60,167,73,1,Quadriceps,Lunges
+62,164,72,1,Quadriceps,Prone Straight Leg Raises
+64,165,73,1,Quadriceps,Dumbbell front squat
+50,165,71,1,Quadriceps,Hamstring Curl
+52,165,72,1,Quadriceps,Lunges
+54,169,76,1,Quadriceps,Prone Straight Leg Raises
+56,169,74,1,Quadriceps,Dumbbell front squat
+58,169,77,1,Quadriceps,Hamstring Curl
+60,164,81,1,Quadriceps,Lunges
+62,164,80,1,Quadriceps,Prone Straight Leg Raises
+64,164,82,1,Quadriceps,Dumbbell front squat
+50,164,82,1,Quadriceps,Hamstring Curl
+52,164,82,1,Quadriceps,Lunges
+54,164,81,1,Quadriceps,Prone Straight Leg Raises
+56,164,82,1,Quadriceps,Dumbbell front squat
+58,164,82,1,Quadriceps,Hamstring Curl
+60,164,81,1,Quadriceps,Lunges
+62,164,82,1,Quadriceps,Prone Straight Leg Raises
+64,165,70,1,Quadriceps,Dumbbell front squat
+50,162,77,1,Quadriceps,Hamstring Curl
+52,163,76,1,Quadriceps,Lunges
+54,159,77,1,Quadriceps,Prone Straight Leg Raises
+56,159,65,1,Quadriceps,Dumbbell front squat
+58,159,80,1,Quadriceps,Hamstring Curl
+60,158,84,1,Quadriceps,Lunges
+62,159,83,1,Quadriceps,Prone Straight Leg Raises
+64,157,63,1,Quadriceps,Dumbbell front squat
+50,154,68,1,Quadriceps,Hamstring Curl
+52,156,67,1,Quadriceps,Lunges
+54,158,69,1,Quadriceps,Prone Straight Leg Raises
+56,158,68,1,Quadriceps,Dumbbell front squat
+58,162,70,1,Quadriceps,Hamstring Curl
+60,162,70,1,Quadriceps,Lunges
+62,163,70,1,Quadriceps,Prone Straight Leg Raises
+64,164,70,1,Quadriceps,Dumbbell front squat
+50,170,80,1,Quadriceps,Hamstring Curl
+52,156,85,1,Quadriceps,Lunges
+54,155,78,1,Quadriceps,Prone Straight Leg Raises
+56,156,78,1,Quadriceps,Dumbbell front squat
+58,157,76,1,Quadriceps,Hamstring Curl
+60,157,76,1,Quadriceps,Lunges
+62,158,73,1,Quadriceps,Prone Straight Leg Raises
+64,159,71,1,Quadriceps,Dumbbell front squat
+50,157,71,1,Quadriceps,Hamstring Curl
+52,158,72,1,Quadriceps,Lunges
+54,156,72,1,Quadriceps,Prone Straight Leg Raises
+56,162,73,1,Quadriceps,Dumbbell front squat
+58,162,72,1,Quadriceps,Hamstring Curl
+60,163,73,1,Quadriceps,Lunges
+62,164,71,1,Quadriceps,Prone Straight Leg Raises
+64,165,73,1,Quadriceps,Dumbbell front squat
+62,163,71,1,Quadriceps,Hamstring Curl
+61,166,72,1,Quadriceps,Lunges
+60,166,73,1,Quadriceps,Prone Straight Leg Raises
+58,165,77,1,Quadriceps,Dumbbell front squat
+57,164,77,1,Quadriceps,Hamstring Curl
+59,168,79,1,Quadriceps,Lunges
+53,167,79,1,Quadriceps,Prone Straight Leg Raises
+50,164,79,1,Quadriceps,Dumbbell front squat
+50,165,79,1,Quadriceps,Hamstring Curl
+52,165,79,1,Quadriceps,Lunges
+54,165,78,1,Quadriceps,Prone Straight Leg Raises
+56,169,76,1,Quadriceps,Dumbbell front squat
+58,169,78,1,Quadriceps,Hamstring Curl
+60,169,75,1,Quadriceps,Lunges
+62,164,75,1,Quadriceps,Prone Straight Leg Raises
+64,164,75,1,Quadriceps,Dumbbell front squat
+50,164,75,1,Quadriceps,Hamstring Curl
+52,164,75,1,Quadriceps,Lunges
+54,164,75,1,Quadriceps,Prone Straight Leg Raises
+56,164,75,1,Quadriceps,Dumbbell front squat
+58,164,76,1,Quadriceps,Hamstring Curl
+60,164,76,1,Quadriceps,Lunges
+62,164,76,1,Quadriceps,Prone Straight Leg Raises
+64,164,74,1,Quadriceps,Dumbbell front squat
+50,165,74,1,Quadriceps,Hamstring Curl
+52,162,74,1,Quadriceps,Lunges
+54,163,74,1,Quadriceps,Prone Straight Leg Raises
+56,159,73,1,Quadriceps,Dumbbell front squat
+58,159,72,1,Quadriceps,Hamstring Curl
+60,159,71,1,Quadriceps,Lunges
+62,158,79,1,Quadriceps,Prone Straight Leg Raises
+64,159,72,1,Quadriceps,Dumbbell front squat
+52,157,71,1,Quadriceps,Hamstring Curl
+54,154,71,1,Quadriceps,Lunges
+58,156,71,1,Quadriceps,Prone Straight Leg Raises
+56,158,71,1,Quadriceps,Dumbbell front squat
+58,158,72,1,Quadriceps,Hamstring Curl
+50,162,73,1,Quadriceps,Lunges
+52,162,72,1,Quadriceps,Prone Straight Leg Raises
+54,163,73,1,Quadriceps,Dumbbell front squat
+58,164,71,1,Quadriceps,Hamstring Curl
+56,161,72,1,Quadriceps,Lunges
+52,161,76,1,Quadriceps,Prone Straight Leg Raises
+54,161,74,1,Quadriceps,Dumbbell front squat
+56,161,77,1,Quadriceps,Hamstring Curl
+58,161,81,1,Quadriceps,Lunges
+60,162,80,1,Quadriceps,Prone Straight Leg Raises
+62,161,82,1,Quadriceps,Dumbbell front squat
+64,161,82,1,Quadriceps,Hamstring Curl
+50,161,82,1,Quadriceps,Lunges
+52,160,81,1,Quadriceps,Prone Straight Leg Raises
+54,160,82,1,Quadriceps,Dumbbell front squat
+56,160,82,1,Quadriceps,Hamstring Curl
+58,155,81,1,Quadriceps,Lunges
+60,156,82,1,Quadriceps,Prone Straight Leg Raises
+62,157,70,1,Quadriceps,Dumbbell front squat
+64,158,77,1,Quadriceps,Hamstring Curl
+50,159,76,1,Quadriceps,Lunges
+60,156,77,1,Quadriceps,Prone Straight Leg Raises
+62,160,65,1,Quadriceps,Dumbbell front squat
+61,161,73,1,Quadriceps,Hamstring Curl
+63,162,74,1,Quadriceps,Lunges
+65,163,74,1,Quadriceps,Prone Straight Leg Raises
+60,164,74,1,Quadriceps,Dumbbell front squat
+62,165,75,1,Quadriceps,Hamstring Curl
+60,166,76,1,Quadriceps,Lunges
+62,167,77,1,Quadriceps,Prone Straight Leg Raises
+64,168,74,1,Quadriceps,Dumbbell front squat
+64,169,70,1,Quadriceps,Hamstring Curl
+52,170,80,1,Quadriceps,Lunges
+54,171,85,1,Quadriceps,Prone Straight Leg Raises
+56,170,78,1,Quadriceps,Dumbbell front squat
+58,172,78,1,Quadriceps,Hamstring Curl
+60,173,76,1,Quadriceps,Lunges
+62,174,76,1,Quadriceps,Prone Straight Leg Raises
+64,175,73,1,Quadriceps,Dumbbell front squat
+50,176,71,1,Quadriceps,Hamstring Curl
+52,162,71,1,Quadriceps,Lunges
+54,163,72,1,Quadriceps,Prone Straight Leg Raises
+56,164,72,1,Quadriceps,Dumbbell front squat
+58,165,73,1,Quadriceps,Hamstring Curl
+60,166,75,1,Quadriceps,Lunges
+58,167,81,1,Quadriceps,Prone Straight Leg Raises
+54,168,80,1,Quadriceps,Dumbbell front squat
+50,169,85,1,Quadriceps,Hamstring Curl
+52,170,84,1,Quadriceps,Lunges
+54,162,83,1,Quadriceps,Hamstring Curl
+56,163,81,1,Quadriceps,Lunges
+58,164,80,1,Quadriceps,Prone Straight Leg Raises
+60,165,85,1,Quadriceps,Dumbbell front squat
+62,166,82,1,Quadriceps,Hamstring Curl
+64,167,76,1,Quadriceps,Lunges
+62,168,77,1,Quadriceps,Prone Straight Leg Raises
+60,169,66,1,Quadriceps,Dumbbell front squat
+60,170,64,1,Quadriceps,Hamstring Curl
+60,175,60,1,Quadriceps,Lunges
+64,176,81,1,Quadriceps,Prone Straight Leg Raises
+52,162,80,1,Quadriceps,Dumbbell front squat
+58,163,78,1,Quadriceps,Hamstring Curl
+54,164,79,1,Quadriceps,Lunges
+50,165,65,1,Quadriceps,Prone Straight Leg Raises
+54,166,64,1,Quadriceps,Dumbbell front squat
+52,167,63,1,Quadriceps,Hamstring Curl
+52,170,75,1,Quadriceps,Lunges
+52,171,81,1,Quadriceps,Hamstring Curl
+54,170,80,1,Quadriceps,Lunges
+54,172,85,1,Quadriceps,Prone Straight Leg Raises
+50,173,84,1,Quadriceps,Dumbbell front squat
+52,174,83,1,Quadriceps,Hamstring Curl
+54,175,81,1,Quadriceps,Lunges
+56,176,80,1,Quadriceps,Prone Straight Leg Raises
+58,170,85,1,Quadriceps,Dumbbell front squat
+60,171,82,1,Quadriceps,Hamstring Curl
+62,170,76,1,Quadriceps,Lunges
+64,172,77,1,Quadriceps,Prone Straight Leg Raises
+50,173,66,1,Quadriceps,Dumbbell front squat
+50,174,64,1,Quadriceps,Hamstring Curl
+50,175,60,1,Quadriceps,Lunges
+50,176,81,1,Quadriceps,Prone Straight Leg Raises
+52,170,80,1,Quadriceps,Dumbbell front squat
+52,171,78,1,Quadriceps,Hamstring Curl
+52,170,79,1,Quadriceps,Lunges
+52,172,65,1,Quadriceps,Hamstring Curl
+54,173,64,1,Quadriceps,Lunges
+54,174,63,1,Quadriceps,Prone Straight Leg Raises
+54,175,82,1,Quadriceps,Dumbbell front squat
+54,176,85,1,Quadriceps,Hamstring Curl
+56,158,75,1,Quadriceps,Lunges
+56,162,81,1,Quadriceps,Prone Straight Leg Raises
+56,162,80,1,Quadriceps,Dumbbell front squat
+56,163,85,1,Quadriceps,Hamstring Curl
+58,164,84,1,Quadriceps,Lunges
+58,161,83,1,Quadriceps,Prone Straight Leg Raises
+58,161,81,1,Quadriceps,Dumbbell front squat
+58,159,73,1,Quadriceps,Hamstring Curl
+60,157,74,1,Quadriceps,Lunges
+60,158,74,1,Quadriceps,Prone Straight Leg Raises
+60,156,74,1,Quadriceps,Dumbbell front squat
+62,162,75,1,Quadriceps,Hamstring Curl
+50,162,76,1,Quadriceps,Lunges
+52,163,77,1,Quadriceps,Hamstring Curl
+54,164,74,1,Quadriceps,Lunges
+56,165,79,1,Quadriceps,Prone Straight Leg Raises
+58,163,72,1,Quadriceps,Dumbbell front squat
+60,166,71,1,Quadriceps,Hamstring Curl
+62,166,71,1,Quadriceps,Lunges
+64,165,71,1,Quadriceps,Prone Straight Leg Raises
+62,164,71,1,Quadriceps,Dumbbell front squat
+62,168,72,1,Quadriceps,Hamstring Curl
+62,167,73,1,Quadriceps,Lunges
+64,164,72,1,Quadriceps,Prone Straight Leg Raises
+64,170,85,1,Quadriceps,Dumbbell front squat
+64,172,84,1,Quadriceps,Hamstring Curl
+50,173,83,1,Quadriceps,Lunges
+52,174,81,1,Quadriceps,Prone Straight Leg Raises
+54,175,80,1,Quadriceps,Dumbbell front squat
+56,176,85,1,Quadriceps,Hamstring Curl
+58,162,82,1,Quadriceps,Lunges
+60,163,85,1,Quadriceps,Hamstring Curl
+62,164,84,1,Quadriceps,Lunges
+64,165,83,1,Quadriceps,Prone Straight Leg Raises
+50,166,81,1,Quadriceps,Dumbbell front squat
+51,167,80,1,Quadriceps,Hamstring Curl
+52,168,85,1,Quadriceps,Lunges
+53,169,82,1,Quadriceps,Prone Straight Leg Raises
+32,173,75,0,Neck,CHIN TUCK - SUPIN
+26,174,75,0,Neck,Neck Rotation
+26,176,78,0,Neck,CHIN TUCK - SUPIN
+28,173,75,0,Neck,Neck Rotation
+32,174,75,0,Neck,CHIN TUCK - SUPIN
+29,176,75,0,Neck,Neck Rotation
+30,173,76,0,Neck,CHIN TUCK - SUPIN
+28,174,75,0,Neck,Neck Rotation
+26,176,78,0,Neck,CHIN TUCK - SUPIN
+32,173,75,0,Neck,CHIN TUCK - SUPIN
+26,174,75,0,Neck,Neck Rotation
+26,176,78,0,Neck,CHIN TUCK - SUPIN
+28,173,75,0,Neck,Neck Rotation
+32,174,75,0,Neck,CHIN TUCK - SUPIN
+29,176,75,0,Neck,Neck Rotation
+30,173,76,0,Neck,CHIN TUCK - SUPIN
+28,174,75,0,Neck,Neck Rotation
+26,176,78,0,Neck,CHIN TUCK - SUPIN
+32,173,75,0,Neck,CHIN TUCK - SUPIN
+26,174,75,0,Neck,Neck Rotation
+26,176,78,0,Neck,CHIN TUCK - SUPIN
+28,173,75,0,Neck,Neck Rotation
+32,174,75,0,Neck,CHIN TUCK - SUPIN
+29,176,75,0,Neck,Neck Rotation
+30,173,76,0,Neck,CHIN TUCK - SUPIN
+28,174,75,0,Neck,Neck Rotation
+26,176,78,0,Neck,CHIN TUCK - SUPIN
+32,173,75,0,Neck,CHIN TUCK - SUPIN
+26,174,75,0,Neck,Neck Rotation
+26,176,78,0,Neck,CHIN TUCK - SUPIN
+28,173,75,0,Neck,Neck Rotation
+32,174,75,0,Neck,CHIN TUCK - SUPIN
+29,176,75,0,Neck,Neck Rotation
+30,173,76,0,Neck,CHIN TUCK - SUPIN
+28,174,75,0,Neck,Neck Rotation
+26,176,78,0,Neck,CHIN TUCK - SUPIN
+32,173,75,0,Neck,CHIN TUCK - SUPIN
+26,174,75,0,Neck,Neck Rotation
+26,176,78,0,Neck,CHIN TUCK - SUPIN
+28,173,75,0,Neck,Neck Rotation
+32,174,75,0,Neck,CHIN TUCK - SUPIN
+29,176,75,0,Neck,Neck Rotation
+30,173,76,0,Neck,CHIN TUCK - SUPIN
+28,174,75,0,Neck,Neck Rotation
+26,176,78,0,Neck,CHIN TUCK - SUPIN
+32,173,75,0,Neck,CHIN TUCK - SUPIN
+26,174,75,0,Neck,Neck Rotation
+26,176,78,0,Neck,CHIN TUCK - SUPIN
+28,173,75,0,Neck,Neck Rotation
+32,174,75,0,Neck,CHIN TUCK - SUPIN
+29,176,75,0,Neck,Neck Rotation
+30,173,76,0,Neck,CHIN TUCK - SUPIN
+28,174,75,0,Neck,Neck Rotation
+26,176,78,0,Neck,CHIN TUCK - SUPIN
+30,173,75,0,Lower Back,Child's Pose
+30,174,78,0,Lower Back,Knee To Chest Stretch
+29,176,78,0,Lower Back,Child's Pose
+32,173,75,0,Lower Back,Knee To Chest Stretch
+26,174,75,0,Lower Back,Child's Pose
+26,176,78,0,Lower Back,Knee To Chest Stretch
+28,173,75,0,Lower Back,Child's Pose
+32,174,75,0,Lower Back,Knee To Chest Stretch
+29,176,75,0,Lower Back,Child's Pose
+30,173,76,0,Lower Back,Knee To Chest Stretch
+28,174,75,0,Lower Back,Child's Pose
+26,176,78,0,Lower Back,Knee To Chest Stretch
+32,173,75,0,Lower Back,Child's Pose
+29,174,75,0,Lower Back,Knee To Chest Stretch
+30,176,78,0,Lower Back,Child's Pose
+28,173,75,0,Lower Back,Knee To Chest Stretch
+26,174,75,0,Lower Back,Child's Pose
+26,176,78,0,Lower Back,Knee To Chest Stretch
+28,173,76,0,Lower Back,Child's Pose
+32,174,75,0,Lower Back,Knee To Chest Stretch
+28,176,78,0,Lower Back,Child's Pose
+30,173,75,0,Lower Back,Child's Pose
+30,174,78,0,Lower Back,Knee To Chest Stretch
+29,176,78,0,Lower Back,Child's Pose
+32,173,75,0,Lower Back,Knee To Chest Stretch
+26,174,75,0,Lower Back,Child's Pose
+26,176,78,0,Lower Back,Knee To Chest Stretch
+28,173,75,0,Lower Back,Child's Pose
+32,174,75,0,Lower Back,Knee To Chest Stretch
+29,176,75,0,Lower Back,Child's Pose
+30,173,76,0,Lower Back,Knee To Chest Stretch
+28,174,75,0,Lower Back,Child's Pose
+26,176,78,0,Lower Back,Knee To Chest Stretch
+32,173,75,0,Lower Back,Child's Pose
+29,174,75,0,Lower Back,Knee To Chest Stretch
+30,176,78,0,Lower Back,Child's Pose
+28,173,75,0,Lower Back,Knee To Chest Stretch
+26,174,75,0,Lower Back,Child's Pose
+26,176,78,0,Lower Back,Knee To Chest Stretch
+28,173,76,0,Lower Back,Child's Pose
+32,174,75,0,Lower Back,Knee To Chest Stretch
+28,176,78,0,Lower Back,Child's Pose
+30,173,75,0,Lower Back,Child's Pose
+30,174,78,0,Lower Back,Knee To Chest Stretch
+29,176,78,0,Lower Back,Child's Pose
+32,173,75,0,Lower Back,Knee To Chest Stretch
+26,174,75,0,Lower Back,Child's Pose
+26,176,78,0,Lower Back,Knee To Chest Stretch
+28,173,75,0,Lower Back,Child's Pose
+32,174,75,0,Lower Back,Knee To Chest Stretch
+29,176,75,0,Lower Back,Child's Pose
+30,173,76,0,Lower Back,Knee To Chest Stretch
+28,174,75,0,Lower Back,Child's Pose
+26,176,78,0,Lower Back,Knee To Chest Stretch
+32,173,75,0,Lower Back,Child's Pose
+29,174,75,0,Lower Back,Knee To Chest Stretch
+30,176,78,0,Lower Back,Child's Pose
+28,173,75,0,Lower Back,Knee To Chest Stretch
+26,174,75,0,Lower Back,Child's Pose
+26,176,78,0,Lower Back,Knee To Chest Stretch
+28,173,76,0,Lower Back,Child's Pose
+32,174,75,0,Lower Back,Knee To Chest Stretch
+28,176,78,0,Lower Back,Child's Pose
+30,173,75,0,Lower Back,Child's Pose
+30,174,78,0,Lower Back,Knee To Chest Stretch
+29,176,78,0,Lower Back,Child's Pose
+32,173,75,0,Lower Back,Knee To Chest Stretch
+26,174,75,0,Lower Back,Child's Pose
+26,176,78,0,Lower Back,Knee To Chest Stretch
+28,173,75,0,Lower Back,Child's Pose
+32,174,75,0,Lower Back,Knee To Chest Stretch
+29,176,75,0,Lower Back,Child's Pose
+30,173,76,0,Lower Back,Knee To Chest Stretch
+28,174,75,0,Lower Back,Child's Pose
+26,176,78,0,Lower Back,Knee To Chest Stretch
+32,173,75,0,Lower Back,Child's Pose
+29,174,75,0,Lower Back,Knee To Chest Stretch
+30,176,78,0,Lower Back,Child's Pose
+28,173,75,0,Lower Back,Knee To Chest Stretch
+26,174,75,0,Lower Back,Child's Pose
+26,176,78,0,Lower Back,Knee To Chest Stretch
+28,173,76,0,Lower Back,Child's Pose
+32,174,75,0,Lower Back,Knee To Chest Stretch
+28,176,78,0,Lower Back,Child's Pose
+30,173,75,0,Lower Back,Child's Pose
+30,174,78,0,Lower Back,Knee To Chest Stretch
+29,176,78,0,Lower Back,Child's Pose
+32,173,75,0,Lower Back,Knee To Chest Stretch
+26,174,75,0,Lower Back,Child's Pose
+26,176,78,0,Lower Back,Knee To Chest Stretch
+28,173,75,0,Lower Back,Child's Pose
+32,174,75,0,Lower Back,Knee To Chest Stretch
+29,176,75,0,Lower Back,Child's Pose
+30,173,76,0,Lower Back,Knee To Chest Stretch
+28,174,75,0,Lower Back,Child's Pose
+26,176,78,0,Lower Back,Knee To Chest Stretch
+32,173,75,0,Lower Back,Child's Pose
+29,174,75,0,Lower Back,Knee To Chest Stretch
+30,176,78,0,Lower Back,Child's Pose
+28,173,75,0,Lower Back,Knee To Chest Stretch
+26,174,75,0,Lower Back,Child's Pose
+26,176,78,0,Lower Back,Knee To Chest Stretch
+28,173,76,0,Lower Back,Child's Pose
+32,174,75,0,Lower Back,Knee To Chest Stretch
+28,176,78,0,Lower Back,Child's Pose
+59,174,74,1,Shoulders,Side Lateral Raise
+50,164,80,1,Shoulders,Side Lateral Raise
+52,165,81,1,Shoulders,Side Lateral Raise
+54,166,65,1,Shoulders,Side Lateral Raise
+56,167,79,1,Shoulders,Overhead Dumbbell Front Raise
+58,168,63,1,Shoulders,Overhead Dumbbell Front Raise
+60,169,62,1,Shoulders,Overhead Dumbbell Front Raise
+62,170,64,1,Shoulders,Side Lateral Raise
+64,156,66,1,Shoulders,Standing Dumbbell Chest Fly
+50,155,67,1,Shoulders,Standing Dumbbell Chest Fly
+52,156,69,1,Shoulders,Standing Dumbbell Chest Fly
+54,157,79,1,Shoulders,Standing Dumbbell Chest Fly
+56,157,75,1,Shoulders,Standing Dumbbell Chest Fly
+58,158,81,1,Shoulders,Power Partials
+60,159,80,1,Shoulders,Power Partials
+62,157,85,1,Shoulders,Power Partials
+64,158,84,1,Shoulders,Power Partials
+50,156,83,1,Shoulders,Cuban Press
+52,162,81,1,Shoulders,Cuban Press
+54,162,80,1,Shoulders,Cuban Press
+56,163,85,1,Shoulders,Cuban Press
+58,164,82,1,Shoulders,Bent-Over Dumbbell Rear Delt Row
+60,165,76,1,Shoulders,Side Lateral Raise
+62,163,77,1,Shoulders,Side Lateral Raise
+64,166,66,1,Shoulders,Side Lateral Raise
+50,166,64,1,Shoulders,Side Lateral Raise
+52,165,60,1,Shoulders,Overhead Dumbbell Front Raise
+54,164,81,1,Shoulders,Overhead Dumbbell Front Raise
+56,168,80,1,Shoulders,Overhead Dumbbell Front Raise
+58,167,78,1,Shoulders,Side Lateral Raise
+60,164,79,1,Shoulders,Standing Dumbbell Chest Fly
+62,165,79,1,Shoulders,Standing Dumbbell Chest Fly
+64,165,64,1,Shoulders,Standing Dumbbell Chest Fly
+50,165,63,1,Shoulders,Standing Dumbbell Chest Fly
+52,169,62,1,Shoulders,Standing Dumbbell Chest Fly
+54,169,61,1,Shoulders,Power Partials
+56,169,66,1,Shoulders,Power Partials
+58,164,65,1,Shoulders,Power Partials
+60,164,66,1,Shoulders,Power Partials
+62,164,64,1,Shoulders,Cuban Press
+64,164,68,1,Shoulders,Cuban Press
+50,164,69,1,Shoulders,Cuban Press
+52,164,63,1,Shoulders,Cuban Press
+54,164,63,1,Shoulders,Bent-Over Dumbbell Rear Delt Row
+56,164,62,1,Shoulders,Side Lateral Raise
+58,164,63,1,Shoulders,Side Lateral Raise
+60,164,62,1,Shoulders,Side Lateral Raise
+62,165,64,1,Shoulders,Side Lateral Raise
+64,162,66,1,Shoulders,Overhead Dumbbell Front Raise
+50,163,61,1,Shoulders,Overhead Dumbbell Front Raise
+52,159,62,1,Shoulders,Overhead Dumbbell Front Raise
+54,159,63,1,Shoulders,Side Lateral Raise
+56,159,63,1,Shoulders,Standing Dumbbell Chest Fly
+58,158,62,1,Shoulders,Standing Dumbbell Chest Fly
+60,159,61,1,Shoulders,Standing Dumbbell Chest Fly
+62,157,61,1,Shoulders,Standing Dumbbell Chest Fly
+64,154,62,1,Shoulders,Standing Dumbbell Chest Fly
+50,156,63,1,Shoulders,Power Partials
+52,158,68,1,Shoulders,Power Partials
+54,158,69,1,Shoulders,Power Partials
+56,162,67,1,Shoulders,Power Partials
+58,162,67,1,Shoulders,Cuban Press
+60,163,68,1,Shoulders,Cuban Press
+62,164,67,1,Shoulders,Cuban Press
+64,170,69,1,Shoulders,Cuban Press
+50,156,76,1,Shoulders,Bent-Over Dumbbell Rear Delt Row
+52,155,78,1,Shoulders,Standing Dumbbell Shoulder Press
+54,156,79,1,Shoulders,Standing Dumbbell Shoulder Press
+56,157,75,1,Shoulders,Standing Dumbbell Shoulder Press
+58,157,78,1,Shoulders,Standing Dumbbell Shoulder Press
+60,158,78,1,Shoulders,Standing Dumbbell Shoulder Press
+62,159,73,1,Shoulders,Standing Dumbbell Shoulder Press
+64,157,74,1,Shoulders,Standing Dumbbell Shoulder Press
+50,158,74,1,Shoulders,Standing Dumbbell Shoulder Press
+52,156,74,1,Shoulders,Standing Dumbbell Shoulder Press
+54,162,75,1,Shoulders,Standing Dumbbell Shoulder Press
+56,162,76,1,Shoulders,Standing Dumbbell Shoulder Press
+58,163,77,1,Shoulders,Standing Dumbbell Shoulder Press
+60,164,74,1,Shoulders,Standing Dumbbell Shoulder Press
+62,165,79,1,Shoulders,Standing Dumbbell Shoulder Press
+64,163,72,1,Shoulders,Overhead Dumbbell Front Raise
+50,166,71,1,Shoulders,Overhead Dumbbell Front Raise
+52,166,71,1,Shoulders,Overhead Dumbbell Front Raise
+54,165,71,1,Shoulders,Standing Dumbbell Shoulder Press
+56,164,71,1,Shoulders,Standing Dumbbell Shoulder Press
+58,168,72,1,Shoulders,Standing Dumbbell Shoulder Press
+60,167,73,1,Shoulders,Standing Dumbbell Shoulder Press
+62,164,72,1,Shoulders,Standing Dumbbell Shoulder Press
+64,165,73,1,Shoulders,Standing Dumbbell Shoulder Press
+50,165,71,1,Shoulders,Standing Dumbbell Shoulder Press
+52,165,72,1,Shoulders,Standing Dumbbell Shoulder Press
+54,169,76,1,Shoulders,Standing Dumbbell Shoulder Press
+56,169,74,1,Shoulders,Standing Dumbbell Shoulder Press
+58,169,77,1,Shoulders,Standing Dumbbell Shoulder Press
+60,164,81,1,Shoulders,Standing Dumbbell Shoulder Press
+62,164,80,1,Shoulders,Standing Dumbbell Shoulder Press
+64,164,82,1,Shoulders,Standing Dumbbell Shoulder Press
+50,164,82,1,Shoulders,Standing Dumbbell Shoulder Press
+52,164,82,1,Shoulders,Standing Dumbbell Shoulder Press
+54,164,81,1,Shoulders,Standing Dumbbell Shoulder Press
+56,164,82,1,Shoulders,Standing Dumbbell Shoulder Press
+58,164,82,1,Shoulders,Standing Dumbbell Shoulder Press
+60,164,81,1,Shoulders,Standing Dumbbell Shoulder Press
+62,164,82,1,Shoulders,Standing Dumbbell Shoulder Press
+64,165,70,1,Shoulders,Standing Dumbbell Shoulder Press
+50,162,77,1,Shoulders,Standing Palms In Shoulder Press
+52,163,76,1,Shoulders,Standing Palms In Shoulder Press
+54,159,77,1,Shoulders,Standing Palms In Shoulder Press
+56,159,65,1,Shoulders,Standing Palms In Shoulder Press
+58,159,80,1,Shoulders,Standing Palms In Shoulder Press
+60,158,84,1,Shoulders,Standing Palms In Shoulder Press
+62,159,83,1,Shoulders,Standing Palms In Shoulder Press
+64,157,63,1,Shoulders,Standing Palms In Shoulder Press
+50,154,68,1,Shoulders,Standing Palms In Shoulder Press
+52,156,67,1,Shoulders,Standing Palms In Shoulder Press
+54,158,69,1,Shoulders,Standing Palms In Shoulder Press
+56,158,68,1,Shoulders,Standing Palms In Shoulder Press
+58,162,70,1,Shoulders,Standing Palms In Shoulder Press
+60,162,70,1,Shoulders,Standing Palms In Shoulder Press
+62,163,70,1,Shoulders,Standing Palms In Shoulder Press
+64,164,70,1,Shoulders,Standing Palms In Shoulder Press
+50,170,80,1,Shoulders,Standing Palms In Shoulder Press
+52,156,85,1,Shoulders,Standing Palms In Shoulder Press
+54,155,78,1,Shoulders,Standing Palms In Shoulder Press
+56,156,78,1,Shoulders,Standing Palms In Shoulder Press
+58,157,76,1,Shoulders,Standing Palms In Shoulder Press
+60,157,76,1,Shoulders,Standing Palms In Shoulder Press
+62,158,73,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+64,159,71,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+50,157,71,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+52,158,72,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+54,156,72,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+56,162,73,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+58,162,72,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+60,163,73,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+62,164,71,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+64,165,73,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+62,163,71,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+61,166,72,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+60,166,73,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+58,165,77,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+57,164,77,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+59,168,79,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+53,167,79,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+50,164,79,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+50,165,79,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+52,165,79,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+54,165,78,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+56,169,76,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+58,169,78,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+60,169,75,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+62,164,75,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+64,164,75,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+50,164,75,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+52,164,75,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+54,164,75,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+56,164,75,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+58,164,76,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+60,164,76,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+62,164,76,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+64,164,74,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+50,165,74,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+52,162,74,1,Shoulders,Dumbbell Front Raise
+54,163,74,1,Shoulders,Dumbbell Front Raise
+56,159,73,1,Shoulders,Dumbbell Front Raise
+58,159,72,1,Shoulders,Dumbbell Front Raise
+60,159,71,1,Shoulders,Dumbbell Front Raise
+62,158,79,1,Shoulders,Dumbbell Front Raise
+64,159,72,1,Shoulders,Dumbbell Front Raise
+52,157,71,1,Shoulders,Dumbbell Front Raise
+54,154,71,1,Shoulders,Dumbbell Front Raise
+58,156,71,1,Shoulders,Dumbbell Front Raise
+56,158,71,1,Shoulders,Dumbbell Front Raise
+58,158,72,1,Shoulders,Dumbbell Front Raise
+50,162,73,1,Shoulders,Dumbbell Front Raise
+52,162,72,1,Shoulders,Dumbbell Front Raise
+54,163,73,1,Shoulders,Dumbbell Front Raise
+58,164,71,1,Shoulders,Dumbbell Front Raise
+56,161,72,1,Shoulders,Dumbbell Front Raise
+52,161,76,1,Shoulders,Dumbbell Front Raise
+54,161,74,1,Shoulders,Dumbbell Front Raise
+56,161,77,1,Shoulders,Dumbbell Front Raise
+58,161,81,1,Shoulders,Dumbbell Front Raise
+60,162,80,1,Shoulders,Dumbbell Front Raise
+62,161,82,1,Shoulders,Dumbbell Front Raise
+64,161,82,1,Shoulders,Dumbbell Front Raise
+50,161,82,1,Shoulders,Dumbbell Front Raise
+52,160,81,1,Shoulders,Dumbbell Front Raise
+54,160,82,1,Shoulders,Dumbbell Front Raise
+56,160,82,1,Shoulders,Dumbbell Front Raise
+58,155,81,1,Shoulders,Dumbbell Front Raise
+60,156,82,1,Shoulders,Dumbbell Front Raise
+62,157,70,1,Shoulders,Dumbbell Front Raise
+64,158,77,1,Shoulders,Dumbbell Front Raise
+50,159,76,1,Shoulders,Dumbbell Front Raise
+60,156,77,1,Shoulders,Dumbbell Front Raise
+62,160,65,1,Shoulders,Dumbbell Front Raise
+61,161,73,1,Shoulders,Dumbbell Front Raise
+63,162,74,1,Shoulders,Dumbbell Front Raise
+65,163,74,1,Shoulders,Dumbbell Front Raise
+60,164,74,1,Shoulders,Dumbbell Front Raise
+62,165,75,1,Shoulders,Bent-Over Dumbbell Rear Delt Row
+60,166,76,1,Shoulders,Bent-Over Dumbbell Rear Delt Row
+62,167,77,1,Shoulders,Bent-Over Dumbbell Rear Delt Row
+64,168,74,1,Shoulders,Bent-Over Dumbbell Rear Delt Row
+64,169,70,1,Shoulders,Bent-Over Dumbbell Rear Delt Row
+52,170,80,1,Shoulders,Bent-Over Dumbbell Rear Delt Row
+54,171,85,1,Shoulders,Bent-Over Dumbbell Rear Delt Row
+56,170,78,1,Shoulders,Bent-Over Dumbbell Rear Delt Row
+58,172,78,1,Shoulders,Bent-Over Dumbbell Rear Delt Row
+60,173,76,1,Shoulders,Bent-Over Dumbbell Rear Delt Row
+62,174,76,1,Shoulders,Bent-Over Dumbbell Rear Delt Row
+64,175,73,1,Shoulders,Bent-Over Dumbbell Rear Delt Row
+50,176,71,1,Shoulders,Bent-Over Dumbbell Rear Delt Row
+52,162,71,1,Shoulders,Bent-Over Dumbbell Rear Delt Row
+54,163,72,1,Shoulders,Bent-Over Dumbbell Rear Delt Row
+56,164,72,1,Shoulders,Bent-Over Dumbbell Rear Delt Row
+58,165,73,1,Shoulders,Bent-Over Dumbbell Rear Delt Row
+60,166,75,1,Shoulders,Bent-Over Dumbbell Rear Delt Row
+58,167,81,1,Shoulders,Bent-Over Dumbbell Rear Delt Row
+54,168,80,1,Shoulders,Bent-Over Dumbbell Rear Delt Row
+50,169,85,1,Shoulders,Bent-Over Dumbbell Rear Delt Row
+52,170,84,1,Shoulders,Bent-Over Dumbbell Rear Delt Row
+54,162,83,1,Shoulders,Bent-Over Dumbbell Rear Delt Row
+56,163,81,1,Shoulders,Bent-Over Dumbbell Rear Delt Row
+58,164,80,1,Shoulders,Bent-Over Dumbbell Rear Delt Row
+60,165,85,1,Shoulders,Standing Dumbbell Fly
+62,166,82,1,Shoulders,Standing Dumbbell Fly
+64,167,76,1,Shoulders,Standing Dumbbell Fly
+62,168,77,1,Shoulders,Standing Dumbbell Fly
+60,169,66,1,Shoulders,Standing Dumbbell Fly
+60,170,64,1,Shoulders,Standing Dumbbell Fly
+60,175,60,1,Shoulders,Standing Dumbbell Fly
+64,176,81,1,Shoulders,Standing Dumbbell Fly
+52,162,80,1,Shoulders,Standing Dumbbell Fly
+58,163,78,1,Shoulders,Standing Dumbbell Fly
+54,164,79,1,Shoulders,Standing Dumbbell Fly
+50,165,65,1,Shoulders,Standing Dumbbell Fly
+54,166,64,1,Shoulders,Standing Dumbbell Fly
+52,167,63,1,Shoulders,Standing Dumbbell Fly
+52,170,75,1,Shoulders,Prone Horizontal Abduction
+52,171,81,1,Shoulders,Prone Horizontal Abduction
+54,170,80,1,Shoulders,Prone Horizontal Abduction
+54,172,85,1,Shoulders,Prone Horizontal Abduction
+50,173,84,1,Shoulders,Prone Horizontal Abduction
+52,174,83,1,Shoulders,Prone Horizontal Abduction
+54,175,81,1,Shoulders,Prone Horizontal Abduction
+56,176,80,1,Shoulders,Prone Horizontal Abduction
+58,170,85,1,Shoulders,Prone Horizontal Abduction
+60,171,82,1,Shoulders,Prone Horizontal Abduction
+62,170,76,1,Shoulders,Prone Horizontal Abduction
+64,172,77,1,Shoulders,Prone Horizontal Abduction
+50,173,66,1,Shoulders,Prone Horizontal Abduction
+50,174,64,1,Shoulders,Prone Horizontal Abduction
+50,175,60,1,Shoulders,Arom Side lying Abduction
+50,176,81,1,Shoulders,Arom Side lying Abduction
+52,170,80,1,Shoulders,Arom Side lying Abduction
+52,171,78,1,Shoulders,Arom Side lying Abduction
+52,170,79,1,Shoulders,Arom Side lying Abduction
+52,172,65,1,Shoulders,Arom Side lying Abduction
+54,173,64,1,Shoulders,Arom Side lying Abduction
+54,174,63,1,Shoulders,Arom Side lying Abduction
+54,175,82,1,Shoulders,Arom Side lying Abduction
+54,176,85,1,Shoulders,Arom Side lying Abduction
+56,158,75,1,Shoulders,Arom Side lying Abduction
+56,162,81,1,Shoulders,Alternating Dumbbell Front Raise
+56,162,80,1,Shoulders,Alternating Dumbbell Front Raise
+56,163,85,1,Shoulders,Alternating Dumbbell Front Raise
+58,164,84,1,Shoulders,Alternating Dumbbell Front Raise
+58,161,83,1,Shoulders,Alternating Dumbbell Front Raise
+58,161,81,1,Shoulders,Alternating Dumbbell Front Raise
+58,159,73,1,Shoulders,Alternating Dumbbell Front Raise
+60,157,74,1,Shoulders,Alternating Dumbbell Front Raise
+60,158,74,1,Shoulders,Alternating Dumbbell Front Raise
+60,156,74,1,Shoulders,Alternating Deltoid Raise
+62,162,75,1,Shoulders,Alternating Deltoid Raise
+50,162,76,1,Shoulders,Alternating Deltoid Raise
+52,163,77,1,Shoulders,Alternating Deltoid Raise
+54,164,74,1,Shoulders,Alternating Deltoid Raise
+56,165,79,1,Shoulders,Alternating Deltoid Raise
+58,163,72,1,Shoulders,Alternating Deltoid Raise
+60,166,71,1,Shoulders,Alternating Deltoid Raise
+62,166,71,1,Shoulders,Alternating Deltoid Raise
+64,165,71,1,Shoulders,Alternating Deltoid Raise
+62,164,71,1,Shoulders,Alternating Deltoid Raise
+62,168,72,1,Shoulders,Alternating Deltoid Raise
+62,167,73,1,Shoulders,Alternating Deltoid Raise
+64,164,72,1,Shoulders,Alternating Deltoid Raise
+64,170,85,1,Shoulders,Alternating Deltoid Raise
+64,172,84,1,Shoulders,Alternating Deltoid Raise
+50,173,83,1,Shoulders,Dumbbell Scaption
+52,174,81,1,Shoulders,Dumbbell Scaption
+54,175,80,1,Shoulders,Dumbbell Scaption
+56,176,85,1,Shoulders,Dumbbell Scaption
+58,162,82,1,Shoulders,Dumbbell Scaption
+60,163,85,1,Shoulders,Dumbbell Scaption
+62,164,84,1,Shoulders,Dumbbell Scaption
+64,165,83,1,Shoulders,Dumbbell Scaption
+50,166,81,1,Shoulders,Dumbbell Scaption
+51,167,80,1,Shoulders,Dumbbell External Shoulder Rotation
+52,168,85,1,Shoulders,Dumbbell External Shoulder Rotation
+53,169,82,1,Shoulders,Dumbbell External Shoulder Rotation
+59,174,74,1,Shoulders,Dumbbell External Shoulder Rotation
+50,164,80,1,Shoulders,Dumbbell External Shoulder Rotation
+52,165,81,1,Shoulders,Dumbbell External Shoulder Rotation
+54,166,65,1,Shoulders,Dumbbell External Shoulder Rotation
+56,167,79,1,Shoulders,Dumbbell External Shoulder Rotation
+58,168,63,1,Shoulders,Dumbbell External Shoulder Rotation
+60,169,62,1,Shoulders,Dumbbell External Shoulder Rotation
+62,170,64,1,Shoulders,Dumbbell External Shoulder Rotation
+64,156,66,1,Shoulders,Dumbbell External Shoulder Rotation
+50,155,67,1,Shoulders,Overhead Dumbbell Front Raise
+52,156,69,1,Shoulders,Overhead Dumbbell Front Raise
+54,157,79,1,Shoulders,Overhead Dumbbell Front Raise
+56,157,75,1,Shoulders,Overhead Dumbbell Front Raise
+58,158,81,1,Shoulders,Overhead Dumbbell Front Raise
+60,159,80,1,Shoulders,Overhead Dumbbell Front Raise
+62,157,85,1,Shoulders,Overhead Dumbbell Front Raise
+64,158,84,1,Shoulders,Overhead Dumbbell Front Raise
+50,156,83,1,Shoulders,Overhead Dumbbell Front Raise
+52,162,81,1,Shoulders,Overhead Dumbbell Front Raise
+54,162,80,1,Shoulders,Power Partials
+56,163,85,1,Shoulders,Power Partials
+58,164,82,1,Shoulders,Power Partials
+60,165,76,1,Shoulders,Power Partials
+62,163,77,1,Shoulders,Power Partials
+64,166,66,1,Shoulders,Power Partials
+50,166,64,1,Shoulders,Power Partials
+52,165,60,1,Shoulders,Side Lateral Raise
+54,164,81,1,Shoulders,Side Lateral Raise
+56,168,80,1,Shoulders,Side Lateral Raise
+58,167,78,1,Shoulders,Side Lateral Raise
+60,164,79,1,Shoulders,Side Lateral Raise
+62,165,79,1,Shoulders,Side Lateral Raise
+64,165,64,1,Shoulders,Side Lateral Raise
+50,165,63,1,Shoulders,Standing Dumbbell Chest Fly
+52,169,62,1,Shoulders,Standing Dumbbell Chest Fly
+54,169,61,1,Shoulders,Standing Dumbbell Chest Fly
+56,169,66,1,Shoulders,Standing Dumbbell Chest Fly
+58,164,65,1,Shoulders,Standing Dumbbell Chest Fly
+60,164,66,1,Shoulders,Standing Dumbbell Chest Fly
+62,164,64,1,Shoulders,Standing Dumbbell Chest Fly
+64,164,68,1,Shoulders,Standing Dumbbell Chest Fly
+50,164,69,1,Shoulders,Cuban Press
+52,164,63,1,Shoulders,Cuban Press
+54,164,63,1,Shoulders,Cuban Press
+56,164,62,1,Shoulders,Cuban Press
+58,164,63,1,Shoulders,Cuban Press
+60,164,62,1,Shoulders,Cuban Press
+62,165,64,1,Shoulders,Cuban Press
+64,162,66,1,Shoulders,Overhead Dumbbell Front Raise
+50,163,61,1,Shoulders,Overhead Dumbbell Front Raise
+52,159,62,1,Shoulders,Overhead Dumbbell Front Raise
+54,159,63,1,Shoulders,Overhead Dumbbell Front Raise
+56,159,63,1,Shoulders,Overhead Dumbbell Front Raise
+58,158,62,1,Shoulders,Overhead Dumbbell Front Raise
+60,159,61,1,Shoulders,Overhead Dumbbell Front Raise
+62,157,61,1,Shoulders,Power Partials
+64,154,62,1,Shoulders,Power Partials
+50,156,63,1,Shoulders,Power Partials
+52,158,68,1,Shoulders,Power Partials
+54,158,69,1,Shoulders,Power Partials
+56,162,67,1,Shoulders,Power Partials
+58,162,67,1,Shoulders,Power Partials
+60,163,68,1,Shoulders,Side Lateral Raise
+62,164,67,1,Shoulders,Side Lateral Raise
+64,170,69,1,Shoulders,Side Lateral Raise
+50,156,76,1,Shoulders,Standing Palms In Shoulder Press
+52,155,78,1,Shoulders,Standing Palms In Shoulder Press
+54,156,79,1,Shoulders,Standing Palms In Shoulder Press
+56,157,75,1,Shoulders,Standing Palms In Shoulder Press
+58,157,78,1,Shoulders,Standing Palms In Shoulder Press
+60,158,78,1,Shoulders,Standing Palms In Shoulder Press
+62,159,73,1,Shoulders,Standing Palms In Shoulder Press
+64,157,74,1,Shoulders,Standing Palms In Shoulder Press
+50,158,74,1,Shoulders,Standing Palms In Shoulder Press
+52,156,74,1,Shoulders,Standing Palms In Shoulder Press
+54,162,75,1,Shoulders,Standing Palms In Shoulder Press
+56,162,76,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+58,163,77,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+60,164,74,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+62,165,79,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+64,163,72,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+50,166,71,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+52,166,71,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+54,165,71,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+56,164,71,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+58,168,72,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+60,167,73,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+62,164,72,1,Shoulders,Bent-Over Dumbbell Rear Delt Row
+64,165,73,1,Shoulders,Bent-Over Dumbbell Rear Delt Row
+50,165,71,1,Shoulders,Bent-Over Dumbbell Rear Delt Row
+52,165,72,1,Shoulders,Bent-Over Dumbbell Rear Delt Row
+54,169,76,1,Shoulders,Bent-Over Dumbbell Rear Delt Row
+56,169,74,1,Shoulders,Bent-Over Dumbbell Rear Delt Row
+58,169,77,1,Shoulders,Bent-Over Dumbbell Rear Delt Row
+60,164,81,1,Shoulders,Bent-Over Dumbbell Rear Delt Row
+62,164,80,1,Shoulders,Bent-Over Dumbbell Rear Delt Row
+64,164,82,1,Shoulders,Bent-Over Dumbbell Rear Delt Row
+50,164,82,1,Shoulders,Bent-Over Dumbbell Rear Delt Row
+52,164,82,1,Shoulders,Bent-Over Dumbbell Rear Delt Row
+54,164,81,1,Shoulders,Bent-Over Dumbbell Rear Delt Row
+56,164,82,1,Shoulders,Bent-Over Dumbbell Rear Delt Row
+58,164,82,1,Shoulders,Bent-Over Dumbbell Rear Delt Row
+60,164,81,1,Shoulders,Bent-Over Dumbbell Rear Delt Row
+62,164,82,1,Shoulders,Bent-Over Dumbbell Rear Delt Row
+64,165,70,1,Shoulders,Standing Dumbbell Fly
+50,162,77,1,Shoulders,Standing Dumbbell Fly
+52,163,76,1,Shoulders,Standing Dumbbell Fly
+54,159,77,1,Shoulders,Standing Dumbbell Fly
+56,159,65,1,Shoulders,Standing Dumbbell Fly
+58,159,80,1,Shoulders,Standing Dumbbell Fly
+60,158,84,1,Shoulders,Standing Dumbbell Fly
+62,159,83,1,Shoulders,Standing Dumbbell Fly
+64,157,63,1,Shoulders,Standing Dumbbell Fly
+50,154,68,1,Shoulders,Standing Dumbbell Fly
+52,156,67,1,Shoulders,Standing Dumbbell Fly
+54,158,69,1,Shoulders,Bent-Over Dumbbell Rear Delt Row
+56,158,68,1,Shoulders,Standing Dumbbell Shoulder Press
+58,162,70,1,Shoulders,Standing Dumbbell Shoulder Press
+60,162,70,1,Shoulders,Standing Dumbbell Shoulder Press
+62,163,70,1,Shoulders,Standing Dumbbell Shoulder Press
+64,164,70,1,Shoulders,Standing Dumbbell Shoulder Press
+50,170,80,1,Shoulders,Standing Dumbbell Shoulder Press
+52,156,85,1,Shoulders,Standing Dumbbell Shoulder Press
+54,155,78,1,Shoulders,Standing Dumbbell Shoulder Press
+56,156,78,1,Shoulders,Standing Dumbbell Shoulder Press
+58,157,76,1,Shoulders,Standing Dumbbell Shoulder Press
+60,157,76,1,Shoulders,Standing Dumbbell Shoulder Press
+62,158,73,1,Shoulders,Standing Dumbbell Shoulder Press
+64,159,71,1,Shoulders,Standing Dumbbell Shoulder Press
+50,157,71,1,Shoulders,Standing Dumbbell Shoulder Press
+52,158,72,1,Shoulders,Overhead Dumbbell Front Raise
+54,156,72,1,Shoulders,Overhead Dumbbell Front Raise
+56,162,73,1,Shoulders,Overhead Dumbbell Front Raise
+58,162,72,1,Shoulders,Standing Dumbbell Shoulder Press
+60,163,73,1,Shoulders,Standing Dumbbell Shoulder Press
+62,164,71,1,Shoulders,Standing Dumbbell Shoulder Press
+64,165,73,1,Shoulders,Standing Dumbbell Shoulder Press
+62,163,71,1,Shoulders,Standing Dumbbell Shoulder Press
+61,166,72,1,Shoulders,Standing Dumbbell Shoulder Press
+60,166,73,1,Shoulders,Standing Dumbbell Shoulder Press
+58,165,77,1,Shoulders,Standing Dumbbell Shoulder Press
+57,164,77,1,Shoulders,Standing Dumbbell Shoulder Press
+59,168,79,1,Shoulders,Standing Dumbbell Shoulder Press
+53,167,79,1,Shoulders,Standing Dumbbell Shoulder Press
+50,164,79,1,Shoulders,Standing Dumbbell Shoulder Press
+50,165,79,1,Shoulders,Standing Dumbbell Shoulder Press
+52,165,79,1,Shoulders,Standing Dumbbell Shoulder Press
+54,165,78,1,Shoulders,Standing Dumbbell Shoulder Press
+56,169,76,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+58,169,78,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+60,169,75,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+62,164,75,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+64,164,75,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+50,164,75,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+52,164,75,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+54,164,75,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+56,164,75,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+58,164,76,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+60,164,76,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+62,164,76,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+64,164,74,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+50,165,74,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+52,162,74,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+54,163,74,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+56,159,73,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+58,159,72,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+60,159,71,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+62,158,79,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+64,159,72,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+52,157,71,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+54,154,71,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+58,156,71,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+56,158,71,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+58,158,72,1,Shoulders,Standing Dumbbell Shoulder Press
+50,162,73,1,Shoulders,Standing Dumbbell Shoulder Press
+52,162,72,1,Shoulders,Standing Dumbbell Shoulder Press
+54,163,73,1,Shoulders,Standing Dumbbell Shoulder Press
+58,164,71,1,Shoulders,Standing Palms In Shoulder Press
+56,161,72,1,Shoulders,Standing Palms In Shoulder Press
+52,161,76,1,Shoulders,Standing Palms In Shoulder Press
+54,161,74,1,Shoulders,Standing Palms In Shoulder Press
+56,161,77,1,Shoulders,Standing Palms In Shoulder Press
+58,161,81,1,Shoulders,Standing Palms In Shoulder Press
+60,162,80,1,Shoulders,Standing Palms In Shoulder Press
+62,161,82,1,Shoulders,Standing Palms In Shoulder Press
+64,161,82,1,Shoulders,Standing Palms In Shoulder Press
+50,161,82,1,Shoulders,Standing Palms In Shoulder Press
+52,160,81,1,Shoulders,Standing Palms In Shoulder Press
+54,160,82,1,Shoulders,Standing Palms In Shoulder Press
+56,160,82,1,Shoulders,Standing Palms In Shoulder Press
+58,155,81,1,Shoulders,Standing Palms In Shoulder Press
+60,156,82,1,Shoulders,Standing Palms In Shoulder Press
+62,157,70,1,Shoulders,Standing Palms In Shoulder Press
+64,158,77,1,Shoulders,Standing Palms In Shoulder Press
+50,159,76,1,Shoulders,Standing Palms In Shoulder Press
+60,156,77,1,Shoulders,Standing Palms In Shoulder Press
+62,160,65,1,Shoulders,Standing Palms In Shoulder Press
+61,161,73,1,Shoulders,Standing Palms In Shoulder Press
+63,162,74,1,Shoulders,Standing Palms In Shoulder Press
+65,163,74,1,Shoulders,Side Lateral Raise
+60,164,74,1,Shoulders,Side Lateral Raise
+62,165,75,1,Shoulders,Side Lateral Raise
+60,166,76,1,Shoulders,Side Lateral Raise
+62,167,77,1,Shoulders,Overhead Dumbbell Front Raise
+64,168,74,1,Shoulders,Overhead Dumbbell Front Raise
+64,169,70,1,Shoulders,Overhead Dumbbell Front Raise
+52,170,80,1,Shoulders,Side Lateral Raise
+54,171,85,1,Shoulders,Standing Dumbbell Chest Fly
+56,170,78,1,Shoulders,Standing Dumbbell Chest Fly
+58,172,78,1,Shoulders,Standing Dumbbell Chest Fly
+60,173,76,1,Shoulders,Standing Dumbbell Chest Fly
+62,174,76,1,Shoulders,Standing Dumbbell Chest Fly
+64,175,73,1,Shoulders,Power Partials
+50,176,71,1,Shoulders,Power Partials
+52,162,71,1,Shoulders,Power Partials
+54,163,72,1,Shoulders,Power Partials
+56,164,72,1,Shoulders,Cuban Press
+58,165,73,1,Shoulders,Cuban Press
+60,166,75,1,Shoulders,Cuban Press
+58,167,81,1,Shoulders,Cuban Press
+54,168,80,1,Shoulders,Bent-Over Dumbbell Rear Delt Row
+50,169,85,1,Shoulders,Side Lateral Raise
+52,170,84,1,Shoulders,Side Lateral Raise
+54,162,83,1,Shoulders,Side Lateral Raise
+56,163,81,1,Shoulders,Side Lateral Raise
+58,164,80,1,Shoulders,Overhead Dumbbell Front Raise
+60,165,85,1,Shoulders,Overhead Dumbbell Front Raise
+62,166,82,1,Shoulders,Overhead Dumbbell Front Raise
+64,167,76,1,Shoulders,Side Lateral Raise
+62,168,77,1,Shoulders,Standing Dumbbell Chest Fly
+60,169,66,1,Shoulders,Standing Dumbbell Chest Fly
+60,170,64,1,Shoulders,Standing Dumbbell Chest Fly
+60,175,60,1,Shoulders,Standing Dumbbell Chest Fly
+64,176,81,1,Shoulders,Standing Dumbbell Chest Fly
+52,162,80,1,Shoulders,Power Partials
+58,163,78,1,Shoulders,Power Partials
+54,164,79,1,Shoulders,Power Partials
+50,165,65,1,Shoulders,Power Partials
+54,166,64,1,Shoulders,Cuban Press
+52,167,63,1,Shoulders,Arom Side lying Abduction
+52,170,75,1,Shoulders,Arom Side lying Abduction
+52,171,81,1,Shoulders,Arom Side lying Abduction
+54,170,80,1,Shoulders,Arom Side lying Abduction
+54,172,85,1,Shoulders,Arom Side lying Abduction
+50,173,84,1,Shoulders,Arom Side lying Abduction
+52,174,83,1,Shoulders,Arom Side lying Abduction
+54,175,81,1,Shoulders,Alternating Dumbbell Front Raise
+56,176,80,1,Shoulders,Alternating Dumbbell Front Raise
+58,170,85,1,Shoulders,Alternating Dumbbell Front Raise
+60,171,82,1,Shoulders,Alternating Dumbbell Front Raise
+62,170,76,1,Shoulders,Alternating Dumbbell Front Raise
+64,172,77,1,Shoulders,Alternating Dumbbell Front Raise
+50,173,66,1,Shoulders,Alternating Dumbbell Front Raise
+50,174,64,1,Shoulders,Alternating Dumbbell Front Raise
+50,175,60,1,Shoulders,Alternating Dumbbell Front Raise
+50,176,81,1,Shoulders,Alternating Deltoid Raise
+52,170,80,1,Shoulders,Alternating Deltoid Raise
+52,171,78,1,Shoulders,Alternating Deltoid Raise
+52,170,79,1,Shoulders,Alternating Deltoid Raise
+52,172,65,1,Shoulders,Alternating Deltoid Raise
+54,173,64,1,Shoulders,Alternating Deltoid Raise
+54,174,63,1,Shoulders,Alternating Deltoid Raise
+54,175,82,1,Shoulders,Standing Dumbbell Fly
+54,176,85,1,Shoulders,Standing Dumbbell Fly
+56,158,75,1,Shoulders,Standing Dumbbell Fly
+56,162,81,1,Shoulders,Standing Dumbbell Fly
+56,162,80,1,Shoulders,Standing Dumbbell Fly
+56,163,85,1,Shoulders,Bent-Over Dumbbell Rear Delt Row
+58,164,84,1,Shoulders,Standing Dumbbell Shoulder Press
+58,161,83,1,Shoulders,Standing Dumbbell Shoulder Press
+58,161,81,1,Shoulders,Standing Dumbbell Shoulder Press
+58,159,73,1,Shoulders,Standing Dumbbell Shoulder Press
+60,157,74,1,Shoulders,Standing Dumbbell Shoulder Press
+60,158,74,1,Shoulders,Standing Dumbbell Shoulder Press
+60,156,74,1,Shoulders,Standing Dumbbell Shoulder Press
+62,162,75,1,Shoulders,Standing Dumbbell Shoulder Press
+50,162,76,1,Shoulders,Standing Dumbbell Shoulder Press
+52,163,77,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+54,164,74,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+56,165,79,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+58,163,72,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+60,166,71,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+62,166,71,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+64,165,71,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+62,164,71,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+62,168,72,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+62,167,73,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+64,164,72,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+64,170,85,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+64,172,84,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+50,173,83,1,Shoulders,Dumbbell Front Raise To Lateral Raise
+52,174,81,1,Shoulders,Dumbbell Front Raise
+54,175,80,1,Shoulders,Dumbbell Front Raise
+56,176,85,1,Shoulders,Dumbbell Front Raise
+58,162,82,1,Shoulders,Dumbbell Front Raise
+60,163,85,1,Shoulders,Dumbbell Front Raise
+62,164,84,1,Shoulders,Dumbbell Front Raise
+64,165,83,1,Shoulders,Dumbbell Front Raise
+50,166,81,1,Shoulders,Dumbbell Front Raise
+51,167,80,1,Shoulders,Dumbbell Front Raise
+52,168,85,1,Shoulders,Dumbbell Front Raise
+53,169,82,1,Shoulders,Dumbbell Front Raise
